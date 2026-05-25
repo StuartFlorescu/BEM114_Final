@@ -1,143 +1,43 @@
-# BEM 114 Final Project: Referee-Aware NBA Free Throw Attempt Strategy
+# BEM 114 Final Project: Contact-Aware NBA Player Points Prop Strategy
 
 This repo contains our BEM 114 hedge fund final project.
 
 ## Strategy
 
-We are studying a referee-aware NBA player free throw attempt strategy. The idea is that player free throw attempts are affected by:
+We are studying a sports-statistical-arbitrage strategy for NBA player points over/under markets.
 
-- player foul-drawing ability
-- projected minutes
-- opponent foul tendency
-- referee crew strictness
-- matchup/contact environment
+The original idea was to model player free throw attempts, but free historical FTA prop lines were not available from the free API sources we tested. We therefore pivoted to real player points prop lines, which are available through The Odds API free tier.
 
-The goal is to build a historical signal/backtest that predicts whether a player is likely to exceed a free throw attempt line.
+The core idea is still contact-based: foul drawing, recent minutes, shot volume, opponent foul tendency, and opponent free throw environment may help predict whether a player goes over or under his points line.
 
-If we can get free historical prop odds, we will use real market lines. If not, we will use synthetic lines based on trailing player free throw attempts and clearly describe the backtest as a signal-validation backtest.
+## Current Pipeline
 
-## Repo Structure
-
-```text
-config/
-  settings.yaml
-
-data/
-  raw/          raw data pulled from APIs or downloaded manually
-  processed/    cleaned/model-ready data
-  outputs/      predictions, trades, and backtest results
-
-notebooks/
-  01_data_check.ipynb
-  02_feature_exploration.ipynb
-  03_results_and_charts.ipynb
-
-src/
-  pull_data.py
-  build_features.py
-  train_model.py
-  run_backtest.py
-  make_charts.py
-  utils.py
-
-scripts/
-  01_pull_data.py
-  02_build_features.py
-  03_train_and_backtest.py
-  04_make_outputs.py
-
-reports/
-  figures/
-  tables/
-
-
-
-
-```
-
-## Setup
-
-Create and activate a virtual environment:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-Install packages:
-
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-Test that the environment works:
-
-```bash
-python -c "import pandas, numpy, sklearn, matplotlib, nba_api, yaml, requests; print('Environment works')"
-```
+1. Pull NBA player-game logs from nba_api.
+2. Build rolling player and opponent features.
+3. Pull real player_points odds from The Odds API.
+4. Convert raw sportsbook odds into clean book-level and consensus betting boards.
+5. Use the feature table and real market board for model development and trade candidate analysis.
 
 ## Workflow
 
-Do not commit large raw data files or generated output files. The `.gitignore` is set up so that `data/raw`, `data/processed`, `data/outputs`, `reports/figures`, and `reports/tables` are ignored except for `.gitkeep` files.
+Build the NBA feature table:
 
-Each person should work on their own branch and avoid pushing directly to `main`.
+    python scripts/01_pull_data.py
+    python scripts/02_build_features.py
 
-Suggested branch names:
+Pull real player points odds:
 
-```text
-stuart/data-pull
-partner/referee-data
-partner/model-backtest
-partner/report-charts
-```
+    ODDS_API_KEY="93eeb80cc7a16cdaed36e6109ba8d363" python scripts/05_pull_real_points_lines.py
 
-## Project Tasks
+Build the clean real-market board:
 
-### Stuart / Data Pipeline
+    python scripts/06_build_real_points_board.py
 
-- Pull NBA player-game logs from `nba_api`
-- Save raw player-game data to `data/raw/player_games.csv`
-- Clean player-game data into `data/processed/player_games_clean.csv`
+## Current Framing
 
-### Partner 1 / Referee Data
+This project now has two pieces:
 
-- Download or import historical referee assignment data
-- Clean it into `data/processed/referee_assignments_clean.csv`
-- Build referee crew strictness features
+1. Public NBA feature pipeline: player form, foul drawing, minutes, shot volume, and opponent foul environment.
+2. Real sportsbook market data: player points lines and odds from multiple books.
 
-### Partner 2 / Modeling and Backtest
-
-- Build baseline model without referees
-- Add referee-aware features
-- Compare baseline vs referee-aware model
-- Run synthetic-line over/under backtest
-
-### Everyone / Final Report
-
-- Explain strategy logic
-- Explain data sources
-- Explain model and backtest construction
-- Analyze returns and risks
-- Prepare final figures and presentation slides
-
-## First Pipeline Goal
-
-The first real output should be:
-
-```text
-data/raw/player_games.csv
-```
-
-Then:
-
-```text
-data/processed/modeling_table.csv
-```
-
-Then:
-
-```text
-data/outputs/backtest_summary.csv
-```
-```
+The final model should compare our predicted probability of going over a points line against the market's no-vig implied probability.

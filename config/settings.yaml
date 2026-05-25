@@ -3,11 +3,10 @@ seasons:
   - "2022-23"
   - "2023-24"
   - "2024-25"
+  - "2025-26"
 
 season_types:
   - "Regular Season"
-
-train_end_date: "2024-10-01"
 
 rolling_windows:
   player_short: 10
@@ -15,8 +14,8 @@ rolling_windows:
   opponent: 10
   referee: 20
 
-synthetic_line_rounding: 0.5
+odds_market: "player_points"
+odds_regions: "us"
+odds_format: "american"
 
-trading_thresholds:
-  over: 0.58
-  under: 0.42
+edge_threshold: 0.08
