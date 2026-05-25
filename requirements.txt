@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nba_api
+requests
+pyyaml
+kagglehub
+jupyter

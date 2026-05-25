@@ -1,0 +1,22 @@
+seasons:
+  - "2021-22"
+  - "2022-23"
+  - "2023-24"
+  - "2024-25"
+
+season_types:
+  - "Regular Season"
+
+train_end_date: "2024-10-01"
+
+rolling_windows:
+  player_short: 10
+  player_long: 20
+  opponent: 10
+  referee: 20
+
+synthetic_line_rounding: 0.5
+
+trading_thresholds:
+  over: 0.58
+  under: 0.42

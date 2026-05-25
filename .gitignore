@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/outputs/*
+!data/outputs/.gitkeep
+
+reports/figures/*
+!reports/figures/.gitkeep
+
+reports/tables/*
+!reports/tables/.gitkeep
+
+# local environments
+.venv/
+venv/
+
+# local secrets
+*.env
