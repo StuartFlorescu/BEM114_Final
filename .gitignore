@@ -4,15 +4,6 @@ __pycache__/
 .DS_Store
 .env
 
-data/raw/*
-!data/raw/.gitkeep
-
-data/processed/*
-!data/processed/.gitkeep
-
-data/outputs/*
-!data/outputs/.gitkeep
-
 reports/figures/*
 !reports/figures/.gitkeep
 
@@ -25,3 +16,6 @@ venv/
 
 # local secrets
 *.env
+
+src/pull_2025_26_backwards_with_odds.py
+src/pull_2025_26_props_minimal.py
