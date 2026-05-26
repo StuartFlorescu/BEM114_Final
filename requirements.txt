@@ -4,6 +4,7 @@ scikit-learn
 matplotlib
 nba_api
 requests
+beautifulsoup4
 pyyaml
 kagglehub
 jupyter
