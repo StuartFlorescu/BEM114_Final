@@ -25,3 +25,13 @@ reports/audit/
 archive/
 # Optional generated outputs
 data/outputs/*.csv
+
+# Large local data files used for the final backtest
+data/raw/player_games.csv
+data/processed/player_games_clean.csv
+data/processed/modeling_table.csv
+
+# Local inspection outputs
+inspect_project_state.py
+reports/project_state_inspection_console.txt
+reports/project_state_inspection.txt
