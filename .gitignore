@@ -19,3 +19,9 @@ venv/
 
 src/pull_2025_26_backwards_with_odds.py
 src/pull_2025_26_props_minimal.py
+# Local / generated files
+# Generated reports / local archives
+reports/audit/
+archive/
+# Optional generated outputs
+data/outputs/*.csv

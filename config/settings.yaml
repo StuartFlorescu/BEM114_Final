@@ -1,22 +1,47 @@
+project_name: "BEM 114 Final Project: Contact-Aware NBA Player Points Prop Strategy"
+
 seasons:
   - "2021-22"
   - "2022-23"
   - "2023-24"
   - "2024-25"
+  - "2025-26"
 
 season_types:
   - "Regular Season"
 
-train_end_date: "2024-10-01"
+paths:
+  raw_player_games: "data/raw/player_games.csv"
+  clean_player_games: "data/processed/player_games_clean.csv"
+  modeling_table: "data/processed/modeling_table.csv"
+
+  historical_props_with_odds: "data/raw/nba_2025_26_draftkings_props_with_odds.csv"
+  historical_props_line_only: "data/raw/nba_2025_26_draftkings_player_points_props.csv"
+
+  clean_market_table: "data/processed/draftkings_player_points_clean.csv"
+  props_with_results: "data/processed/player_points_props_with_results.csv"
+  modeling_dataset: "data/processed/player_points_modeling_dataset.csv"
+
+  trades_output: "data/outputs/trades.csv"
 
 rolling_windows:
   player_short: 10
   player_long: 20
   opponent: 10
-  referee: 20
 
-synthetic_line_rounding: 0.5
+edge_thresholds:
+  - 0.025
+  - 0.050
+  - 0.075
+  - 0.100
 
-trading_thresholds:
-  over: 0.58
-  under: 0.42
+market:
+  sportsbook: "DraftKings"
+  market_key: "player_points"
+  remove_vig: true
+
+backtest:
+  target: "went_over"
+  push_handling: "zero_return"
+  stake_per_trade: 1.0
+  train_test_split_type: "time_based"
