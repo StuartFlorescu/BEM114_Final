@@ -63,6 +63,7 @@ REG_SEASON_LAST_DAY: dict[str, date] = {
     "2022-23": date(2023, 4, 9),
     "2023-24": date(2024, 4, 14),
     "2024-25": date(2025, 4, 13),
+    "2025-26": date(2026, 4, 12),
 }
 
 SCHEDULE_MONTHS = ["october", "november", "december", "january", "february", "march", "april"]
