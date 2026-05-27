@@ -35,3 +35,23 @@ data/processed/modeling_table.csv
 inspect_project_state.py
 reports/project_state_inspection_console.txt
 reports/project_state_inspection.txt
+# Large local data files used for modeling/backtesting
+data/processed/draftkings_player_points_clean.csv
+data/processed/player_points_props_with_results.csv
+data/processed/player_points_modeling_dataset.csv
+data/processed/player_points_modeling_dataset_with_matchups.csv
+data/processed/player_points_modeling_dataset_with_referees.csv
+# Referee raw/local scrape state
+data/raw/referee_games.csv
+data/raw/.referee_scrape_progress.json
+# Generated model outputs
+reports/tables/*.csv
+reports/figures/*.png
+# Local archives and repo health audits
+reports/repo_health/
+# Local inspection scripts
+repo_snapshot.py
+cleanup_final_project_repo.py
+cleanup_final_project_repo.sh
+test_ref_branch.sh
+make_final_report_numbers.sh

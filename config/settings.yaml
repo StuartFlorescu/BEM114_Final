@@ -15,7 +15,7 @@ paths:
   historical_props_line_only: data/raw/nba_2025_26_draftkings_player_points_props.csv
   clean_market_table: data/processed/draftkings_player_points_clean.csv
   props_with_results: data/processed/player_points_props_with_results.csv
-  modeling_dataset: data/processed/player_points_modeling_dataset_with_matchups.csv
+  modeling_dataset: data/processed/player_points_modeling_dataset_with_referees.csv
   trades_output: data/outputs/trades.csv
 rolling_windows:
   player_short: 10

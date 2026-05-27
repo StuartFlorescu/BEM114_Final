@@ -1,97 +1,151 @@
-# BEM 114 Final Project: Contact-Aware NBA Player Points Prop Strategy
+# BEM 114 Final Project: NBA Player Points Prop Strategy
 
 This repo contains our BEM 114 hedge fund final project.
 
-We are building a sports-statistical-arbitrage strategy for NBA player points over/under markets. The core idea is to compare our model-implied probability that a player goes over his posted points line against the no-vig market-implied probability from sportsbook odds. The strategy trades only when the model-market edge is large enough.
+We test a DraftKings NBA player-points over/under strategy. The core idea is to compare our model-implied probability that a player goes over his posted points line against the no-vig market-implied probability from DraftKings odds. We only trade when the model-market edge is large enough.
 
-## Strategy
+## Strategy Summary
 
-The asset is an NBA player-points prop contract.
+The traded contract is an NBA player-points prop.
 
 For each player-game prop, we observe:
 
 - player
-- game
-- date
+- game date
+- matchup
 - DraftKings points line
-- over odds
-- under odds
+- Over odds
+- Under odds
 - actual player points
-- pre-game rolling basketball/contact features
+- rolling player features
+- defense matchup features
+- optional referee crew features
 
-The model estimates the probability that a player scores more than his posted DraftKings points line.
+The model estimates the probability that a player scores more than his DraftKings points line.
 
-Basic trading rule:
+Trading rule:
 
-- Bet Over if model_prob - market_prob > edge_threshold
-- Bet Under if market_prob - model_prob > edge_threshold
-- No trade otherwise
+- Bet Over if model_prob_over - market_prob_over_novig > edge_threshold.
+- Bet Under if market_prob_over_novig - model_prob_over > edge_threshold.
+- No trade otherwise.
 
-We test edge thresholds such as 2.5%, 5.0%, 7.5%, and 10.0%.
+We test edge thresholds of 2.5%, 5.0%, 7.5%, and 10.0%.
 
-## Main Data
+## Current Pipeline
 
-Final model inputs:
+Run these scripts in order:
 
-- data/raw/nba_2025_26_draftkings_props_with_odds.csv
-- data/raw/nba_2025_26_draftkings_player_points_props.csv
-- data/raw/player_games.csv
-- data/processed/player_games_clean.csv
-- data/processed/modeling_table.csv
+    python3 scripts/02_build_features.py
+    python3 scripts/025_add_matchup_features.py
+    python3 scripts/026_add_referee_features.py
+    python3 scripts/03_train_and_backtest.py
+    python3 scripts/04_make_outputs.py
 
-The most important market dataset is:
+## What Each Script Does
 
-- data/raw/nba_2025_26_draftkings_props_with_odds.csv
+### scripts/02_build_features.py
 
-It contains historical DraftKings player-points lines with Over/Under sides and American odds.
+This script:
 
-## Final Pipeline
+- cleans DraftKings prop odds
+- pivots Over/Under rows into one row per player-game-line
+- computes no-vig market probabilities
+- matches props to actual NBA player-game outcomes
+- joins rolling player features
 
-The intended final pipeline is:
-
-1. Clean historical DraftKings props.
-2. Pivot Over/Under rows into one market row per player-game-line.
-3. Match each prop to NBA player-game outcomes.
-4. Add actual points, went_over, went_under, and push indicators.
-5. Merge pre-game rolling features.
-6. Compute no-vig market-implied probabilities.
-7. Train baseline model.
-8. Run edge-threshold trading backtest.
-9. Produce final tables and charts.
-
-Expected processed outputs:
+Main outputs:
 
 - data/processed/draftkings_player_points_clean.csv
 - data/processed/player_points_props_with_results.csv
 - data/processed/player_points_modeling_dataset.csv
+
+### scripts/025_add_matchup_features.py
+
+This script adds opponent matchup features based on how defenses perform against similar scorer/contact roles.
+
+Main output:
+
+- data/processed/player_points_modeling_dataset_with_matchups.csv
+
+### scripts/026_add_referee_features.py
+
+This script adds referee crew features such as foul environment, FTA environment, scoring environment, and contact strictness.
+
+Main output:
+
+- data/processed/player_points_modeling_dataset_with_referees.csv
+
+### scripts/03_train_and_backtest.py
+
+This script:
+
+- trains a logistic regression model
+- compares model probabilities to no-vig market probabilities
+- runs threshold-based backtests
+- writes model metrics, predictions, trades, and summary results
+
+Main outputs:
+
+- data/outputs/model_predictions.csv
+- data/outputs/model_metrics.csv
+- data/outputs/model_coefficients.csv
 - data/outputs/trades.csv
+- data/outputs/backtest_summary.csv
+
+### scripts/04_make_outputs.py
+
+This script creates diagnostic tables by threshold, side, player role, line bucket, contact bucket, matchup bucket, and other slices.
+
+Main outputs:
+
+- reports/tables/
+- reports/figures/
+- reports/strategy_diagnostic_summary.txt
+
+## Final Report Numbers
+
+The clean final numbers are stored here:
+
+- reports/final_numbers/FINAL_REPORT_NUMBERS.md
+
+Main conclusion:
+
+- The broad model does not beat the market overall.
+- Defense-only test AUC is 0.5169 versus market test AUC of 0.5355.
+- Referee-enhanced test AUC is 0.5173 versus market test AUC of 0.5355.
+- The defense-only 7.5% edge filter is profitable:
+  - 315 bets
+  - 11.45% of the test board
+  - 54.29% hit rate
+  - +1.81% average return per bet
+  - +5.70 units
+- The broad referee-enhanced 7.5% filter is not profitable:
+  - 559 bets
+  - 20.32% of the test board
+  - 53.31% hit rate
+  - -0.23% average return per bet
+  - -1.31 units
+- The strongest evidence is in high-conviction matchup/contact slices.
+
+## Final Interpretation
+
+This is not a broad market-beating model. It is better understood as a selective filter. The model is most useful when it identifies a large model-market disagreement and the matchup/contact environment supports the edge.
+
+Final project story:
+
+DraftKings player-points markets are difficult to beat broadly, but edge appears concentrated in high-conviction matchup/contact situations.
 
 ## Repo Structure
 
-config/ contains project settings.
+- config/: project settings
+- data/raw/: raw input data
+- data/processed/: cleaned and model-ready data
+- data/outputs/: generated model/backtest outputs
+- scripts/: command-line entry points
+- src/: source code
+- reports/final_numbers/: final report-ready numbers
+- reports/repo_health/: repo audit files
 
-data/raw/ contains raw pulled or downloaded data.
+## Notes
 
-data/processed/ contains cleaned and model-ready data.
-
-data/outputs/ contains predictions, trades, backtest results, and charts.
-
-notebooks/ contains exploratory notebooks.
-
-scripts/ contains command-line entry points.
-
-src/ contains project source code.
-
-## What Is Not Part of the Final Strategy
-
-The repo previously explored several fallback ideas and data sources. These are not part of the final model:
-
-- synthetic free throw attempt lines
-- Kalshi combo contracts
-- Kaggle game-level betting data
-
-Those files have been moved to archive/ if they existed locally.
-
-## Project Goal
-
-The final deliverable should show a complete historical player-points prop strategy using real DraftKings historical lines and odds, NBA player outcomes, pre-game rolling contact features, no-vig market probabilities, model probabilities, and an edge-based backtest with returns and risk statistics.
+Large local data files and generated outputs are ignored by Git where appropriate. The report-ready results are preserved in reports/final_numbers/.

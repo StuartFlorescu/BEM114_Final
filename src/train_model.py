@@ -87,7 +87,7 @@ def main():
 
     auto_matchup_features = [
         c for c in df.columns
-        if c.startswith("def_role_") or c.startswith("matchup_")
+        if c.startswith("def_role_") or c.startswith("matchup_") or c.startswith("crew_") or c.startswith("ref_") or c.startswith("player_side_ref_")
     ]
 
     features = [c for c in FEATURE_CANDIDATES if c in df.columns]
