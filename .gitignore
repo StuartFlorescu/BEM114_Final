@@ -5,6 +5,9 @@ __pycache__/
 .env
 .claude
 
+# run logs may contain secrets in request URLs (never commit)
+*.log
+
 reports/referee_strategy/figures/*
 !reports/referee_strategy/figures/.gitkeep
 
