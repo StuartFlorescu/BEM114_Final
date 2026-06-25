@@ -8,9 +8,9 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config/settings.yaml"
 
 PRED_PATH = ROOT / "data/outputs/model_predictions.csv"
-OUT_DIR = ROOT / "reports/tables"
-FIG_DIR = ROOT / "reports/figures"
-SUMMARY_PATH = ROOT / "reports/strategy_diagnostic_summary.txt"
+OUT_DIR = ROOT / "reports/referee_strategy/tables"
+FIG_DIR = ROOT / "reports/referee_strategy/figures"
+SUMMARY_PATH = ROOT / "reports/referee_strategy/strategy_diagnostic_summary.txt"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 FIG_DIR.mkdir(parents=True, exist_ok=True)

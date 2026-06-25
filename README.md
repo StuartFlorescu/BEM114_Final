@@ -1,151 +1,56 @@
-# BEM 114 Final Project: NBA Player Points Prop Strategy
+# NBA Betting Research — Two Projects, Shared Data
 
-This repo contains our BEM 114 hedge fund final project.
+This repo holds **two separate research projects** that share the same data and
+infrastructure. They are kept apart so each tells its own story.
 
-We test a DraftKings NBA player-points over/under strategy. The core idea is to compare our model-implied probability that a player goes over his posted points line against the no-vig market-implied probability from DraftKings odds. We only trade when the model-market edge is large enough.
+```
+├── config/                 SHARED  project settings (seasons, paths, thresholds)
+├── data/                   SHARED  raw/, processed/, outputs/  (NBA logs, odds, referees)
+├── src/                    code modules  (shared pullers + per-project logic)
+├── scripts/                CLI entrypoints
+└── reports/
+    ├── referee_strategy/   PROJECT 1 outputs + writeups
+    └── alpha_scanner/      PROJECT 2 outputs + writeups
+```
 
-## Strategy Summary
+---
 
-The traded contract is an NBA player-points prop.
+## Shared infrastructure (used by both projects)
 
-For each player-game prop, we observe:
+**Data acquisition** (`src/` + `scripts/`):
+- `01_pull_data` — NBA player game logs via `nba_api` (5 seasons)
+- `scrape_referees` — Basketball-Reference referee crews
+- `05_pull_real_points_lines` / `05b_pull_historical_points_lines` — DraftKings player-points odds (The Odds API)
+- `05c_pull_totals` — DraftKings game-total odds (bulk featured market)
+- `015_merge_odds` — merge odds files into one market table
 
-- player
-- game date
-- matchup
-- DraftKings points line
-- Over odds
-- Under odds
-- actual player points
-- rolling player features
-- defense matchup features
-- optional referee crew features
+**Data** (`data/raw`, `data/processed`, `data/outputs`) and **config** (`config/settings.yaml`)
+are shared by both projects.
 
-The model estimates the probability that a player scores more than his DraftKings points line.
+Secrets: `ODDS_API_KEY` lives in `.env.local` (gitignored). Use the project venv `.venv`.
 
-Trading rule:
+---
 
-- Bet Over if model_prob_over - market_prob_over_novig > edge_threshold.
-- Bet Under if market_prob_over_novig - model_prob_over > edge_threshold.
-- No trade otherwise.
+## Project 1 — Referee-Aware Player-Points Prop Strategy *(academic / BEM 114)*
 
-We test edge thresholds of 2.5%, 5.0%, 7.5%, and 10.0%.
+Can a referee-aware model beat the DraftKings player-points market? **Conclusion: no** —
+the market is efficient; signals are real but priced in (see writeup).
 
-## Current Pipeline
+- **Code:** `018_build_modeling_table`, `02_build_features`, `025_add_matchup_features`,
+  `026_add_referee_features`, `03_train_and_backtest`, `04_make_outputs`,
+  `src/build_totals_dataset.py` (referee→totals test)
+- **Run:** `018 → 02 → 025 → 026 → 03 → 04`
+- **Writeups:** [`reports/referee_strategy/final_numbers/REBUILD_3SEASON_RESULTS.md`](reports/referee_strategy/final_numbers/REBUILD_3SEASON_RESULTS.md)
+  (validated results) and [`reports/referee_strategy/PRESENTATION_15_SLIDES.md`](reports/referee_strategy/PRESENTATION_15_SLIDES.md).
+  Older docs (`FINAL_REPORT_NUMBERS.md`, `PROJECT_STATE.md`, `INFO_FOR_WRITEUP.md`) are
+  pre-rebuild and **superseded**.
 
-Run these scripts in order:
+## Project 2 — Soft-vs-Sharp +EV Scanner *(alpha hunting)*
 
-    python3 scripts/02_build_features.py
-    python3 scripts/025_add_matchup_features.py
-    python3 scripts/026_add_referee_features.py
-    python3 scripts/03_train_and_backtest.py
-    python3 scripts/04_make_outputs.py
+Stop trying to out-predict the market; exploit its **microstructure** instead. Treat the
+sharp consensus (Pinnacle / market median) as "true" probability and find soft US books
+(DraftKings, etc.) offering +EV prices. Validate with **Closing Line Value (CLV)**, not noisy P&L.
 
-## What Each Script Does
-
-### scripts/02_build_features.py
-
-This script:
-
-- cleans DraftKings prop odds
-- pivots Over/Under rows into one row per player-game-line
-- computes no-vig market probabilities
-- matches props to actual NBA player-game outcomes
-- joins rolling player features
-
-Main outputs:
-
-- data/processed/draftkings_player_points_clean.csv
-- data/processed/player_points_props_with_results.csv
-- data/processed/player_points_modeling_dataset.csv
-
-### scripts/025_add_matchup_features.py
-
-This script adds opponent matchup features based on how defenses perform against similar scorer/contact roles.
-
-Main output:
-
-- data/processed/player_points_modeling_dataset_with_matchups.csv
-
-### scripts/026_add_referee_features.py
-
-This script adds referee crew features such as foul environment, FTA environment, scoring environment, and contact strictness.
-
-Main output:
-
-- data/processed/player_points_modeling_dataset_with_referees.csv
-
-### scripts/03_train_and_backtest.py
-
-This script:
-
-- trains a logistic regression model
-- compares model probabilities to no-vig market probabilities
-- runs threshold-based backtests
-- writes model metrics, predictions, trades, and summary results
-
-Main outputs:
-
-- data/outputs/model_predictions.csv
-- data/outputs/model_metrics.csv
-- data/outputs/model_coefficients.csv
-- data/outputs/trades.csv
-- data/outputs/backtest_summary.csv
-
-### scripts/04_make_outputs.py
-
-This script creates diagnostic tables by threshold, side, player role, line bucket, contact bucket, matchup bucket, and other slices.
-
-Main outputs:
-
-- reports/tables/
-- reports/figures/
-- reports/strategy_diagnostic_summary.txt
-
-## Final Report Numbers
-
-The clean final numbers are stored here:
-
-- reports/final_numbers/FINAL_REPORT_NUMBERS.md
-
-Main conclusion:
-
-- The broad model does not beat the market overall.
-- Defense-only test AUC is 0.5169 versus market test AUC of 0.5355.
-- Referee-enhanced test AUC is 0.5173 versus market test AUC of 0.5355.
-- The defense-only 7.5% edge filter is profitable:
-  - 315 bets
-  - 11.45% of the test board
-  - 54.29% hit rate
-  - +1.81% average return per bet
-  - +5.70 units
-- The broad referee-enhanced 7.5% filter is not profitable:
-  - 559 bets
-  - 20.32% of the test board
-  - 53.31% hit rate
-  - -0.23% average return per bet
-  - -1.31 units
-- The strongest evidence is in high-conviction matchup/contact slices.
-
-## Final Interpretation
-
-This is not a broad market-beating model. It is better understood as a selective filter. The model is most useful when it identifies a large model-market disagreement and the matchup/contact environment supports the edge.
-
-Final project story:
-
-DraftKings player-points markets are difficult to beat broadly, but edge appears concentrated in high-conviction matchup/contact situations.
-
-## Repo Structure
-
-- config/: project settings
-- data/raw/: raw input data
-- data/processed/: cleaned and model-ready data
-- data/outputs/: generated model/backtest outputs
-- scripts/: command-line entry points
-- src/: source code
-- reports/final_numbers/: final report-ready numbers
-- reports/repo_health/: repo audit files
-
-## Notes
-
-Large local data files and generated outputs are ignored by Git where appropriate. The report-ready results are preserved in reports/final_numbers/.
+- **Code:** `src/alpha_*.py`, `scripts/alpha_*.py`
+- **Outputs/writeups:** `reports/alpha_scanner/`
+- Status: in progress.

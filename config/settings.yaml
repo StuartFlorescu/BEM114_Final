@@ -11,7 +11,7 @@ paths:
   raw_player_games: data/raw/player_games.csv
   clean_player_games: data/processed/player_games_clean.csv
   modeling_table: data/processed/modeling_table.csv
-  historical_props_with_odds: data/raw/nba_2025_26_draftkings_props_with_odds.csv
+  historical_props_with_odds: data/raw/draftkings_props_with_odds_all.csv
   historical_props_line_only: data/raw/nba_2025_26_draftkings_player_points_props.csv
   clean_market_table: data/processed/draftkings_player_points_clean.csv
   props_with_results: data/processed/player_points_props_with_results.csv

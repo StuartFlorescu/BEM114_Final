@@ -1,0 +1,1402 @@
+START Wed Jun 24 21:34:13 EDT 2026
+  [2024-10-22T16:00:00Z] status=200 remaining=61534 cost=20
+  2024-10-22 early: 52 games, 938 book-rows
+  [2024-10-22T23:00:00Z] status=200 remaining=61514 cost=20
+  2024-10-22 close: 52 games, 1072 book-rows
+  [2024-10-23T16:00:00Z] status=200 remaining=61494 cost=20
+  2024-10-23 early: 50 games, 922 book-rows
+  [2024-10-23T23:00:00Z] status=200 remaining=61474 cost=20
+  2024-10-23 close: 50 games, 920 book-rows
+  [2024-10-24T16:00:00Z] status=200 remaining=61454 cost=20
+  2024-10-24 early: 25 games, 468 book-rows
+  [2024-10-24T23:00:00Z] status=200 remaining=61434 cost=20
+  2024-10-24 close: 27 games, 568 book-rows
+  [2024-10-25T16:00:00Z] status=200 remaining=61414 cost=20
+  2024-10-25 early: 23 games, 626 book-rows
+  [2024-10-25T23:00:00Z] status=200 remaining=61394 cost=20
+  2024-10-25 close: 29 games, 754 book-rows
+  [2024-10-26T16:00:00Z] status=200 remaining=61374 cost=20
+  2024-10-26 early: 23 games, 648 book-rows
+  [2024-10-26T23:00:00Z] status=200 remaining=61354 cost=20
+  2024-10-26 close: 28 games, 782 book-rows
+  [2024-10-27T16:00:00Z] status=200 remaining=61334 cost=20
+  2024-10-27 early: 18 games, 456 book-rows
+  [2024-10-27T23:00:00Z] status=200 remaining=61314 cost=20
+  2024-10-27 close: 26 games, 574 book-rows
+  [2024-10-28T16:00:00Z] status=200 remaining=61294 cost=20
+  2024-10-28 early: 24 games, 696 book-rows
+  [2024-10-28T23:00:00Z] status=200 remaining=61274 cost=20
+  2024-10-28 close: 28 games, 810 book-rows
+  [2024-10-29T16:00:00Z] status=200 remaining=61254 cost=20
+  2024-10-29 early: 17 games, 370 book-rows
+  [2024-10-29T23:00:00Z] status=200 remaining=61234 cost=20
+  2024-10-29 close: 25 games, 560 book-rows
+  [2024-10-30T16:00:00Z] status=200 remaining=61214 cost=20
+  2024-10-30 early: 24 games, 718 book-rows
+  [2024-10-30T23:00:00Z] status=200 remaining=61194 cost=20
+  2024-10-30 close: 25 games, 712 book-rows
+  [2024-10-31T16:00:00Z] status=200 remaining=61174 cost=20
+  2024-10-31 early: 17 games, 358 book-rows
+  [2024-10-31T23:00:00Z] status=200 remaining=61154 cost=20
+  2024-10-31 close: 26 games, 562 book-rows
+  [2024-11-01T16:00:00Z] status=200 remaining=61134 cost=20
+  2024-11-01 early: 22 games, 618 book-rows
+  [2024-11-01T23:00:00Z] status=200 remaining=61114 cost=20
+  2024-11-01 close: 24 games, 650 book-rows
+  [2024-11-02T16:00:00Z] status=200 remaining=61094 cost=20
+  2024-11-02 early: 23 games, 614 book-rows
+  [2024-11-02T23:00:00Z] status=200 remaining=61074 cost=20
+  2024-11-02 close: 26 games, 688 book-rows
+  [2024-11-03T16:00:00Z] status=200 remaining=61054 cost=20
+  2024-11-03 early: 16 games, 336 book-rows
+  [2024-11-03T23:00:00Z] status=200 remaining=61034 cost=20
+  2024-11-03 close: 27 games, 618 book-rows
+  [2024-11-04T16:00:00Z] status=200 remaining=61014 cost=20
+  2024-11-04 early: 28 games, 926 book-rows
+  [2024-11-04T23:00:00Z] status=200 remaining=60994 cost=20
+  2024-11-04 close: 27 games, 902 book-rows
+  [2024-11-05T16:00:00Z] status=200 remaining=60974 cost=20
+  2024-11-05 early: 27 games, 672 book-rows
+  [2024-11-05T23:00:00Z] status=200 remaining=60954 cost=20
+  2024-11-05 close: 27 games, 624 book-rows
+  [2024-11-06T16:00:00Z] status=200 remaining=60934 cost=20
+  2024-11-06 early: 27 games, 752 book-rows
+  [2024-11-06T23:00:00Z] status=200 remaining=60914 cost=20
+  2024-11-06 close: 27 games, 802 book-rows
+  [2024-11-07T16:00:00Z] status=200 remaining=60894 cost=20
+  2024-11-07 early: 15 games, 252 book-rows
+  [2024-11-07T23:00:00Z] status=200 remaining=60874 cost=20
+  2024-11-07 close: 23 games, 408 book-rows
+  [2024-11-08T16:00:00Z] status=200 remaining=60854 cost=20
+  2024-11-08 early: 25 games, 766 book-rows
+  [2024-11-08T23:00:00Z] status=200 remaining=60834 cost=20
+  2024-11-08 close: 18 games, 722 book-rows
+  [2024-11-09T16:00:00Z] status=200 remaining=60814 cost=20
+  2024-11-09 early: 12 games, 322 book-rows
+  [2024-11-09T23:00:00Z] status=200 remaining=60794 cost=20
+  2024-11-09 close: 17 games, 422 book-rows
+  [2024-11-10T16:00:00Z] status=200 remaining=60774 cost=20
+  2024-11-10 early: 24 games, 648 book-rows
+  [2024-11-10T23:00:00Z] status=200 remaining=60754 cost=20
+  2024-11-10 close: 23 games, 596 book-rows
+  [2024-11-11T16:00:00Z] status=200 remaining=60734 cost=20
+  2024-11-11 early: 18 games, 506 book-rows
+  [2024-11-11T23:00:00Z] status=200 remaining=60714 cost=20
+  2024-11-11 close: 18 games, 522 book-rows
+  [2024-11-12T16:00:00Z] status=200 remaining=60694 cost=20
+  2024-11-12 early: 13 games, 426 book-rows
+  [2024-11-12T23:00:00Z] status=200 remaining=60674 cost=20
+  2024-11-12 close: 15 games, 454 book-rows
+  [2024-11-13T16:00:00Z] status=200 remaining=60654 cost=20
+  2024-11-13 early: 16 games, 616 book-rows
+  [2024-11-13T23:00:00Z] status=200 remaining=60634 cost=20
+  2024-11-13 close: 29 games, 680 book-rows
+  [2024-11-14T16:00:00Z] status=200 remaining=60614 cost=20
+  2024-11-14 early: 18 games, 474 book-rows
+  [2024-11-14T23:00:00Z] status=200 remaining=60594 cost=20
+  2024-11-14 close: 18 games, 496 book-rows
+  [2024-11-15T16:00:00Z] status=200 remaining=60574 cost=20
+  2024-11-15 early: 17 games, 592 book-rows
+  [2024-11-15T23:00:00Z] status=200 remaining=60554 cost=20
+  2024-11-15 close: 22 games, 656 book-rows
+  [2024-11-16T16:00:00Z] status=200 remaining=60534 cost=20
+  2024-11-16 early: 10 games, 320 book-rows
+  [2024-11-16T23:00:00Z] status=200 remaining=60514 cost=20
+  2024-11-16 close: 10 games, 272 book-rows
+  [2024-11-17T16:00:00Z] status=200 remaining=60494 cost=20
+  2024-11-17 early: 19 games, 586 book-rows
+  [2024-11-17T23:00:00Z] status=200 remaining=60474 cost=20
+  2024-11-17 close: 20 games, 528 book-rows
+  [2024-11-18T16:00:00Z] status=200 remaining=60454 cost=20
+  2024-11-18 early: 19 games, 596 book-rows
+  [2024-11-18T23:00:00Z] status=200 remaining=60434 cost=20
+  2024-11-18 close: 19 games, 634 book-rows
+  [2024-11-19T16:00:00Z] status=200 remaining=60414 cost=20
+  2024-11-19 early: 11 games, 302 book-rows
+  [2024-11-19T23:00:00Z] status=200 remaining=60394 cost=20
+  2024-11-19 close: 17 games, 334 book-rows
+  [2024-11-20T16:00:00Z] status=200 remaining=60374 cost=20
+  2024-11-20 early: 19 games, 466 book-rows
+  [2024-11-20T23:00:00Z] status=200 remaining=60354 cost=20
+  2024-11-20 close: 23 games, 570 book-rows
+  [2024-11-21T16:00:00Z] status=200 remaining=60334 cost=20
+  2024-11-21 early: 15 games, 260 book-rows
+  [2024-11-21T23:00:00Z] status=200 remaining=60314 cost=20
+  2024-11-21 close: 16 games, 328 book-rows
+  [2024-11-22T16:00:00Z] status=200 remaining=60294 cost=20
+  2024-11-22 early: 18 games, 412 book-rows
+  [2024-11-22T23:00:00Z] status=200 remaining=60274 cost=20
+  2024-11-22 close: 18 games, 414 book-rows
+  [2024-11-23T16:00:00Z] status=200 remaining=60254 cost=20
+  2024-11-23 early: 17 games, 410 book-rows
+  [2024-11-23T23:00:00Z] status=200 remaining=60234 cost=20
+  2024-11-23 close: 20 games, 458 book-rows
+  [2024-11-24T16:00:00Z] status=200 remaining=60214 cost=20
+  2024-11-24 early: 16 games, 362 book-rows
+  [2024-11-24T23:00:00Z] status=200 remaining=60194 cost=20
+  2024-11-24 close: 16 games, 322 book-rows
+  [2024-11-25T16:00:00Z] status=200 remaining=60174 cost=20
+  2024-11-25 early: 19 games, 532 book-rows
+  [2024-11-25T23:00:00Z] status=200 remaining=60154 cost=20
+  2024-11-25 close: 19 games, 572 book-rows
+  [2024-11-26T16:00:00Z] status=200 remaining=60134 cost=20
+  2024-11-26 early: 10 games, 282 book-rows
+  [2024-11-26T23:00:00Z] status=200 remaining=60114 cost=20
+  2024-11-26 close: 20 games, 344 book-rows
+  [2024-11-27T16:00:00Z] status=200 remaining=60094 cost=20
+  2024-11-27 early: 19 games, 762 book-rows
+  [2024-11-27T23:00:00Z] status=200 remaining=60074 cost=20
+  2024-11-27 close: 19 games, 718 book-rows
+  [2024-11-28T16:00:00Z] status=200 remaining=60054 cost=20
+  2024-11-28 early: 15 games, 400 book-rows
+  [2024-11-28T23:00:00Z] status=200 remaining=60034 cost=20
+  2024-11-28 close: 15 games, 390 book-rows
+  [2024-11-29T16:00:00Z] status=200 remaining=60014 cost=20
+  2024-11-29 early: 15 games, 500 book-rows
+  [2024-11-29T23:00:00Z] status=200 remaining=59994 cost=20
+  2024-11-29 close: 13 games, 400 book-rows
+  [2024-11-30T16:00:00Z] status=200 remaining=59974 cost=20
+  2024-11-30 early: 10 games, 312 book-rows
+  [2024-11-30T23:00:00Z] status=200 remaining=59954 cost=20
+  2024-11-30 close: 14 games, 376 book-rows
+  [2024-12-01T16:00:00Z] status=200 remaining=59934 cost=20
+  2024-12-01 early: 26 games, 614 book-rows
+  [2024-12-01T23:00:00Z] status=200 remaining=59914 cost=20
+  2024-12-01 close: 30 games, 576 book-rows
+  [2024-12-02T16:00:00Z] status=200 remaining=59894 cost=20
+  2024-12-02 early: 20 games, 300 book-rows
+  [2024-12-02T23:00:00Z] status=200 remaining=59874 cost=20
+  2024-12-02 close: 20 games, 376 book-rows
+  [2024-12-03T16:00:00Z] status=200 remaining=59854 cost=20
+  2024-12-03 early: 16 games, 536 book-rows
+  [2024-12-03T23:00:00Z] status=200 remaining=59834 cost=20
+  2024-12-03 close: 21 games, 562 book-rows
+  [2024-12-04T16:00:00Z] status=200 remaining=59814 cost=20
+  2024-12-04 early: 15 games, 384 book-rows
+  [2024-12-04T23:00:00Z] status=200 remaining=59794 cost=20
+  2024-12-04 close: 20 games, 436 book-rows
+  [2024-12-05T16:00:00Z] status=200 remaining=59774 cost=20
+  2024-12-05 early: 17 games, 488 book-rows
+  [2024-12-05T23:00:00Z] status=200 remaining=59754 cost=20
+  2024-12-05 close: 21 games, 510 book-rows
+  [2024-12-06T16:00:00Z] status=200 remaining=59734 cost=20
+  2024-12-06 early: 16 games, 452 book-rows
+  [2024-12-06T23:00:00Z] status=200 remaining=59714 cost=20
+  2024-12-06 close: 20 games, 456 book-rows
+  [2024-12-07T16:00:00Z] status=200 remaining=59694 cost=20
+  2024-12-07 early: 16 games, 448 book-rows
+  [2024-12-07T23:00:00Z] status=200 remaining=59674 cost=20
+  2024-12-07 close: 20 games, 420 book-rows
+  [2024-12-08T16:00:00Z] status=200 remaining=59654 cost=20
+  2024-12-08 early: 21 games, 702 book-rows
+  [2024-12-08T23:00:00Z] status=200 remaining=59634 cost=20
+  2024-12-08 close: 20 games, 632 book-rows
+  [2024-12-09T16:00:00Z] status=200 remaining=59614 cost=20
+  2024-12-09 early: 10 games, 248 book-rows
+  [2024-12-09T23:00:00Z] status=200 remaining=59594 cost=20
+  2024-12-09 close: 10 games, 260 book-rows
+  [2024-12-10T16:00:00Z] status=200 remaining=59574 cost=20
+  2024-12-10 early: 12 games, 282 book-rows
+  [2024-12-10T23:00:00Z] status=200 remaining=59554 cost=20
+  2024-12-10 close: 12 games, 310 book-rows
+  [2024-12-11T16:00:00Z] status=200 remaining=59534 cost=20
+  2024-12-11 early: 10 games, 230 book-rows
+  [2024-12-11T23:00:00Z] status=200 remaining=59514 cost=20
+  2024-12-11 close: 16 games, 272 book-rows
+  [2024-12-12T16:00:00Z] status=200 remaining=59494 cost=20
+  2024-12-12 early: 18 games, 526 book-rows
+  [2024-12-12T23:00:00Z] status=200 remaining=59474 cost=20
+  2024-12-12 close: 18 games, 534 book-rows
+  [2024-12-13T16:00:00Z] status=200 remaining=59454 cost=20
+  2024-12-13 early: 15 games, 534 book-rows
+  [2024-12-13T23:00:00Z] status=200 remaining=59434 cost=20
+  2024-12-13 close: 15 games, 542 book-rows
+  [2024-12-14T16:00:00Z] status=200 remaining=59414 cost=20
+  2024-12-14 early: 13 games, 346 book-rows
+  [2024-12-14T23:00:00Z] status=200 remaining=59394 cost=20
+  2024-12-14 close: 13 games, 366 book-rows
+  [2024-12-15T16:00:00Z] status=200 remaining=59374 cost=20
+  2024-12-15 early: 12 games, 428 book-rows
+  [2024-12-15T23:00:00Z] status=200 remaining=59354 cost=20
+  2024-12-15 close: 16 games, 416 book-rows
+  [2024-12-16T16:00:00Z] status=200 remaining=59334 cost=20
+  2024-12-16 early: 11 games, 380 book-rows
+  [2024-12-16T23:00:00Z] status=200 remaining=59314 cost=20
+  2024-12-16 close: 11 games, 382 book-rows
+  [2024-12-17T16:00:00Z] status=200 remaining=59294 cost=20
+  2024-12-17 early: 18 games, 514 book-rows
+  [2024-12-17T23:00:00Z] status=200 remaining=59274 cost=20
+  2024-12-17 close: 18 games, 512 book-rows
+  [2024-12-18T16:00:00Z] status=200 remaining=59254 cost=20
+  2024-12-18 early: 17 games, 610 book-rows
+  [2024-12-18T23:00:00Z] status=200 remaining=59234 cost=20
+  2024-12-18 close: 17 games, 604 book-rows
+  [2024-12-19T16:00:00Z] status=200 remaining=59214 cost=20
+  2024-12-19 early: 17 games, 696 book-rows
+  [2024-12-19T23:00:00Z] status=200 remaining=59194 cost=20
+  2024-12-19 close: 20 games, 718 book-rows
+  [2024-12-20T16:00:00Z] status=200 remaining=59174 cost=20
+  2024-12-20 early: 7 games, 204 book-rows
+  [2024-12-20T23:00:00Z] status=200 remaining=59154 cost=20
+  2024-12-20 close: 15 games, 348 book-rows
+  [2024-12-21T16:00:00Z] status=200 remaining=59134 cost=20
+  2024-12-21 early: 16 games, 622 book-rows
+  [2024-12-21T23:00:00Z] status=200 remaining=59114 cost=20
+  2024-12-21 close: 18 games, 646 book-rows
+  [2024-12-22T16:00:00Z] status=200 remaining=59094 cost=20
+  2024-12-22 early: 8 games, 266 book-rows
+  [2024-12-22T23:00:00Z] status=200 remaining=59074 cost=20
+  2024-12-22 close: 12 games, 376 book-rows
+  [2024-12-23T16:00:00Z] status=200 remaining=59054 cost=20
+  2024-12-23 early: 19 games, 844 book-rows
+  [2024-12-23T23:00:00Z] status=200 remaining=59034 cost=20
+  2024-12-23 close: 19 games, 844 book-rows
+  [2024-12-24T16:00:00Z] status=200 remaining=59014 cost=20
+  2024-12-24 early: 5 games, 218 book-rows
+  [2024-12-24T23:00:00Z] status=200 remaining=58994 cost=20
+  2024-12-24 close: 5 games, 246 book-rows
+  [2024-12-25T16:00:00Z] status=200 remaining=58974 cost=20
+  2024-12-25 early: 14 games, 430 book-rows
+  [2024-12-25T23:00:00Z] status=200 remaining=58954 cost=20
+  2024-12-25 close: 12 games, 356 book-rows
+  [2024-12-26T16:00:00Z] status=200 remaining=58934 cost=20
+  2024-12-26 early: 9 games, 432 book-rows
+  [2024-12-26T23:00:00Z] status=200 remaining=58914 cost=20
+  2024-12-26 close: 14 games, 424 book-rows
+  [2024-12-27T16:00:00Z] status=200 remaining=58894 cost=20
+  2024-12-27 early: 8 games, 360 book-rows
+  [2024-12-27T23:00:00Z] status=200 remaining=58874 cost=20
+  2024-12-27 close: 12 games, 390 book-rows
+  [2024-12-28T16:00:00Z] status=200 remaining=58854 cost=20
+  2024-12-28 early: 9 games, 432 book-rows
+  [2024-12-28T23:00:00Z] status=200 remaining=58834 cost=20
+  2024-12-28 close: 8 games, 382 book-rows
+  [2024-12-29T16:00:00Z] status=200 remaining=58814 cost=20
+  2024-12-29 early: 6 games, 286 book-rows
+  [2024-12-29T23:00:00Z] status=200 remaining=58794 cost=20
+  2024-12-29 close: 10 games, 264 book-rows
+  [2024-12-30T16:00:00Z] status=200 remaining=58774 cost=20
+  2024-12-30 early: 7 games, 336 book-rows
+  [2024-12-30T23:00:00Z] status=200 remaining=58754 cost=20
+  2024-12-30 close: 7 games, 334 book-rows
+  [2024-12-31T16:00:00Z] status=200 remaining=58734 cost=20
+  2024-12-31 early: 6 games, 288 book-rows
+  [2024-12-31T23:00:00Z] status=200 remaining=58714 cost=20
+  2024-12-31 close: 7 games, 190 book-rows
+  [2025-01-01T16:00:00Z] status=200 remaining=58694 cost=20
+  2025-01-01 early: 8 games, 380 book-rows
+  [2025-01-01T23:00:00Z] status=200 remaining=58674 cost=20
+  2025-01-01 close: 13 games, 468 book-rows
+  [2025-01-02T16:00:00Z] status=200 remaining=58654 cost=20
+  2025-01-02 early: 6 games, 288 book-rows
+  [2025-01-02T23:00:00Z] status=200 remaining=58634 cost=20
+  2025-01-02 close: 6 games, 286 book-rows
+  [2025-01-03T16:00:00Z] status=200 remaining=58614 cost=20
+  2025-01-03 early: 9 games, 434 book-rows
+  [2025-01-03T23:00:00Z] status=200 remaining=58594 cost=20
+  2025-01-03 close: 13 games, 430 book-rows
+  [2025-01-04T16:00:00Z] status=200 remaining=58574 cost=20
+  2025-01-04 early: 9 games, 432 book-rows
+  [2025-01-04T23:00:00Z] status=200 remaining=58554 cost=20
+  2025-01-04 close: 12 games, 498 book-rows
+  [2025-01-05T16:00:00Z] status=200 remaining=58534 cost=20
+  2025-01-05 early: 6 games, 288 book-rows
+  [2025-01-05T23:00:00Z] status=200 remaining=58514 cost=20
+  2025-01-05 close: 14 games, 432 book-rows
+  [2025-01-06T16:00:00Z] status=200 remaining=58494 cost=20
+  2025-01-06 early: 9 games, 432 book-rows
+  [2025-01-06T23:00:00Z] status=200 remaining=58474 cost=20
+  2025-01-06 close: 12 games, 412 book-rows
+  [2025-01-07T16:00:00Z] status=200 remaining=58454 cost=20
+  2025-01-07 early: 8 games, 348 book-rows
+  [2025-01-07T23:00:00Z] status=200 remaining=58434 cost=20
+  2025-01-07 close: 12 games, 366 book-rows
+  [2025-01-08T16:00:00Z] status=200 remaining=58414 cost=20
+  2025-01-08 early: 8 games, 370 book-rows
+  [2025-01-08T23:00:00Z] status=200 remaining=58394 cost=20
+  2025-01-08 close: 12 games, 382 book-rows
+  [2025-01-09T16:00:00Z] status=200 remaining=58374 cost=20
+  2025-01-09 early: 8 games, 368 book-rows
+  [2025-01-09T23:00:00Z] status=200 remaining=58354 cost=20
+  2025-01-09 close: 9 games, 346 book-rows
+  [2025-01-10T16:00:00Z] status=200 remaining=58334 cost=20
+  2025-01-10 early: 7 games, 322 book-rows
+  [2025-01-10T23:00:00Z] status=200 remaining=58314 cost=20
+  2025-01-10 close: 11 games, 324 book-rows
+  [2025-01-11T16:00:00Z] status=200 remaining=58294 cost=20
+  2025-01-11 early: 4 games, 184 book-rows
+  [2025-01-11T23:00:00Z] status=200 remaining=58274 cost=20
+  2025-01-11 close: 10 games, 322 book-rows
+  [2025-01-12T16:00:00Z] status=200 remaining=58254 cost=20
+  2025-01-12 early: 9 games, 432 book-rows
+  [2025-01-12T23:00:00Z] status=200 remaining=58234 cost=20
+  2025-01-12 close: 13 games, 400 book-rows
+  [2025-01-13T16:00:00Z] status=200 remaining=58214 cost=20
+  2025-01-13 early: 6 games, 280 book-rows
+  [2025-01-13T23:00:00Z] status=200 remaining=58194 cost=20
+  2025-01-13 close: 8 games, 288 book-rows
+  [2025-01-14T16:00:00Z] status=200 remaining=58174 cost=20
+  2025-01-14 early: 7 games, 322 book-rows
+  [2025-01-14T23:00:00Z] status=200 remaining=58154 cost=20
+  2025-01-14 close: 12 games, 372 book-rows
+  [2025-01-15T16:00:00Z] status=200 remaining=58134 cost=20
+  2025-01-15 early: 11 games, 498 book-rows
+  [2025-01-15T23:00:00Z] status=200 remaining=58114 cost=20
+  2025-01-15 close: 13 games, 530 book-rows
+  [2025-01-16T16:00:00Z] status=200 remaining=58094 cost=20
+  2025-01-16 early: 5 games, 230 book-rows
+  [2025-01-16T23:00:00Z] status=200 remaining=58074 cost=20
+  2025-01-16 close: 9 games, 230 book-rows
+  [2025-01-17T16:00:00Z] status=200 remaining=58054 cost=20
+  2025-01-17 early: 9 games, 410 book-rows
+  [2025-01-17T23:00:00Z] status=200 remaining=58034 cost=20
+  2025-01-17 close: 13 games, 414 book-rows
+  [2025-01-18T16:00:00Z] status=200 remaining=58014 cost=20
+  2025-01-18 early: 6 games, 276 book-rows
+  [2025-01-18T23:00:00Z] status=200 remaining=57994 cost=20
+  2025-01-18 close: 8 games, 296 book-rows
+  [2025-01-19T16:00:00Z] status=200 remaining=57974 cost=20
+  2025-01-19 early: 7 games, 318 book-rows
+  [2025-01-19T23:00:00Z] status=200 remaining=57954 cost=20
+  2025-01-19 close: 9 games, 282 book-rows
+  [2025-01-20T16:00:00Z] status=200 remaining=57934 cost=20
+  2025-01-20 early: 8 games, 366 book-rows
+  [2025-01-20T23:00:00Z] status=200 remaining=57914 cost=20
+  2025-01-20 close: 5 games, 134 book-rows
+  [2025-01-21T16:00:00Z] status=200 remaining=57894 cost=20
+  2025-01-21 early: 5 games, 230 book-rows
+  [2025-01-21T23:00:00Z] status=200 remaining=57874 cost=20
+  2025-01-21 close: 14 games, 322 book-rows
+  [2025-01-22T16:00:00Z] status=200 remaining=57854 cost=20
+  2025-01-22 early: 10 games, 408 book-rows
+  [2025-01-22T23:00:00Z] status=200 remaining=57834 cost=20
+  2025-01-22 close: 10 games, 402 book-rows
+  [2025-01-23T16:00:00Z] status=200 remaining=57814 cost=20
+  2025-01-23 early: 9 games, 396 book-rows
+  [2025-01-23T23:00:00Z] status=200 remaining=57794 cost=20
+  2025-01-23 close: 9 games, 352 book-rows
+  [2025-01-24T16:00:00Z] status=200 remaining=57774 cost=20
+  2025-01-24 early: 4 games, 160 book-rows
+  [2025-01-24T23:00:00Z] status=200 remaining=57754 cost=20
+  2025-01-24 close: 10 games, 172 book-rows
+  [2025-01-25T16:00:00Z] status=200 remaining=57734 cost=20
+  2025-01-25 early: 14 games, 642 book-rows
+  [2025-01-25T23:00:00Z] status=200 remaining=57714 cost=20
+  2025-01-25 close: 13 games, 544 book-rows
+  [2025-01-26T16:00:00Z] status=200 remaining=57694 cost=20
+  2025-01-26 early: 7 games, 100 book-rows
+  [2025-01-26T23:00:00Z] status=200 remaining=57674 cost=20
+  2025-01-26 close: 13 games, 304 book-rows
+  [2025-01-27T16:00:00Z] status=200 remaining=57654 cost=20
+  2025-01-27 early: 12 games, 524 book-rows
+  [2025-01-27T23:00:00Z] status=200 remaining=57634 cost=20
+  2025-01-27 close: 16 games, 562 book-rows
+  [2025-01-28T16:00:00Z] status=200 remaining=57614 cost=20
+  2025-01-28 early: 4 games, 184 book-rows
+  [2025-01-28T23:00:00Z] status=200 remaining=57594 cost=20
+  2025-01-28 close: 12 games, 198 book-rows
+  [2025-01-29T16:00:00Z] status=200 remaining=57574 cost=20
+  2025-01-29 early: 11 games, 506 book-rows
+  [2025-01-29T23:00:00Z] status=200 remaining=57554 cost=20
+  2025-01-29 close: 13 games, 506 book-rows
+  [2025-01-30T16:00:00Z] status=200 remaining=57534 cost=20
+  2025-01-30 early: 5 games, 228 book-rows
+  [2025-01-30T23:00:00Z] status=200 remaining=57514 cost=20
+  2025-01-30 close: 10 games, 228 book-rows
+  [2025-01-31T16:00:00Z] status=200 remaining=57494 cost=20
+  2025-01-31 early: 7 games, 306 book-rows
+  [2025-01-31T23:00:00Z] status=200 remaining=57474 cost=20
+  2025-01-31 close: 14 games, 348 book-rows
+  [2025-02-01T16:00:00Z] status=200 remaining=57454 cost=20
+  2025-02-01 early: 9 games, 398 book-rows
+  [2025-02-01T23:00:00Z] status=200 remaining=57434 cost=20
+  2025-02-01 close: 14 games, 480 book-rows
+  [2025-02-02T16:00:00Z] status=200 remaining=57414 cost=20
+  2025-02-02 early: 6 games, 242 book-rows
+  [2025-02-02T23:00:00Z] status=200 remaining=57394 cost=20
+  2025-02-02 close: 9 games, 214 book-rows
+  [2025-02-03T16:00:00Z] status=200 remaining=57374 cost=20
+  2025-02-03 early: 12 games, 482 book-rows
+  [2025-02-03T23:00:00Z] status=200 remaining=57354 cost=20
+  2025-02-03 close: 15 games, 542 book-rows
+  [2025-02-04T16:00:00Z] status=200 remaining=57334 cost=20
+  2025-02-04 early: 9 games, 348 book-rows
+  [2025-02-04T23:00:00Z] status=200 remaining=57314 cost=20
+  2025-02-04 close: 14 games, 432 book-rows
+  [2025-02-05T16:00:00Z] status=200 remaining=57294 cost=20
+  2025-02-05 early: 13 games, 530 book-rows
+  [2025-02-05T23:00:00Z] status=200 remaining=57274 cost=20
+  2025-02-05 close: 17 games, 582 book-rows
+  [2025-02-06T16:00:00Z] status=200 remaining=57254 cost=20
+  2025-02-06 early: 9 games, 302 book-rows
+  [2025-02-06T23:00:00Z] status=200 remaining=57234 cost=20
+  2025-02-06 close: 10 games, 298 book-rows
+  [2025-02-07T16:00:00Z] status=200 remaining=57214 cost=20
+  2025-02-07 early: 10 games, 350 book-rows
+  [2025-02-07T23:00:00Z] status=200 remaining=57194 cost=20
+  2025-02-07 close: 19 games, 544 book-rows
+  [2025-02-08T16:00:00Z] status=200 remaining=57174 cost=20
+  2025-02-08 early: 14 games, 534 book-rows
+  [2025-02-08T23:00:00Z] status=200 remaining=57154 cost=20
+  2025-02-08 close: 15 games, 484 book-rows
+  [2025-02-09T16:00:00Z] status=200 remaining=57134 cost=20
+  2025-02-09 early: 6 games, 164 book-rows
+  [2025-02-09T23:00:00Z] status=200 remaining=57114 cost=20
+  2025-02-09 close: 13 games, 296 book-rows
+  [2025-02-10T16:00:00Z] status=200 remaining=57094 cost=20
+  2025-02-10 early: 13 games, 458 book-rows
+  [2025-02-10T23:00:00Z] status=200 remaining=57074 cost=20
+  2025-02-10 close: 14 games, 460 book-rows
+  [2025-02-11T16:00:00Z] status=200 remaining=57054 cost=20
+  2025-02-11 early: 6 games, 214 book-rows
+  [2025-02-11T23:00:00Z] status=200 remaining=57034 cost=20
+  2025-02-11 close: 15 games, 278 book-rows
+  [2025-02-12T16:00:00Z] status=200 remaining=57014 cost=20
+  2025-02-12 early: 17 games, 802 book-rows
+  [2025-02-12T23:00:00Z] status=200 remaining=56994 cost=20
+  2025-02-12 close: 17 games, 804 book-rows
+  [2025-02-13T16:00:00Z] status=200 remaining=56974 cost=20
+  2025-02-13 early: 7 games, 286 book-rows
+  [2025-02-13T23:00:00Z] status=200 remaining=56954 cost=20
+  2025-02-13 close: 7 games, 288 book-rows
+  [2025-02-14T16:00:00Z] status=200 remaining=56934 cost=20
+  2025-02-14 early: 3 games, 56 book-rows
+  [2025-02-14T23:00:00Z] status=200 remaining=56914 cost=20
+  2025-02-14 close: 3 games, 60 book-rows
+  [2025-02-15T16:00:00Z] status=200 remaining=56894 cost=20
+  2025-02-15 early: 12 games, 194 book-rows
+  [2025-02-15T23:00:00Z] status=200 remaining=56874 cost=20
+  2025-02-15 close: 12 games, 260 book-rows
+  [2025-02-16T16:00:00Z] status=200 remaining=56854 cost=20
+  2025-02-16 early: 12 games, 350 book-rows
+  [2025-02-16T23:00:00Z] status=200 remaining=56834 cost=20
+  2025-02-16 close: 12 games, 352 book-rows
+  [2025-02-17T16:00:00Z] status=200 remaining=56814 cost=20
+  2025-02-17 early: 12 games, 372 book-rows
+  [2025-02-17T23:00:00Z] status=200 remaining=56794 cost=20
+  2025-02-17 close: 13 games, 392 book-rows
+  [2025-02-18T16:00:00Z] status=200 remaining=56774 cost=20
+  2025-02-18 early: 13 games, 392 book-rows
+  [2025-02-18T23:00:00Z] status=200 remaining=56754 cost=20
+  2025-02-18 close: 13 games, 400 book-rows
+  [2025-02-19T16:00:00Z] status=200 remaining=56734 cost=20
+  2025-02-19 early: 13 games, 408 book-rows
+  [2025-02-19T23:00:00Z] status=200 remaining=56714 cost=20
+  2025-02-19 close: 13 games, 408 book-rows
+  [2025-02-20T16:00:00Z] status=200 remaining=56694 cost=20
+  2025-02-20 early: 12 games, 464 book-rows
+  [2025-02-20T23:00:00Z] status=200 remaining=56674 cost=20
+  2025-02-20 close: 16 games, 464 book-rows
+  [2025-02-21T16:00:00Z] status=200 remaining=56654 cost=20
+  2025-02-21 early: 11 games, 470 book-rows
+  [2025-02-21T23:00:00Z] status=200 remaining=56634 cost=20
+  2025-02-21 close: 16 games, 506 book-rows
+  [2025-02-22T16:00:00Z] status=200 remaining=56614 cost=20
+  2025-02-22 early: 7 games, 264 book-rows
+  [2025-02-22T23:00:00Z] status=200 remaining=56594 cost=20
+  2025-02-22 close: 15 games, 380 book-rows
+  [2025-02-23T16:00:00Z] status=200 remaining=56574 cost=20
+  2025-02-23 early: 12 games, 526 book-rows
+  [2025-02-23T23:00:00Z] status=200 remaining=56554 cost=20
+  2025-02-23 close: 17 games, 436 book-rows
+  [2025-02-24T16:00:00Z] status=200 remaining=56534 cost=20
+  2025-02-24 early: 10 games, 424 book-rows
+  [2025-02-24T23:00:00Z] status=200 remaining=56514 cost=20
+  2025-02-24 close: 14 games, 440 book-rows
+  [2025-02-25T16:00:00Z] status=200 remaining=56494 cost=20
+  2025-02-25 early: 8 games, 366 book-rows
+  [2025-02-25T23:00:00Z] status=200 remaining=56474 cost=20
+  2025-02-25 close: 11 games, 374 book-rows
+  [2025-02-26T16:00:00Z] status=200 remaining=56454 cost=20
+  2025-02-26 early: 10 games, 470 book-rows
+  [2025-02-26T23:00:00Z] status=200 remaining=56434 cost=20
+  2025-02-26 close: 15 games, 606 book-rows
+  [2025-02-27T16:00:00Z] status=200 remaining=56414 cost=20
+  2025-02-27 early: 6 games, 272 book-rows
+  [2025-02-27T23:00:00Z] status=200 remaining=56394 cost=20
+  2025-02-27 close: 14 games, 446 book-rows
+  [2025-02-28T16:00:00Z] status=200 remaining=56374 cost=20
+  2025-02-28 early: 11 games, 542 book-rows
+  [2025-02-28T23:00:00Z] status=200 remaining=56354 cost=20
+  2025-02-28 close: 17 games, 660 book-rows
+  [2025-03-01T16:00:00Z] status=200 remaining=56334 cost=20
+  2025-03-01 early: 7 games, 332 book-rows
+  [2025-03-01T23:00:00Z] status=200 remaining=56314 cost=20
+  2025-03-01 close: 11 games, 336 book-rows
+  [2025-03-02T16:00:00Z] status=200 remaining=56294 cost=20
+  2025-03-02 early: 10 games, 486 book-rows
+  [2025-03-02T23:00:00Z] status=200 remaining=56274 cost=20
+  2025-03-02 close: 12 games, 426 book-rows
+  [2025-03-03T16:00:00Z] status=200 remaining=56254 cost=20
+  2025-03-03 early: 8 games, 380 book-rows
+  [2025-03-03T23:00:00Z] status=200 remaining=56234 cost=20
+  2025-03-03 close: 11 games, 398 book-rows
+  [2025-03-04T16:00:00Z] status=200 remaining=56214 cost=20
+  2025-03-04 early: 10 games, 488 book-rows
+  [2025-03-04T23:00:00Z] status=200 remaining=56194 cost=20
+  2025-03-04 close: 14 games, 544 book-rows
+  [2025-03-05T16:00:00Z] status=200 remaining=56174 cost=20
+  2025-03-05 early: 9 games, 434 book-rows
+  [2025-03-05T23:00:00Z] status=200 remaining=56154 cost=20
+  2025-03-05 close: 11 games, 450 book-rows
+  [2025-03-06T16:00:00Z] status=200 remaining=56134 cost=20
+  2025-03-06 early: 6 games, 324 book-rows
+  [2025-03-06T23:00:00Z] status=200 remaining=56114 cost=20
+  2025-03-06 close: 13 games, 448 book-rows
+  [2025-03-07T16:00:00Z] status=200 remaining=56094 cost=20
+  2025-03-07 early: 8 games, 430 book-rows
+  [2025-03-07T23:00:00Z] status=200 remaining=56074 cost=20
+  2025-03-07 close: 15 games, 596 book-rows
+  [2025-03-08T16:00:00Z] status=200 remaining=56054 cost=20
+  2025-03-08 early: 8 games, 426 book-rows
+  [2025-03-08T23:00:00Z] status=200 remaining=56034 cost=20
+  2025-03-08 close: 15 games, 534 book-rows
+  [2025-03-09T16:00:00Z] status=200 remaining=56014 cost=20
+  2025-03-09 early: 8 games, 428 book-rows
+  [2025-03-09T23:00:00Z] status=200 remaining=55994 cost=20
+  2025-03-09 close: 15 games, 436 book-rows
+  [2025-03-10T16:00:00Z] status=200 remaining=55974 cost=20
+  2025-03-10 early: 12 games, 672 book-rows
+  [2025-03-10T23:00:00Z] status=200 remaining=55954 cost=20
+  2025-03-10 close: 15 games, 706 book-rows
+  [2025-03-11T16:00:00Z] status=200 remaining=55934 cost=20
+  2025-03-11 early: 5 games, 236 book-rows
+  [2025-03-11T23:00:00Z] status=200 remaining=55914 cost=20
+  2025-03-11 close: 10 games, 340 book-rows
+  [2025-03-12T16:00:00Z] status=200 remaining=55894 cost=20
+  2025-03-12 early: 10 games, 490 book-rows
+  [2025-03-12T23:00:00Z] status=200 remaining=55874 cost=20
+  2025-03-12 close: 14 games, 572 book-rows
+  [2025-03-13T16:00:00Z] status=200 remaining=55854 cost=20
+  2025-03-13 early: 5 games, 280 book-rows
+  [2025-03-13T23:00:00Z] status=200 remaining=55834 cost=20
+  2025-03-13 close: 12 games, 396 book-rows
+  [2025-03-14T16:00:00Z] status=200 remaining=55814 cost=20
+  2025-03-14 early: 10 games, 558 book-rows
+  [2025-03-14T23:00:00Z] status=200 remaining=55794 cost=20
+  2025-03-14 close: 13 games, 574 book-rows
+  [2025-03-15T16:00:00Z] status=200 remaining=55774 cost=20
+  2025-03-15 early: 8 games, 448 book-rows
+  [2025-03-15T23:00:00Z] status=200 remaining=55754 cost=20
+  2025-03-15 close: 16 games, 604 book-rows
+  [2025-03-16T16:00:00Z] status=200 remaining=55734 cost=20
+  2025-03-16 early: 8 games, 446 book-rows
+  [2025-03-16T23:00:00Z] status=200 remaining=55714 cost=20
+  2025-03-16 close: 15 games, 400 book-rows
+  [2025-03-17T16:00:00Z] status=200 remaining=55694 cost=20
+  2025-03-17 early: 10 games, 558 book-rows
+  [2025-03-17T23:00:00Z] status=200 remaining=55674 cost=20
+  2025-03-17 close: 14 games, 578 book-rows
+  [2025-03-18T16:00:00Z] status=200 remaining=55654 cost=20
+  2025-03-18 early: 4 games, 208 book-rows
+  [2025-03-18T23:00:00Z] status=200 remaining=55634 cost=20
+  2025-03-18 close: 14 games, 374 book-rows
+  [2025-03-19T16:00:00Z] status=200 remaining=55614 cost=20
+  2025-03-19 early: 11 games, 566 book-rows
+  [2025-03-19T23:00:00Z] status=200 remaining=55594 cost=20
+  2025-03-19 close: 15 games, 608 book-rows
+  [2025-03-20T16:00:00Z] status=200 remaining=55574 cost=20
+  2025-03-20 early: 5 games, 280 book-rows
+  [2025-03-20T23:00:00Z] status=200 remaining=55554 cost=20
+  2025-03-20 close: 11 games, 308 book-rows
+  [2025-03-21T16:00:00Z] status=200 remaining=55534 cost=20
+  2025-03-21 early: 10 games, 560 book-rows
+  [2025-03-21T23:00:00Z] status=200 remaining=55514 cost=20
+  2025-03-21 close: 11 games, 562 book-rows
+  [2025-03-22T16:00:00Z] status=200 remaining=55494 cost=20
+  2025-03-22 early: 5 games, 278 book-rows
+  [2025-03-22T23:00:00Z] status=200 remaining=55474 cost=20
+  2025-03-22 close: 13 games, 428 book-rows
+  [2025-03-23T16:00:00Z] status=200 remaining=55454 cost=20
+  2025-03-23 early: 8 games, 444 book-rows
+  [2025-03-23T23:00:00Z] status=200 remaining=55434 cost=20
+  2025-03-23 close: 14 games, 408 book-rows
+  [2025-03-24T16:00:00Z] status=200 remaining=55414 cost=20
+  2025-03-24 early: 8 games, 426 book-rows
+  [2025-03-24T23:00:00Z] status=200 remaining=55394 cost=20
+  2025-03-24 close: 16 games, 598 book-rows
+  [2025-03-25T16:00:00Z] status=200 remaining=55374 cost=20
+  2025-03-25 early: 8 games, 432 book-rows
+  [2025-03-25T23:00:00Z] status=200 remaining=55354 cost=20
+  2025-03-25 close: 11 games, 448 book-rows
+  [2025-03-26T16:00:00Z] status=200 remaining=55334 cost=20
+  2025-03-26 early: 6 games, 322 book-rows
+  [2025-03-26T23:00:00Z] status=200 remaining=55314 cost=20
+  2025-03-26 close: 13 games, 436 book-rows
+  [2025-03-27T16:00:00Z] status=200 remaining=55294 cost=20
+  2025-03-27 early: 8 games, 432 book-rows
+  [2025-03-27T23:00:00Z] status=200 remaining=55274 cost=20
+  2025-03-27 close: 11 games, 462 book-rows
+  [2025-03-28T16:00:00Z] status=200 remaining=55254 cost=20
+  2025-03-28 early: 7 games, 370 book-rows
+  [2025-03-28T23:00:00Z] status=200 remaining=55234 cost=20
+  2025-03-28 close: 14 games, 484 book-rows
+  [2025-03-29T16:00:00Z] status=200 remaining=55214 cost=20
+  2025-03-29 early: 7 games, 370 book-rows
+  [2025-03-29T23:00:00Z] status=200 remaining=55194 cost=20
+  2025-03-29 close: 15 games, 474 book-rows
+  [2025-03-30T16:00:00Z] status=200 remaining=55174 cost=20
+  2025-03-30 early: 8 games, 430 book-rows
+  [2025-03-30T23:00:00Z] status=200 remaining=55154 cost=20
+  2025-03-30 close: 15 games, 498 book-rows
+  [2025-03-31T16:00:00Z] status=200 remaining=55134 cost=20
+  2025-03-31 early: 8 games, 432 book-rows
+  [2025-03-31T23:00:00Z] status=200 remaining=55114 cost=20
+  2025-03-31 close: 12 games, 456 book-rows
+  [2025-04-01T16:00:00Z] status=200 remaining=55094 cost=20
+  2025-04-01 early: 7 games, 378 book-rows
+  [2025-04-01T23:00:00Z] status=200 remaining=55074 cost=20
+  2025-04-01 close: 11 games, 410 book-rows
+  [2025-04-02T16:00:00Z] status=200 remaining=55054 cost=20
+  2025-04-02 early: 9 games, 486 book-rows
+  [2025-04-02T23:00:00Z] status=200 remaining=55034 cost=20
+  2025-04-02 close: 15 games, 596 book-rows
+  [2025-04-03T16:00:00Z] status=200 remaining=55014 cost=20
+  2025-04-03 early: 6 games, 324 book-rows
+  [2025-04-03T23:00:00Z] status=200 remaining=54994 cost=20
+  2025-04-03 close: 9 games, 328 book-rows
+  [2025-04-04T16:00:00Z] status=200 remaining=54974 cost=20
+  2025-04-04 early: 10 games, 532 book-rows
+  [2025-04-04T23:00:00Z] status=200 remaining=54954 cost=20
+  2025-04-04 close: 11 games, 538 book-rows
+  [2025-04-05T16:00:00Z] status=200 remaining=54934 cost=20
+  2025-04-05 early: 5 games, 266 book-rows
+  [2025-04-05T23:00:00Z] status=200 remaining=54914 cost=20
+  2025-04-05 close: 15 games, 478 book-rows
+  [2025-04-06T16:00:00Z] status=200 remaining=54894 cost=20
+  2025-04-06 early: 11 games, 594 book-rows
+  [2025-04-06T23:00:00Z] status=200 remaining=54874 cost=20
+  2025-04-06 close: 8 games, 342 book-rows
+  [2025-04-07T16:00:00Z] status=200 remaining=54854 cost=20
+  2025-04-07 early: 6 games, 206 book-rows
+  [2025-04-07T23:00:00Z] status=200 remaining=54834 cost=20
+  2025-04-07 close: 13 games, 310 book-rows
+  [2025-04-08T16:00:00Z] status=200 remaining=54814 cost=20
+  2025-04-08 early: 11 games, 558 book-rows
+  [2025-04-08T23:00:00Z] status=200 remaining=54794 cost=20
+  2025-04-08 close: 13 games, 562 book-rows
+  [2025-04-09T16:00:00Z] status=200 remaining=54774 cost=20
+  2025-04-09 early: 10 games, 538 book-rows
+  [2025-04-09T23:00:00Z] status=200 remaining=54754 cost=20
+  2025-04-09 close: 14 games, 548 book-rows
+  [2025-04-10T16:00:00Z] status=200 remaining=54734 cost=20
+  2025-04-10 early: 5 games, 270 book-rows
+  [2025-04-10T23:00:00Z] status=200 remaining=54714 cost=20
+  2025-04-10 close: 8 games, 326 book-rows
+  [2025-04-11T16:00:00Z] status=200 remaining=54694 cost=20
+  2025-04-11 early: 15 games, 806 book-rows
+  [2025-04-11T23:00:00Z] status=200 remaining=54674 cost=20
+  2025-04-11 close: 15 games, 804 book-rows
+  [2025-04-12T16:00:00Z] status=200 remaining=54654 cost=20
+  2025-04-12 early: 2 games, 76 book-rows
+  [2025-04-12T23:00:00Z] status=200 remaining=54634 cost=20
+  2025-04-12 close: 3 games, 116 book-rows
+  [2025-04-13T16:00:00Z] status=200 remaining=54614 cost=20
+  2025-04-13 early: 15 games, 804 book-rows
+  [2025-04-13T23:00:00Z] status=200 remaining=54594 cost=20
+  2025-04-13 close: 0 games, 0 book-rows
+
+Saved 155,832 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/alpha_h2h_multibook.csv
+Books seen: ['betanysports', 'betclic', 'betfair_ex_eu', 'betmgm', 'betonlineag', 'betrivers', 'betsson', 'betus', 'bovada', 'coolbet', 'draftkings', 'everygame', 'fanatics', 'fanduel', 'gtbets', 'livescorebet_eu', 'lowvig', 'marathonbet', 'matchbook', 'mybookieag', 'nordicbet', 'pinnacle', 'sport888', 'suprabets', 'tipico_de', 'unibet_eu', 'williamhill', 'williamhill_us', 'winamax_de', 'winamax_fr']
+Est credits this run: ~6960
+  [2025-10-21T16:00:00Z] status=200 remaining=54574 cost=20
+  2025-10-21 early: 42 games, 1054 book-rows
+  [2025-10-21T23:00:00Z] status=200 remaining=54554 cost=20
+  2025-10-21 close: 42 games, 1024 book-rows
+  [2025-10-22T16:00:00Z] status=200 remaining=54534 cost=20
+  2025-10-22 early: 40 games, 980 book-rows
+  [2025-10-22T23:00:00Z] status=200 remaining=54514 cost=20
+  2025-10-22 close: 40 games, 986 book-rows
+  [2025-10-23T16:00:00Z] status=200 remaining=54494 cost=20
+  2025-10-23 early: 39 games, 684 book-rows
+  [2025-10-23T23:00:00Z] status=200 remaining=54474 cost=20
+  2025-10-23 close: 39 games, 798 book-rows
+  [2025-10-24T16:00:00Z] status=200 remaining=54454 cost=20
+  2025-10-24 early: 36 games, 898 book-rows
+  [2025-10-24T23:00:00Z] status=200 remaining=54434 cost=20
+  2025-10-24 close: 36 games, 868 book-rows
+  [2025-10-25T16:00:00Z] status=200 remaining=54414 cost=20
+  2025-10-25 early: 29 games, 476 book-rows
+  [2025-10-25T23:00:00Z] status=200 remaining=54394 cost=20
+  2025-10-25 close: 34 games, 660 book-rows
+  [2025-10-26T16:00:00Z] status=200 remaining=54374 cost=20
+  2025-10-26 early: 30 games, 682 book-rows
+  [2025-10-26T23:00:00Z] status=200 remaining=54354 cost=20
+  2025-10-26 close: 22 games, 564 book-rows
+  [2025-10-27T16:00:00Z] status=200 remaining=54334 cost=20
+  2025-10-27 early: 20 games, 740 book-rows
+  [2025-10-27T23:00:00Z] status=200 remaining=54314 cost=20
+  2025-10-27 close: 20 games, 786 book-rows
+  [2025-10-28T16:00:00Z] status=200 remaining=54294 cost=20
+  2025-10-28 early: 14 games, 404 book-rows
+  [2025-10-28T23:00:00Z] status=200 remaining=54274 cost=20
+  2025-10-28 close: 21 games, 566 book-rows
+  [2025-10-29T16:00:00Z] status=200 remaining=54254 cost=20
+  2025-10-29 early: 19 games, 714 book-rows
+  [2025-10-29T23:00:00Z] status=200 remaining=54234 cost=20
+  2025-10-29 close: 23 games, 804 book-rows
+  [2025-10-30T16:00:00Z] status=200 remaining=54214 cost=20
+  2025-10-30 early: 20 games, 510 book-rows
+  [2025-10-30T23:00:00Z] status=200 remaining=54194 cost=20
+  2025-10-30 close: 20 games, 696 book-rows
+  [2025-10-31T16:00:00Z] status=200 remaining=54174 cost=20
+  2025-10-31 early: 16 games, 562 book-rows
+  [2025-10-31T23:00:00Z] status=200 remaining=54154 cost=20
+  2025-10-31 close: 22 games, 690 book-rows
+  [2025-11-01T16:00:00Z] status=200 remaining=54134 cost=20
+  2025-11-01 early: 10 games, 464 book-rows
+  [2025-11-01T23:00:00Z] status=200 remaining=54114 cost=20
+  2025-11-01 close: 14 games, 528 book-rows
+  [2025-11-02T16:00:00Z] status=200 remaining=54094 cost=20
+  2025-11-02 early: 11 games, 578 book-rows
+  [2025-11-02T23:00:00Z] status=200 remaining=54074 cost=20
+  2025-11-02 close: 11 games, 516 book-rows
+  [2025-11-03T16:00:00Z] status=200 remaining=54054 cost=20
+  2025-11-03 early: 12 games, 644 book-rows
+  [2025-11-03T23:00:00Z] status=200 remaining=54034 cost=20
+  2025-11-03 close: 12 games, 644 book-rows
+  [2025-11-04T16:00:00Z] status=200 remaining=54014 cost=20
+  2025-11-04 early: 9 games, 446 book-rows
+  [2025-11-04T23:00:00Z] status=200 remaining=53994 cost=20
+  2025-11-04 close: 9 games, 446 book-rows
+  [2025-11-05T16:00:00Z] status=200 remaining=53974 cost=20
+  2025-11-05 early: 14 games, 754 book-rows
+  [2025-11-05T23:00:00Z] status=200 remaining=53954 cost=20
+  2025-11-05 close: 15 games, 736 book-rows
+  [2025-11-06T16:00:00Z] status=200 remaining=53934 cost=20
+  2025-11-06 early: 15 games, 500 book-rows
+  [2025-11-06T23:00:00Z] status=200 remaining=53914 cost=20
+  2025-11-06 close: 15 games, 580 book-rows
+  [2025-11-07T16:00:00Z] status=200 remaining=53894 cost=20
+  2025-11-07 early: 14 games, 688 book-rows
+  [2025-11-07T23:00:00Z] status=200 remaining=53874 cost=20
+  2025-11-07 close: 14 games, 686 book-rows
+  [2025-11-08T16:00:00Z] status=200 remaining=53854 cost=20
+  2025-11-08 early: 11 games, 576 book-rows
+  [2025-11-08T23:00:00Z] status=200 remaining=53834 cost=20
+  2025-11-08 close: 14 games, 622 book-rows
+  [2025-11-09T16:00:00Z] status=200 remaining=53814 cost=20
+  2025-11-09 early: 10 games, 500 book-rows
+  [2025-11-09T23:00:00Z] status=200 remaining=53794 cost=20
+  2025-11-09 close: 10 games, 466 book-rows
+  [2025-11-10T16:00:00Z] status=200 remaining=53774 cost=20
+  2025-11-10 early: 12 games, 626 book-rows
+  [2025-11-10T23:00:00Z] status=200 remaining=53754 cost=20
+  2025-11-10 close: 12 games, 626 book-rows
+  [2025-11-11T16:00:00Z] status=200 remaining=53734 cost=20
+  2025-11-11 early: 9 games, 420 book-rows
+  [2025-11-11T23:00:00Z] status=200 remaining=53714 cost=20
+  2025-11-11 close: 19 games, 752 book-rows
+  [2025-11-12T16:00:00Z] status=200 remaining=53694 cost=20
+  2025-11-12 early: 15 games, 810 book-rows
+  [2025-11-12T23:00:00Z] status=200 remaining=53674 cost=20
+  2025-11-12 close: 15 games, 792 book-rows
+  [2025-11-13T16:00:00Z] status=200 remaining=53654 cost=20
+  2025-11-13 early: 8 games, 282 book-rows
+  [2025-11-13T23:00:00Z] status=200 remaining=53634 cost=20
+  2025-11-13 close: 10 games, 380 book-rows
+  [2025-11-14T16:00:00Z] status=200 remaining=53614 cost=20
+  2025-11-14 early: 12 games, 554 book-rows
+  [2025-11-14T23:00:00Z] status=200 remaining=53594 cost=20
+  2025-11-14 close: 12 games, 560 book-rows
+  [2025-11-15T16:00:00Z] status=200 remaining=53574 cost=20
+  2025-11-15 early: 8 games, 376 book-rows
+  [2025-11-15T23:00:00Z] status=200 remaining=53554 cost=20
+  2025-11-15 close: 8 games, 358 book-rows
+  [2025-11-16T16:00:00Z] status=200 remaining=53534 cost=20
+  2025-11-16 early: 11 games, 568 book-rows
+  [2025-11-16T23:00:00Z] status=200 remaining=53514 cost=20
+  2025-11-16 close: 13 games, 554 book-rows
+  [2025-11-17T16:00:00Z] status=200 remaining=53494 cost=20
+  2025-11-17 early: 11 games, 584 book-rows
+  [2025-11-17T23:00:00Z] status=200 remaining=53474 cost=20
+  2025-11-17 close: 12 games, 588 book-rows
+  [2025-11-18T16:00:00Z] status=200 remaining=53454 cost=20
+  2025-11-18 early: 6 games, 382 book-rows
+  [2025-11-18T23:00:00Z] status=200 remaining=53434 cost=20
+  2025-11-18 close: 6 games, 378 book-rows
+  [2025-11-19T16:00:00Z] status=200 remaining=53414 cost=20
+  2025-11-19 early: 9 games, 594 book-rows
+  [2025-11-19T23:00:00Z] status=200 remaining=53394 cost=20
+  2025-11-19 close: 9 games, 592 book-rows
+  [2025-11-20T16:00:00Z] status=200 remaining=53374 cost=20
+  2025-11-20 early: 6 games, 310 book-rows
+  [2025-11-20T23:00:00Z] status=200 remaining=53354 cost=20
+  2025-11-20 close: 13 games, 640 book-rows
+  [2025-11-21T16:00:00Z] status=200 remaining=53334 cost=20
+  2025-11-21 early: 9 games, 522 book-rows
+  [2025-11-21T23:00:00Z] status=200 remaining=53314 cost=20
+  2025-11-21 close: 9 games, 522 book-rows
+  [2025-11-22T16:00:00Z] status=200 remaining=53294 cost=20
+  2025-11-22 early: 7 games, 442 book-rows
+  [2025-11-22T23:00:00Z] status=200 remaining=53274 cost=20
+  2025-11-22 close: 9 games, 400 book-rows
+  [2025-11-23T16:00:00Z] status=200 remaining=53254 cost=20
+  2025-11-23 early: 8 games, 504 book-rows
+  [2025-11-23T23:00:00Z] status=200 remaining=53234 cost=20
+  2025-11-23 close: 7 games, 448 book-rows
+  [2025-11-24T16:00:00Z] status=200 remaining=53214 cost=20
+  2025-11-24 early: 10 games, 660 book-rows
+  [2025-11-24T23:00:00Z] status=200 remaining=53194 cost=20
+  2025-11-24 close: 10 games, 660 book-rows
+  [2025-11-25T16:00:00Z] status=200 remaining=53174 cost=20
+  2025-11-25 early: 7 games, 292 book-rows
+  [2025-11-25T23:00:00Z] status=200 remaining=53154 cost=20
+  2025-11-25 close: 11 games, 406 book-rows
+  [2025-11-26T16:00:00Z] status=200 remaining=53134 cost=20
+  2025-11-26 early: 9 games, 540 book-rows
+  [2025-11-26T23:00:00Z] status=200 remaining=53114 cost=20
+  2025-11-26 close: 9 games, 518 book-rows
+  [2025-11-27T16:00:00Z] status=200 remaining=53094 cost=20
+  2025-11-27 early: 11 games, 614 book-rows
+  [2025-11-27T23:00:00Z] status=200 remaining=53074 cost=20
+  2025-11-27 close: 11 games, 610 book-rows
+  [2025-11-28T16:00:00Z] status=200 remaining=53054 cost=20
+  2025-11-28 early: 11 games, 638 book-rows
+  [2025-11-28T23:00:00Z] status=200 remaining=53034 cost=20
+  2025-11-28 close: 11 games, 638 book-rows
+  [2025-11-29T16:00:00Z] status=200 remaining=53014 cost=20
+  2025-11-29 early: 12 games, 542 book-rows
+  [2025-11-29T23:00:00Z] status=200 remaining=52994 cost=20
+  2025-11-29 close: 12 games, 528 book-rows
+  [2025-11-30T16:00:00Z] status=200 remaining=52974 cost=20
+  2025-11-30 early: 12 games, 564 book-rows
+  [2025-11-30T23:00:00Z] status=200 remaining=52954 cost=20
+  2025-11-30 close: 11 games, 504 book-rows
+  [2025-12-01T16:00:00Z] status=200 remaining=52934 cost=20
+  2025-12-01 early: 13 games, 718 book-rows
+  [2025-12-01T23:00:00Z] status=200 remaining=52914 cost=20
+  2025-12-01 close: 14 games, 744 book-rows
+  [2025-12-02T16:00:00Z] status=200 remaining=52894 cost=20
+  2025-12-02 early: 10 games, 478 book-rows
+  [2025-12-02T23:00:00Z] status=200 remaining=52874 cost=20
+  2025-12-02 close: 10 games, 506 book-rows
+  [2025-12-03T16:00:00Z] status=200 remaining=52854 cost=20
+  2025-12-03 early: 13 games, 732 book-rows
+  [2025-12-03T23:00:00Z] status=200 remaining=52834 cost=20
+  2025-12-03 close: 13 games, 738 book-rows
+  [2025-12-04T16:00:00Z] status=200 remaining=52814 cost=20
+  2025-12-04 early: 9 games, 454 book-rows
+  [2025-12-04T23:00:00Z] status=200 remaining=52794 cost=20
+  2025-12-04 close: 9 games, 454 book-rows
+  [2025-12-05T16:00:00Z] status=200 remaining=52774 cost=20
+  2025-12-05 early: 16 games, 906 book-rows
+  [2025-12-05T23:00:00Z] status=200 remaining=52754 cost=20
+  2025-12-05 close: 16 games, 904 book-rows
+  [2025-12-06T16:00:00Z] status=200 remaining=52734 cost=20
+  2025-12-06 early: 11 games, 580 book-rows
+  [2025-12-06T23:00:00Z] status=200 remaining=52714 cost=20
+  2025-12-06 close: 11 games, 570 book-rows
+  [2025-12-07T16:00:00Z] status=200 remaining=52694 cost=20
+  2025-12-07 early: 11 games, 602 book-rows
+  [2025-12-07T23:00:00Z] status=200 remaining=52674 cost=20
+  2025-12-07 close: 10 games, 496 book-rows
+  [2025-12-08T16:00:00Z] status=200 remaining=52654 cost=20
+  2025-12-08 early: 7 games, 354 book-rows
+  [2025-12-08T23:00:00Z] status=200 remaining=52634 cost=20
+  2025-12-08 close: 7 games, 368 book-rows
+  [2025-12-09T16:00:00Z] status=200 remaining=52614 cost=20
+  2025-12-09 early: 4 games, 212 book-rows
+  [2025-12-09T23:00:00Z] status=200 remaining=52594 cost=20
+  2025-12-09 close: 4 games, 224 book-rows
+  [2025-12-10T16:00:00Z] status=200 remaining=52574 cost=20
+  2025-12-10 early: 7 games, 350 book-rows
+  [2025-12-10T23:00:00Z] status=200 remaining=52554 cost=20
+  2025-12-10 close: 7 games, 396 book-rows
+  [2025-12-11T16:00:00Z] status=200 remaining=52534 cost=20
+  2025-12-11 early: 13 games, 656 book-rows
+  [2025-12-11T23:00:00Z] status=200 remaining=52514 cost=20
+  2025-12-11 close: 13 games, 690 book-rows
+  [2025-12-12T16:00:00Z] status=200 remaining=52494 cost=20
+  2025-12-12 early: 9 games, 576 book-rows
+  [2025-12-12T23:00:00Z] status=200 remaining=52474 cost=20
+  2025-12-12 close: 9 games, 558 book-rows
+  [2025-12-13T16:00:00Z] status=200 remaining=52454 cost=20
+  2025-12-13 early: 10 games, 448 book-rows
+  [2025-12-13T23:00:00Z] status=200 remaining=52434 cost=20
+  2025-12-13 close: 10 games, 484 book-rows
+  [2025-12-14T16:00:00Z] status=200 remaining=52414 cost=20
+  2025-12-14 early: 9 games, 572 book-rows
+  [2025-12-14T23:00:00Z] status=200 remaining=52394 cost=20
+  2025-12-14 close: 13 games, 612 book-rows
+  [2025-12-15T16:00:00Z] status=200 remaining=52374 cost=20
+  2025-12-15 early: 6 games, 384 book-rows
+  [2025-12-15T23:00:00Z] status=200 remaining=52354 cost=20
+  2025-12-15 close: 6 games, 382 book-rows
+  [2025-12-16T16:00:00Z] status=200 remaining=52334 cost=20
+  2025-12-16 early: 3 games, 142 book-rows
+  [2025-12-16T23:00:00Z] status=200 remaining=52314 cost=20
+  2025-12-16 close: 3 games, 152 book-rows
+  [2025-12-17T16:00:00Z] status=200 remaining=52294 cost=20
+  2025-12-17 early: 12 games, 594 book-rows
+  [2025-12-17T23:00:00Z] status=200 remaining=52274 cost=20
+  2025-12-17 close: 14 games, 698 book-rows
+  [2025-12-18T16:00:00Z] status=200 remaining=52254 cost=20
+  2025-12-18 early: 12 games, 790 book-rows
+  [2025-12-18T23:00:00Z] status=200 remaining=52234 cost=20
+  2025-12-18 close: 13 games, 818 book-rows
+  [2025-12-19T16:00:00Z] status=200 remaining=52214 cost=20
+  2025-12-19 early: 5 games, 340 book-rows
+  [2025-12-19T23:00:00Z] status=200 remaining=52194 cost=20
+  2025-12-19 close: 7 games, 396 book-rows
+  [2025-12-20T16:00:00Z] status=200 remaining=52174 cost=20
+  2025-12-20 early: 10 games, 678 book-rows
+  [2025-12-20T23:00:00Z] status=200 remaining=52154 cost=20
+  2025-12-20 close: 11 games, 692 book-rows
+  [2025-12-21T16:00:00Z] status=200 remaining=52134 cost=20
+  2025-12-21 early: 11 games, 506 book-rows
+  [2025-12-21T23:00:00Z] status=200 remaining=52114 cost=20
+  2025-12-21 close: 11 games, 494 book-rows
+  [2025-12-22T16:00:00Z] status=200 remaining=52094 cost=20
+  2025-12-22 early: 12 games, 618 book-rows
+  [2025-12-22T23:00:00Z] status=200 remaining=52074 cost=20
+  2025-12-22 close: 12 games, 610 book-rows
+  [2025-12-23T16:00:00Z] status=200 remaining=52054 cost=20
+  2025-12-23 early: 19 games, 1106 book-rows
+  [2025-12-23T23:00:00Z] status=200 remaining=52034 cost=20
+  2025-12-23 close: 19 games, 1108 book-rows
+  [2025-12-24T16:00:00Z] status=200 remaining=52014 cost=20
+  2025-12-24 early: 5 games, 320 book-rows
+  [2025-12-24T23:00:00Z] status=200 remaining=51994 cost=20
+  2025-12-24 close: 5 games, 336 book-rows
+  [2025-12-25T16:00:00Z] status=200 remaining=51974 cost=20
+  2025-12-25 early: 5 games, 340 book-rows
+  [2025-12-25T23:00:00Z] status=200 remaining=51954 cost=20
+  2025-12-25 close: 3 games, 182 book-rows
+  [2025-12-26T16:00:00Z] status=200 remaining=51934 cost=20
+  2025-12-26 early: 9 games, 584 book-rows
+  [2025-12-26T23:00:00Z] status=200 remaining=51914 cost=20
+  2025-12-26 close: 10 games, 622 book-rows
+  [2025-12-27T16:00:00Z] status=200 remaining=51894 cost=20
+  2025-12-27 early: 9 games, 594 book-rows
+  [2025-12-27T23:00:00Z] status=200 remaining=51874 cost=20
+  2025-12-27 close: 9 games, 574 book-rows
+  [2025-12-28T16:00:00Z] status=200 remaining=51854 cost=20
+  2025-12-28 early: 9 games, 494 book-rows
+  [2025-12-28T23:00:00Z] status=200 remaining=51834 cost=20
+  2025-12-28 close: 12 games, 576 book-rows
+  [2025-12-29T16:00:00Z] status=200 remaining=51814 cost=20
+  2025-12-29 early: 11 games, 748 book-rows
+  [2025-12-29T23:00:00Z] status=200 remaining=51794 cost=20
+  2025-12-29 close: 11 games, 748 book-rows
+  [2025-12-30T16:00:00Z] status=200 remaining=51774 cost=20
+  2025-12-30 early: 5 games, 298 book-rows
+  [2025-12-30T23:00:00Z] status=200 remaining=51754 cost=20
+  2025-12-30 close: 7 games, 360 book-rows
+  [2025-12-31T16:00:00Z] status=200 remaining=51734 cost=20
+  2025-12-31 early: 9 games, 608 book-rows
+  [2025-12-31T23:00:00Z] status=200 remaining=51714 cost=20
+  2025-12-31 close: 6 games, 352 book-rows
+  [2026-01-01T16:00:00Z] status=200 remaining=51694 cost=20
+  2026-01-01 early: 5 games, 340 book-rows
+  [2026-01-01T23:00:00Z] status=200 remaining=51674 cost=20
+  2026-01-01 close: 9 games, 420 book-rows
+  [2026-01-02T16:00:00Z] status=200 remaining=51654 cost=20
+  2026-01-02 early: 10 games, 672 book-rows
+  [2026-01-02T23:00:00Z] status=200 remaining=51634 cost=20
+  2026-01-02 close: 10 games, 680 book-rows
+  [2026-01-03T16:00:00Z] status=200 remaining=51614 cost=20
+  2026-01-03 early: 8 games, 544 book-rows
+  [2026-01-03T23:00:00Z] status=200 remaining=51594 cost=20
+  2026-01-03 close: 8 games, 520 book-rows
+  [2026-01-04T16:00:00Z] status=200 remaining=51574 cost=20
+  2026-01-04 early: 8 games, 522 book-rows
+  [2026-01-04T23:00:00Z] status=200 remaining=51554 cost=20
+  2026-01-04 close: 6 games, 360 book-rows
+  [2026-01-05T16:00:00Z] status=200 remaining=51534 cost=20
+  2026-01-05 early: 8 games, 544 book-rows
+  [2026-01-05T23:00:00Z] status=200 remaining=51514 cost=20
+  2026-01-05 close: 8 games, 544 book-rows
+  [2026-01-06T16:00:00Z] status=200 remaining=51494 cost=20
+  2026-01-06 early: 6 games, 406 book-rows
+  [2026-01-06T23:00:00Z] status=200 remaining=51474 cost=20
+  2026-01-06 close: 8 games, 462 book-rows
+  [2026-01-07T16:00:00Z] status=200 remaining=51454 cost=20
+  2026-01-07 early: 12 games, 814 book-rows
+  [2026-01-07T23:00:00Z] status=200 remaining=51434 cost=20
+  2026-01-07 close: 13 games, 840 book-rows
+  [2026-01-08T16:00:00Z] status=200 remaining=51414 cost=20
+  2026-01-08 early: 4 games, 272 book-rows
+  [2026-01-08T23:00:00Z] status=200 remaining=51394 cost=20
+  2026-01-08 close: 11 games, 508 book-rows
+  [2026-01-09T16:00:00Z] status=200 remaining=51374 cost=20
+  2026-01-09 early: 10 games, 674 book-rows
+  [2026-01-09T23:00:00Z] status=200 remaining=51354 cost=20
+  2026-01-09 close: 11 games, 690 book-rows
+  [2026-01-10T16:00:00Z] status=200 remaining=51334 cost=20
+  2026-01-10 early: 6 games, 406 book-rows
+  [2026-01-10T23:00:00Z] status=200 remaining=51314 cost=20
+  2026-01-10 close: 13 games, 598 book-rows
+  [2026-01-11T16:00:00Z] status=200 remaining=51294 cost=20
+  2026-01-11 early: 10 games, 660 book-rows
+  [2026-01-11T23:00:00Z] status=200 remaining=51274 cost=20
+  2026-01-11 close: 9 games, 576 book-rows
+  [2026-01-12T16:00:00Z] status=200 remaining=51254 cost=20
+  2026-01-12 early: 6 games, 408 book-rows
+  [2026-01-12T23:00:00Z] status=200 remaining=51234 cost=20
+  2026-01-12 close: 10 games, 542 book-rows
+  [2026-01-13T16:00:00Z] status=200 remaining=51214 cost=20
+  2026-01-13 early: 7 games, 462 book-rows
+  [2026-01-13T23:00:00Z] status=200 remaining=51194 cost=20
+  2026-01-13 close: 9 games, 498 book-rows
+  [2026-01-14T16:00:00Z] status=200 remaining=51174 cost=20
+  2026-01-14 early: 7 games, 472 book-rows
+  [2026-01-14T23:00:00Z] status=200 remaining=51154 cost=20
+  2026-01-14 close: 12 games, 646 book-rows
+  [2026-01-15T16:00:00Z] status=200 remaining=51134 cost=20
+  2026-01-15 early: 9 games, 612 book-rows
+  [2026-01-15T23:00:00Z] status=200 remaining=51114 cost=20
+  2026-01-15 close: 11 games, 560 book-rows
+  [2026-01-16T16:00:00Z] status=200 remaining=51094 cost=20
+  2026-01-16 early: 7 games, 436 book-rows
+  [2026-01-16T23:00:00Z] status=200 remaining=51074 cost=20
+  2026-01-16 close: 7 games, 436 book-rows
+  [2026-01-17T16:00:00Z] status=200 remaining=51054 cost=20
+  2026-01-17 early: 10 games, 656 book-rows
+  [2026-01-17T23:00:00Z] status=200 remaining=51034 cost=20
+  2026-01-17 close: 10 games, 640 book-rows
+  [2026-01-18T16:00:00Z] status=200 remaining=51014 cost=20
+  2026-01-18 early: 6 games, 408 book-rows
+  [2026-01-18T23:00:00Z] status=200 remaining=50994 cost=20
+  2026-01-18 close: 9 games, 420 book-rows
+  [2026-01-19T16:00:00Z] status=200 remaining=50974 cost=20
+  2026-01-19 early: 9 games, 592 book-rows
+  [2026-01-19T23:00:00Z] status=200 remaining=50954 cost=20
+  2026-01-19 close: 6 games, 352 book-rows
+  [2026-01-20T16:00:00Z] status=200 remaining=50934 cost=20
+  2026-01-20 early: 7 games, 476 book-rows
+  [2026-01-20T23:00:00Z] status=200 remaining=50914 cost=20
+  2026-01-20 close: 7 games, 476 book-rows
+  [2026-01-21T16:00:00Z] status=200 remaining=50894 cost=20
+  2026-01-21 early: 7 games, 448 book-rows
+  [2026-01-21T23:00:00Z] status=200 remaining=50874 cost=20
+  2026-01-21 close: 7 games, 456 book-rows
+  [2026-01-22T16:00:00Z] status=200 remaining=50854 cost=20
+  2026-01-22 early: 8 games, 542 book-rows
+  [2026-01-22T23:00:00Z] status=200 remaining=50834 cost=20
+  2026-01-22 close: 9 games, 502 book-rows
+  [2026-01-23T16:00:00Z] status=200 remaining=50814 cost=20
+  2026-01-23 early: 8 games, 512 book-rows
+  [2026-01-23T23:00:00Z] status=200 remaining=50794 cost=20
+  2026-01-23 close: 10 games, 556 book-rows
+  [2026-01-24T16:00:00Z] status=200 remaining=50774 cost=20
+  2026-01-24 early: 7 games, 460 book-rows
+  [2026-01-24T23:00:00Z] status=200 remaining=50754 cost=20
+  2026-01-24 close: 8 games, 336 book-rows
+  [2026-01-25T16:00:00Z] status=200 remaining=50734 cost=20
+  2026-01-25 early: 8 games, 544 book-rows
+  [2026-01-25T23:00:00Z] status=200 remaining=50714 cost=20
+  2026-01-25 close: 5 games, 312 book-rows
+  [2026-01-26T16:00:00Z] status=200 remaining=50694 cost=20
+  2026-01-26 early: 7 games, 476 book-rows
+  [2026-01-26T23:00:00Z] status=200 remaining=50674 cost=20
+  2026-01-26 close: 8 games, 416 book-rows
+  [2026-01-27T16:00:00Z] status=200 remaining=50654 cost=20
+  2026-01-27 early: 7 games, 462 book-rows
+  [2026-01-27T23:00:00Z] status=200 remaining=50634 cost=20
+  2026-01-27 close: 7 games, 446 book-rows
+  [2026-01-28T16:00:00Z] status=200 remaining=50614 cost=20
+  2026-01-28 early: 9 games, 612 book-rows
+  [2026-01-28T23:00:00Z] status=200 remaining=50594 cost=20
+  2026-01-28 close: 11 games, 544 book-rows
+  [2026-01-29T16:00:00Z] status=200 remaining=50574 cost=20
+  2026-01-29 early: 8 games, 526 book-rows
+  [2026-01-29T23:00:00Z] status=200 remaining=50554 cost=20
+  2026-01-29 close: 8 games, 544 book-rows
+  [2026-01-30T16:00:00Z] status=200 remaining=50534 cost=20
+  2026-01-30 early: 9 games, 612 book-rows
+  [2026-01-30T23:00:00Z] status=200 remaining=50514 cost=20
+  2026-01-30 close: 12 games, 668 book-rows
+  [2026-01-31T16:00:00Z] status=200 remaining=50494 cost=20
+  2026-01-31 early: 6 games, 396 book-rows
+  [2026-01-31T23:00:00Z] status=200 remaining=50474 cost=20
+  2026-01-31 close: 9 games, 446 book-rows
+  [2026-02-01T16:00:00Z] status=200 remaining=50454 cost=20
+  2026-02-01 early: 10 games, 680 book-rows
+  [2026-02-01T23:00:00Z] status=200 remaining=50434 cost=20
+  2026-02-01 close: 12 games, 652 book-rows
+  [2026-02-02T16:00:00Z] status=200 remaining=50414 cost=20
+  2026-02-02 early: 6 games, 320 book-rows
+  [2026-02-02T23:00:00Z] status=200 remaining=50394 cost=20
+  2026-02-02 close: 7 games, 328 book-rows
+  [2026-02-03T16:00:00Z] status=200 remaining=50374 cost=20
+  2026-02-03 early: 10 games, 658 book-rows
+  [2026-02-03T23:00:00Z] status=200 remaining=50354 cost=20
+  2026-02-03 close: 10 games, 658 book-rows
+  [2026-02-04T16:00:00Z] status=200 remaining=50334 cost=20
+  2026-02-04 early: 7 games, 476 book-rows
+  [2026-02-04T23:00:00Z] status=200 remaining=50314 cost=20
+  2026-02-04 close: 7 games, 476 book-rows
+  [2026-02-05T16:00:00Z] status=200 remaining=50294 cost=20
+  2026-02-05 early: 8 games, 526 book-rows
+  [2026-02-05T23:00:00Z] status=200 remaining=50274 cost=20
+  2026-02-05 close: 10 games, 554 book-rows
+  [2026-02-06T16:00:00Z] status=200 remaining=50254 cost=20
+  2026-02-06 early: 6 games, 404 book-rows
+  [2026-02-06T23:00:00Z] status=200 remaining=50234 cost=20
+  2026-02-06 close: 9 games, 482 book-rows
+  [2026-02-07T16:00:00Z] status=200 remaining=50214 cost=20
+  2026-02-07 early: 10 games, 660 book-rows
+  [2026-02-07T23:00:00Z] status=200 remaining=50194 cost=20
+  2026-02-07 close: 11 games, 628 book-rows
+  [2026-02-08T16:00:00Z] status=200 remaining=50174 cost=20
+  2026-02-08 early: 4 games, 272 book-rows
+  [2026-02-08T23:00:00Z] status=200 remaining=50154 cost=20
+  2026-02-08 close: 10 games, 498 book-rows
+  [2026-02-09T16:00:00Z] status=200 remaining=50134 cost=20
+  2026-02-09 early: 10 games, 670 book-rows
+  [2026-02-09T23:00:00Z] status=200 remaining=50114 cost=20
+  2026-02-09 close: 11 games, 688 book-rows
+  [2026-02-10T16:00:00Z] status=200 remaining=50094 cost=20
+  2026-02-10 early: 9 games, 438 book-rows
+  [2026-02-10T23:00:00Z] status=200 remaining=50074 cost=20
+  2026-02-10 close: 14 games, 644 book-rows
+  [2026-02-11T16:00:00Z] status=200 remaining=50054 cost=20
+  2026-02-11 early: 14 games, 886 book-rows
+  [2026-02-11T23:00:00Z] status=200 remaining=50034 cost=20
+  2026-02-11 close: 14 games, 888 book-rows
+  [2026-02-12T16:00:00Z] status=200 remaining=50014 cost=20
+  2026-02-12 early: 3 games, 202 book-rows
+  [2026-02-12T23:00:00Z] status=200 remaining=49994 cost=20
+  2026-02-12 close: 3 games, 202 book-rows
+  [2026-02-13T16:00:00Z] status=200 remaining=49974 cost=20
+  2026-02-13 early: 1 games, 4 book-rows
+  [2026-02-13T23:00:00Z] status=200 remaining=49954 cost=20
+  2026-02-13 close: 1 games, 4 book-rows
+  [2026-02-14T16:00:00Z] status=200 remaining=49934 cost=20
+  2026-02-14 early: 1 games, 4 book-rows
+  [2026-02-14T23:00:00Z] status=200 remaining=49914 cost=20
+  2026-02-14 close: 1 games, 4 book-rows
+  [2026-02-15T16:00:00Z] status=200 remaining=49894 cost=20
+  2026-02-15 early: 1 games, 4 book-rows
+  [2026-02-15T23:00:00Z] status=200 remaining=49874 cost=20
+  2026-02-15 close: 1 games, 4 book-rows
+  [2026-02-16T16:00:00Z] status=200 remaining=49854 cost=20
+  2026-02-16 early: 11 games, 460 book-rows
+  [2026-02-16T23:00:00Z] status=200 remaining=49834 cost=20
+  2026-02-16 close: 10 games, 480 book-rows
+  [2026-02-17T16:00:00Z] status=200 remaining=49814 cost=20
+  2026-02-17 early: 13 games, 548 book-rows
+  [2026-02-17T23:00:00Z] status=200 remaining=49794 cost=20
+  2026-02-17 close: 13 games, 600 book-rows
+  [2026-02-18T16:00:00Z] status=200 remaining=49774 cost=20
+  2026-02-18 early: 13 games, 606 book-rows
+  [2026-02-18T23:00:00Z] status=200 remaining=49754 cost=20
+  2026-02-18 close: 13 games, 672 book-rows
+  [2026-02-19T16:00:00Z] status=200 remaining=49734 cost=20
+  2026-02-19 early: 13 games, 778 book-rows
+  [2026-02-19T23:00:00Z] status=200 remaining=49714 cost=20
+  2026-02-19 close: 13 games, 776 book-rows
+  [2026-02-20T16:00:00Z] status=200 remaining=49694 cost=20
+  2026-02-20 early: 9 games, 558 book-rows
+  [2026-02-20T23:00:00Z] status=200 remaining=49674 cost=20
+  2026-02-20 close: 10 games, 632 book-rows
+  [2026-02-21T16:00:00Z] status=200 remaining=49654 cost=20
+  2026-02-21 early: 6 games, 406 book-rows
+  [2026-02-21T23:00:00Z] status=200 remaining=49634 cost=20
+  2026-02-21 close: 12 games, 550 book-rows
+  [2026-02-22T16:00:00Z] status=200 remaining=49614 cost=20
+  2026-02-22 early: 11 games, 746 book-rows
+  [2026-02-22T23:00:00Z] status=200 remaining=49594 cost=20
+  2026-02-22 close: 10 games, 540 book-rows
+  [2026-02-23T16:00:00Z] status=200 remaining=49574 cost=20
+  2026-02-23 early: 7 games, 372 book-rows
+  [2026-02-23T23:00:00Z] status=200 remaining=49554 cost=20
+  2026-02-23 close: 14 games, 672 book-rows
+  [2026-02-24T16:00:00Z] status=200 remaining=49534 cost=20
+  2026-02-24 early: 11 games, 724 book-rows
+  [2026-02-24T23:00:00Z] status=200 remaining=49514 cost=20
+  2026-02-24 close: 15 games, 848 book-rows
+  [2026-02-25T16:00:00Z] status=200 remaining=49494 cost=20
+  2026-02-25 early: 6 games, 396 book-rows
+  [2026-02-25T23:00:00Z] status=200 remaining=49474 cost=20
+  2026-02-25 close: 9 games, 502 book-rows
+  [2026-02-26T16:00:00Z] status=200 remaining=49454 cost=20
+  2026-02-26 early: 10 games, 656 book-rows
+  [2026-02-26T23:00:00Z] status=200 remaining=49434 cost=20
+  2026-02-26 close: 11 games, 676 book-rows
+  [2026-02-27T16:00:00Z] status=200 remaining=49414 cost=20
+  2026-02-27 early: 5 games, 340 book-rows
+  [2026-02-27T23:00:00Z] status=200 remaining=49394 cost=20
+  2026-02-27 close: 8 games, 428 book-rows
+  [2026-02-28T16:00:00Z] status=200 remaining=49374 cost=20
+  2026-02-28 early: 5 games, 340 book-rows
+  [2026-02-28T23:00:00Z] status=200 remaining=49354 cost=20
+  2026-02-28 close: 10 games, 456 book-rows
+  [2026-03-01T16:00:00Z] status=200 remaining=49334 cost=20
+  2026-03-01 early: 11 games, 714 book-rows
+  [2026-03-01T23:00:00Z] status=200 remaining=49314 cost=20
+  2026-03-01 close: 10 games, 538 book-rows
+  [2026-03-02T16:00:00Z] status=200 remaining=49294 cost=20
+  2026-03-02 early: 6 games, 340 book-rows
+  [2026-03-02T23:00:00Z] status=200 remaining=49274 cost=20
+  2026-03-02 close: 7 games, 374 book-rows
+  [2026-03-03T16:00:00Z] status=200 remaining=49254 cost=20
+  2026-03-03 early: 10 games, 680 book-rows
+  [2026-03-03T23:00:00Z] status=200 remaining=49234 cost=20
+  2026-03-03 close: 13 games, 768 book-rows
+  [2026-03-04T16:00:00Z] status=200 remaining=49214 cost=20
+  2026-03-04 early: 6 games, 396 book-rows
+  [2026-03-04T23:00:00Z] status=200 remaining=49194 cost=20
+  2026-03-04 close: 10 games, 486 book-rows
+  [2026-03-05T16:00:00Z] status=200 remaining=49174 cost=20
+  2026-03-05 early: 9 games, 594 book-rows
+  [2026-03-05T23:00:00Z] status=200 remaining=49154 cost=20
+  2026-03-05 close: 12 games, 682 book-rows
+  [2026-03-06T16:00:00Z] status=200 remaining=49134 cost=20
+  2026-03-06 early: 7 games, 448 book-rows
+  [2026-03-06T23:00:00Z] status=200 remaining=49114 cost=20
+  2026-03-06 close: 11 games, 592 book-rows
+  [2026-03-07T16:00:00Z] status=200 remaining=49094 cost=20
+  2026-03-07 early: 6 games, 384 book-rows
+  [2026-03-07T23:00:00Z] status=200 remaining=49074 cost=20
+  2026-03-07 close: 10 games, 464 book-rows
+  [2026-03-08T16:00:00Z] status=200 remaining=49054 cost=20
+  2026-03-08 early: 10 games, 652 book-rows
+  [2026-03-08T23:00:00Z] status=200 remaining=49034 cost=20
+  2026-03-08 close: 8 games, 478 book-rows
+  [2026-03-09T16:00:00Z] status=200 remaining=49014 cost=20
+  2026-03-09 early: 5 games, 326 book-rows
+  [2026-03-09T23:00:00Z] status=200 remaining=48994 cost=20
+  2026-03-09 close: 11 games, 540 book-rows
+  [2026-03-10T16:00:00Z] status=200 remaining=48974 cost=20
+  2026-03-10 early: 11 games, 712 book-rows
+  [2026-03-10T23:00:00Z] status=200 remaining=48954 cost=20
+  2026-03-10 close: 12 games, 734 book-rows
+  [2026-03-11T16:00:00Z] status=200 remaining=48934 cost=20
+  2026-03-11 early: 6 games, 388 book-rows
+  [2026-03-11T23:00:00Z] status=200 remaining=48914 cost=20
+  2026-03-11 close: 8 games, 436 book-rows
+  [2026-03-12T16:00:00Z] status=200 remaining=48894 cost=20
+  2026-03-12 early: 9 games, 588 book-rows
+  [2026-03-12T23:00:00Z] status=200 remaining=48874 cost=20
+  2026-03-12 close: 11 games, 618 book-rows
+  [2026-03-13T16:00:00Z] status=200 remaining=48854 cost=20
+  2026-03-13 early: 8 games, 522 book-rows
+  [2026-03-13T23:00:00Z] status=200 remaining=48834 cost=20
+  2026-03-13 close: 12 games, 644 book-rows
+  [2026-03-14T16:00:00Z] status=200 remaining=48814 cost=20
+  2026-03-14 early: 7 games, 460 book-rows
+  [2026-03-14T23:00:00Z] status=200 remaining=48794 cost=20
+  2026-03-14 close: 6 games, 270 book-rows
+  [2026-03-15T16:00:00Z] status=200 remaining=48774 cost=20
+  2026-03-15 early: 7 games, 460 book-rows
+  [2026-03-15T23:00:00Z] status=200 remaining=48754 cost=20
+  2026-03-15 close: 5 games, 224 book-rows
+  [2026-03-16T16:00:00Z] status=200 remaining=48734 cost=20
+  2026-03-16 early: 8 games, 524 book-rows
+  [2026-03-16T23:00:00Z] status=200 remaining=48714 cost=20
+  2026-03-16 close: 9 games, 552 book-rows
+  [2026-03-17T16:00:00Z] status=200 remaining=48694 cost=20
+  2026-03-17 early: 8 games, 518 book-rows
+  [2026-03-17T23:00:00Z] status=200 remaining=48674 cost=20
+  2026-03-17 close: 11 games, 598 book-rows
+  [2026-03-18T16:00:00Z] status=200 remaining=48654 cost=20
+  2026-03-18 early: 9 games, 588 book-rows
+  [2026-03-18T23:00:00Z] status=200 remaining=48634 cost=20
+  2026-03-18 close: 9 games, 586 book-rows
+  [2026-03-19T16:00:00Z] status=200 remaining=48614 cost=20
+  2026-03-19 early: 8 games, 524 book-rows
+  [2026-03-19T23:00:00Z] status=200 remaining=48594 cost=20
+  2026-03-19 close: 10 games, 574 book-rows
+  [2026-03-20T16:00:00Z] status=200 remaining=48574 cost=20
+  2026-03-20 early: 7 games, 424 book-rows
+  [2026-03-20T23:00:00Z] status=200 remaining=48554 cost=20
+  2026-03-20 close: 9 games, 466 book-rows
+  [2026-03-21T16:00:00Z] status=200 remaining=48534 cost=20
+  2026-03-21 early: 10 games, 656 book-rows
+  [2026-03-21T23:00:00Z] status=200 remaining=48514 cost=20
+  2026-03-21 close: 10 games, 630 book-rows
+  [2026-03-22T16:00:00Z] status=200 remaining=48494 cost=20
+  2026-03-22 early: 5 games, 324 book-rows
+  [2026-03-22T23:00:00Z] status=200 remaining=48474 cost=20
+  2026-03-22 close: 12 games, 428 book-rows
+  [2026-03-23T16:00:00Z] status=200 remaining=48454 cost=20
+  2026-03-23 early: 10 games, 652 book-rows
+  [2026-03-23T23:00:00Z] status=200 remaining=48434 cost=20
+  2026-03-23 close: 12 games, 702 book-rows
+  [2026-03-24T16:00:00Z] status=200 remaining=48414 cost=20
+  2026-03-24 early: 6 games, 310 book-rows
+  [2026-03-24T23:00:00Z] status=200 remaining=48394 cost=20
+  2026-03-24 close: 11 games, 428 book-rows
+  [2026-03-25T16:00:00Z] status=200 remaining=48374 cost=20
+  2026-03-25 early: 12 games, 756 book-rows
+  [2026-03-25T23:00:00Z] status=200 remaining=48354 cost=20
+  2026-03-25 close: 12 games, 756 book-rows
+  [2026-03-26T16:00:00Z] status=200 remaining=48334 cost=20
+  2026-03-26 early: 5 games, 268 book-rows
+  [2026-03-26T23:00:00Z] status=200 remaining=48314 cost=20
+  2026-03-26 close: 8 games, 406 book-rows
+  [2026-03-27T16:00:00Z] status=200 remaining=48294 cost=20
+  2026-03-27 early: 10 games, 652 book-rows
+  [2026-03-27T23:00:00Z] status=200 remaining=48274 cost=20
+  2026-03-27 close: 13 games, 732 book-rows
+  [2026-03-28T16:00:00Z] status=200 remaining=48254 cost=20
+  2026-03-28 early: 7 games, 424 book-rows
+  [2026-03-28T23:00:00Z] status=200 remaining=48234 cost=20
+  2026-03-28 close: 10 games, 458 book-rows
+  [2026-03-29T16:00:00Z] status=200 remaining=48214 cost=20
+  2026-03-29 early: 9 games, 586 book-rows
+  [2026-03-29T23:00:00Z] status=200 remaining=48194 cost=20
+  2026-03-29 close: 10 games, 470 book-rows
+  [2026-03-30T16:00:00Z] status=200 remaining=48174 cost=20
+  2026-03-30 early: 8 games, 500 book-rows
+  [2026-03-30T23:00:00Z] status=200 remaining=48154 cost=20
+  2026-03-30 close: 11 games, 548 book-rows
+  [2026-03-31T16:00:00Z] status=200 remaining=48134 cost=20
+  2026-03-31 early: 7 games, 424 book-rows
+  [2026-03-31T23:00:00Z] status=200 remaining=48114 cost=20
+  2026-03-31 close: 10 games, 524 book-rows
+  [2026-04-01T16:00:00Z] status=200 remaining=48094 cost=20
+  2026-04-01 early: 9 games, 560 book-rows
+  [2026-04-01T23:00:00Z] status=200 remaining=48074 cost=20
+  2026-04-01 close: 9 games, 564 book-rows
+  [2026-04-02T16:00:00Z] status=200 remaining=48054 cost=20
+  2026-04-02 early: 6 games, 388 book-rows
+  [2026-04-02T23:00:00Z] status=200 remaining=48034 cost=20
+  2026-04-02 close: 9 games, 436 book-rows
+  [2026-04-03T16:00:00Z] status=200 remaining=48014 cost=20
+  2026-04-03 early: 9 games, 584 book-rows
+  [2026-04-03T23:00:00Z] status=200 remaining=47994 cost=20
+  2026-04-03 close: 11 games, 650 book-rows
+  [2026-04-04T16:00:00Z] status=200 remaining=47974 cost=20
+  2026-04-04 early: 11 games, 436 book-rows
+  [2026-04-04T23:00:00Z] status=200 remaining=47954 cost=20
+  2026-04-04 close: 11 games, 520 book-rows
+  [2026-04-05T16:00:00Z] status=200 remaining=47934 cost=20
+  2026-04-05 early: 14 games, 816 book-rows
+  [2026-04-05T23:00:00Z] status=200 remaining=47914 cost=20
+  2026-04-05 close: 10 games, 560 book-rows
+  [2026-04-06T16:00:00Z] status=200 remaining=47894 cost=20
+  2026-04-06 early: 10 games, 464 book-rows
+  [2026-04-06T23:00:00Z] status=200 remaining=47874 cost=20
+  2026-04-06 close: 10 games, 532 book-rows
+  [2026-04-07T16:00:00Z] status=200 remaining=47854 cost=20
+  2026-04-07 early: 10 games, 668 book-rows
+  [2026-04-07T23:00:00Z] status=200 remaining=47834 cost=20
+  2026-04-07 close: 10 games, 666 book-rows
+  [2026-04-08T16:00:00Z] status=200 remaining=47814 cost=20
+  2026-04-08 early: 7 games, 462 book-rows
+  [2026-04-08T23:00:00Z] status=200 remaining=47794 cost=20
+  2026-04-08 close: 7 games, 458 book-rows
+  [2026-04-09T16:00:00Z] status=200 remaining=47774 cost=20
+  2026-04-09 early: 6 games, 404 book-rows
+  [2026-04-09T23:00:00Z] status=200 remaining=47754 cost=20
+  2026-04-09 close: 7 games, 428 book-rows
+  [2026-04-10T16:00:00Z] status=200 remaining=47734 cost=20
+  2026-04-10 early: 15 games, 1000 book-rows
+  [2026-04-10T23:00:00Z] status=200 remaining=47714 cost=20
+  2026-04-10 close: 15 games, 998 book-rows
+  [2026-04-11T16:00:00Z] status=200 remaining=47694 cost=20
+  2026-04-11 early: 9 games, 390 book-rows
+  [2026-04-11T23:00:00Z] status=200 remaining=47674 cost=20
+  2026-04-11 close: 15 games, 740 book-rows
+  [2026-04-12T16:00:00Z] status=200 remaining=47654 cost=20
+  2026-04-12 early: 15 games, 992 book-rows
+  [2026-04-12T23:00:00Z] status=200 remaining=47634 cost=20
+  2026-04-12 close: 15 games, 820 book-rows
+
+Saved 344,928 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/alpha_h2h_multibook.csv
+Books seen: ['betanysports', 'betclic_fr', 'betfair_ex_eu', 'betmgm', 'betonlineag', 'betrivers', 'betsson', 'betus', 'bovada', 'codere_it', 'coolbet', 'draftkings', 'everygame', 'fanatics', 'fanduel', 'gtbets', 'leovegas_se', 'lowvig', 'marathonbet', 'matchbook', 'mybookieag', 'nordicbet', 'onexbet', 'parionssport_fr', 'pinnacle', 'pmu_fr', 'sport888', 'tipico_de', 'unibet_fr', 'unibet_it', 'unibet_nl', 'unibet_se', 'williamhill', 'williamhill_us', 'winamax_de', 'winamax_fr']
+Est credits this run: ~6960
+ALL DONE Wed Jun 24 21:46:17 EDT 2026

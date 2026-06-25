@@ -1,0 +1,391 @@
+"### scripts/02_build_features.py"
+
+================ CLEANING DRAFTKINGS MARKET TABLE ================
+Wrote /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/draftkings_player_points_clean.csv
+Rows: 45,507
+Complete over/under rows: 45,493
+Date range: 2023-10-24 to 2026-04-10
+
+================ JOINING PROPS TO NBA RESULTS + FEATURES ================
+Wrote full joined file: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_props_with_results.csv
+Wrote matched modeling dataset: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset.csv
+Market rows: 45,507
+Matched rows: 43,821
+Match rate: 96.3%
+
+Sample unmatched rows:
+      date            player                                          game  points_line away_abbr home_abbr       player_norm
+2023-10-24  Keita Bates-Diop          Phoenix Suns @ Golden State Warriors          4.5       PHX       GSW   keita batesdiop
+2023-10-25     Amen Thompson               Houston Rockets @ Orlando Magic          7.5       HOU       ORL     amen thompson
+2023-10-25    Ausar Thompson                  Detroit Pistons @ Miami Heat         10.5       DET       MIA    ausar thompson
+2023-10-25    Brandon Miller             Atlanta Hawks @ Charlotte Hornets          8.5       ATL       CHA    brandon miller
+2023-10-25     Chet Holmgren         Oklahoma City Thunder @ Chicago Bulls         13.5       OKC       CHI     chet holmgren
+2023-10-25     Chris Boucher      Minnesota Timberwolves @ Toronto Raptors          5.5       MIN       TOR     chris boucher
+2023-10-25  Dereck Lively II          Dallas Mavericks @ San Antonio Spurs          6.5       DAL       SAS     dereck lively
+2023-10-25     James Wiseman                  Detroit Pistons @ Miami Heat          6.5       DET       MIA     james wiseman
+2023-10-25 Kenyon Martin Jr. Portland Trail Blazers @ Los Angeles Clippers          6.5       POR       LAC     kenyon martin
+2023-10-25   Scoot Henderson Portland Trail Blazers @ Los Angeles Clippers         13.5       POR       LAC   scoot henderson
+2023-10-25 Victor Wembanyama          Dallas Mavericks @ San Antonio Spurs         17.5       DAL       SAS victor wembanyama
+2023-10-27     Amen Thompson           Houston Rockets @ San Antonio Spurs          8.5       HOU       SAS     amen thompson
+2023-10-27    Ausar Thompson           Detroit Pistons @ Charlotte Hornets         10.5       DET       CHA    ausar thompson
+2023-10-27    Brandon Miller           Detroit Pistons @ Charlotte Hornets          8.5       DET       CHA    brandon miller
+2023-10-27    Cameron Thomas              Brooklyn Nets @ Dallas Mavericks         17.5       BKN       DAL    cameron thomas
+2023-10-27     Chet Holmgren   Oklahoma City Thunder @ Cleveland Cavaliers         11.5       OKC       CLE     chet holmgren
+2023-10-27  Dereck Lively II              Brooklyn Nets @ Dallas Mavericks          9.5       BKN       DAL     dereck lively
+2023-10-27   Scoot Henderson        Orlando Magic @ Portland Trail Blazers         14.5       ORL       POR   scoot henderson
+2023-10-27 Victor Wembanyama           Houston Rockets @ San Antonio Spurs         17.5       HOU       SAS victor wembanyama
+2023-10-28    Ausar Thompson               Chicago Bulls @ Detroit Pistons          9.5       CHI       DET    ausar thompson
+2023-10-29     Chet Holmgren        Denver Nuggets @ Oklahoma City Thunder         11.5       DEN       OKC     chet holmgren
+2023-10-29   Scoot Henderson   Portland Trail Blazers @ Philadelphia 76ers         13.5       POR       PHI   scoot henderson
+2023-10-29 Victor Wembanyama      San Antonio Spurs @ Los Angeles Clippers         17.5       SAS       LAC victor wembanyama
+2023-10-30    Brandon Miller             Brooklyn Nets @ Charlotte Hornets         10.5       BKN       CHA    brandon miller
+2023-10-30    Cameron Thomas             Brooklyn Nets @ Charlotte Hornets         23.5       BKN       CHA    cameron thomas
+2023-10-30  Dereck Lively II          Dallas Mavericks @ Memphis Grizzlies          9.5       DAL       MEM     dereck lively
+2023-11-01        Alec Burks      Portland Trail Blazers @ Detroit Pistons         13.5       POR       DET        alec burks
+2023-11-01    Cameron Thomas                    Brooklyn Nets @ Miami Heat         24.5       BKN       MIA    cameron thomas
+2023-11-01        RJ Barrett         Cleveland Cavaliers @ New York Knicks         18.5       CLE       NYK        rj barrett
+2023-11-01    Taurean Prince     Los Angeles Clippers @ Los Angeles Lakers          9.5       LAC       LAL    taurean prince
+2023-11-03    Cameron Thomas                 Brooklyn Nets @ Chicago Bulls         23.5       BKN       CHI    cameron thomas
+2023-11-03        Kevin Love               Washington Wizards @ Miami Heat          7.5       WAS       MIA        kevin love
+2023-11-04    Cameron Thomas                Boston Celtics @ Brooklyn Nets         21.5       BOS       BKN    cameron thomas
+2023-11-05     Chris Boucher           Toronto Raptors @ San Antonio Spurs          6.5       TOR       SAS     chris boucher
+2023-11-06    Cameron Thomas               Milwaukee Bucks @ Brooklyn Nets         23.5       MIL       BKN    cameron thomas
+2023-11-08    Cameron Thomas          Los Angeles Clippers @ Brooklyn Nets         26.5       LAC       BKN    cameron thomas
+2023-11-08      JaVale McGee     Portland Trail Blazers @ Sacramento Kings          6.5       POR       SAC      javale mcgee
+2023-11-09       Jalen Smith              Milwaukee Bucks @ Indiana Pacers          9.5       MIL       IND       jalen smith
+2023-11-10     Herbert Jones        New Orleans Pelicans @ Houston Rockets          9.5       NOP       HOU     herbert jones
+2023-11-11    Markelle Fultz               Milwaukee Bucks @ Orlando Magic         13.5       MIL       ORL    markelle fultz
+
+Outcome counts on matched rows:
+went_over     21393
+went_under    22428
+push              0
+
+================ DONE ================
+Next step after this: train model + run backtest.
+"### scripts/025_add_matchup_features.py"
+================ DEFENSE MATCHUP FEATURES ADDED ================
+Input dataset:  /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset.csv
+Output dataset: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset_with_matchups.csv
+Rows: 43,821
+
+New matchup columns:
+['scoring_role', 'def_role_pts_allowed_l10', 'def_role_fta_allowed_l10', 'def_role_pfd_allowed_l10', 'def_role_players_faced_l10', 'def_role_pts_allowed_l20', 'def_role_fta_allowed_l20', 'def_role_pfd_allowed_l20', 'def_role_players_faced_l20', 'matchup_pts_edge_l10', 'matchup_fta_edge_l10', 'matchup_pfd_edge_l10', 'matchup_pts_edge_l20', 'matchup_fta_edge_l20', 'matchup_pfd_edge_l20']
+
+Scoring role counts:
+scoring_role
+rotation     17695
+starter      12752
+star          7635
+low_usage     5739
+"### scripts/026_add_referee_features.py"
+================ BUILDING REFEREE FEATURES ================
+Referee games: 6,150
+Referee games matched to NBA stats by date/away/home: 6,140 (99.8%)
+Prop rows matched to referee features: 43,748 / 43,821 (99.8%)
+
+================ REFEREE FEATURES ADDED ================
+Input dataset:  /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset_with_matchups.csv
+Output dataset: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset_with_referees.csv
+Rows: 43,821
+
+New referee columns:
+['crew_n_officials', 'crew_total_pts_l20', 'crew_total_fta_l20', 'crew_total_pf_l20', 'crew_total_pfd_l20', 'crew_home_fta_edge_l20', 'crew_home_pf_edge_l20', 'crew_home_pts_edge_l20', 'crew_total_pts_l50', 'crew_total_fta_l50', 'crew_total_pf_l50', 'crew_total_pfd_l50', 'crew_home_fta_edge_l50', 'crew_home_pf_edge_l50', 'crew_home_pts_edge_l50', 'crew_total_pts_z_l20', 'crew_total_fta_z_l20', 'crew_total_pf_z_l20', 'crew_total_pfd_z_l20', 'crew_home_fta_edge_z_l20', 'crew_home_pf_edge_z_l20', 'crew_home_pts_edge_z_l20', 'crew_total_pts_z_l50', 'crew_total_fta_z_l50', 'crew_total_pf_z_l50', 'crew_total_pfd_z_l50', 'crew_home_fta_edge_z_l50', 'crew_home_pf_edge_z_l50', 'crew_home_pts_edge_z_l50', 'ref_contact_strictness_l20', 'ref_scoring_environment_l20', 'player_side_ref_fta_edge_l20', 'player_side_ref_pf_edge_l20', 'ref_contact_x_player_pfd_per_min_l10', 'ref_contact_x_player_fta_per_min_l10', 'ref_contact_x_matchup_pfd_edge_l10']
+"### scripts/03_train_and_backtest.py"
+
+================ TRAINING BASELINE MODEL ================
+Loaded dataset: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset_with_matchups.csv
+Rows: 43,821
+Date range: 2023-10-24 to 2026-04-10
+Using 43 features:
+['points_line', 'market_prob_over_novig', 'player_pts_l5', 'player_fta_l5', 'player_pfd_l5', 'player_min_l5', 'player_fga_l5', 'player_pf_l5', 'player_pts_l10', 'player_fta_l10', 'player_pfd_l10', 'player_min_l10', 'player_fga_l10', 'player_pf_l10', 'player_pts_l20', 'player_fta_l20', 'player_pfd_l20', 'player_min_l20', 'player_fga_l20', 'player_pf_l20', 'player_pts_per_min_l10', 'player_fta_per_min_l10', 'player_pfd_per_min_l10', 'player_fga_per_min_l10', 'opp_pf_l10', 'opp_fta_allowed_l10', 'opp_pf_l20', 'opp_fta_allowed_l20', 'simple_matchup_risk', 'def_role_pts_allowed_l10', 'def_role_fta_allowed_l10', 'def_role_pfd_allowed_l10', 'def_role_players_faced_l10', 'def_role_pts_allowed_l20', 'def_role_fta_allowed_l20', 'def_role_pfd_allowed_l20', 'def_role_players_faced_l20', 'matchup_pts_edge_l10', 'matchup_fta_edge_l10', 'matchup_pfd_edge_l10', 'matchup_pts_edge_l20', 'matchup_fta_edge_l20', 'matchup_pfd_edge_l20']
+
+Time split date: 2025-11-07
+Train rows: 30,853 | 2023-10-24 to 2025-11-06
+Test rows:  12,954 | 2025-11-07 to 2026-04-10
+
+================ MODEL METRICS ================
+train_auc: 0.539815
+test_auc: 0.529412
+train_log_loss: 0.690285
+test_log_loss: 0.691894
+train_brier: 0.248574
+test_brier: 0.249370
+train_accuracy_50pct: 0.529057
+test_accuracy_50pct: 0.528871
+market_test_auc: 0.532407
+market_test_log_loss: 0.691733
+market_test_brier: 0.249293
+
+Wrote predictions to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_predictions.csv
+Wrote model metrics to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_metrics.csv
+Wrote coefficients to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_coefficients.csv
+
+Top positive coefficients:
+                   feature  coefficient
+            player_min_l10     0.226459
+             player_pfd_l5     0.207203
+    player_fga_per_min_l10     0.160165
+      matchup_pfd_edge_l10     0.104820
+    market_prob_over_novig     0.096669
+  def_role_pts_allowed_l20     0.081780
+  def_role_pfd_allowed_l10     0.070475
+            player_fta_l10     0.065890
+      matchup_pts_edge_l20     0.055121
+def_role_players_faced_l10     0.054960
+
+Top negative coefficients:
+                   feature  coefficient
+      matchup_pfd_edge_l20    -0.055472
+             player_pf_l20    -0.056238
+def_role_players_faced_l20    -0.061265
+            player_pfd_l20    -0.062323
+             player_fta_l5    -0.118563
+  def_role_pfd_allowed_l20    -0.121363
+  def_role_pts_allowed_l10    -0.148885
+            player_pts_l10    -0.149831
+             player_min_l5    -0.166441
+            player_fga_l10    -0.206588
+
+================ BACKTEST RESULTS ================
+ threshold  n_bets  hit_rate  avg_return_per_bet  total_return_sum  roi_per_dollar_staked  return_vol  per_bet_sharpe  max_drawdown  over_bets  under_bets
+     0.025    4885  0.521597           -0.020527       -100.274858              -0.020527    0.939339       -0.021853          -1.0        866        4019
+     0.050    1158  0.500000           -0.059517        -68.920856              -0.059517    0.941775       -0.063197          -1.0        105        1053
+     0.075     232  0.508621           -0.040885         -9.485249              -0.040885    0.945399       -0.043246          -1.0          7         225
+     0.100      35  0.571429            0.075611          2.646390               0.075611    0.945879        0.079937          -1.0          0          35
+
+Wrote trades to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/trades.csv
+Wrote summary to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/backtest_summary.csv
+"### scripts/04_make_outputs.py"
+Matplotlib is building the font cache; this may take a moment.
+STRATEGY DIAGNOSTIC SUMMARY
+================================================================================
+
+Predictions file: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_predictions.csv
+Total diagnostic trades across thresholds: 6,310
+
+OVERALL BY THRESHOLD
+--------------------------------------------------------------------------------
+ threshold  n_bets  hit_rate  avg_return_per_bet  total_units  return_vol  per_bet_sharpe  max_drawdown_units  avg_abs_edge  avg_model_prob_over  avg_market_prob_over  avg_points_line  meets_min_bets
+     0.025  4885.0  0.521597           -0.020527  -100.274858    0.939339       -0.021853         -125.264594      0.042337             0.469173              0.498433        16.014432            True
+     0.050  1158.0  0.500000           -0.059517   -68.920856    0.941775       -0.063197          -77.678027      0.065381             0.444715              0.499167        20.105354            True
+     0.075   232.0  0.508621           -0.040885    -9.485249    0.945399       -0.043246          -15.678348      0.088613             0.416607              0.500121        25.525862            True
+     0.100    35.0  0.571429            0.075611     2.646390    0.945879        0.079937           -6.000000      0.109595             0.388745              0.498339        28.585714            True
+
+BY THRESHOLD AND SIDE
+--------------------------------------------------------------------------------
+ threshold bet_side  n_bets  hit_rate  avg_return_per_bet  total_units  return_vol  per_bet_sharpe  max_drawdown_units  avg_abs_edge  avg_model_prob_over  avg_market_prob_over  avg_points_line  meets_min_bets
+     0.025    Under  4019.0  0.522269           -0.019729   -79.288900    0.938824       -0.021014          -89.354346      0.043512             0.454362              0.497874        16.641826            True
+     0.025     Over   866.0  0.518476           -0.024233   -20.985958    0.942263       -0.025718          -50.035900      0.036883             0.537912              0.501030        13.102771            True
+     0.050    Under  1053.0  0.501425           -0.056624   -59.625322    0.941991       -0.060111          -68.478848      0.065891             0.432832              0.498723        20.862773            True
+     0.050     Over   105.0  0.485714           -0.088529    -9.295534    0.943620       -0.093818          -18.930198      0.060269             0.563894              0.503625        12.509524            True
+     0.075    Under   225.0  0.520000           -0.019163    -4.311695    0.945112       -0.020276          -11.490387      0.088741             0.411014              0.499755        26.020000            True
+     0.075     Over     7.0  0.142857           -0.739079    -5.173554    0.690332       -1.070614           -4.173554      0.084507             0.596387              0.511880         9.642857           False
+     0.100    Under    35.0  0.571429            0.075611     2.646390    0.945879        0.079937           -6.000000      0.109595             0.388745              0.498339        28.585714            True
+
+BEST SLICES WITH AT LEAST 30 BETS
+--------------------------------------------------------------------------------
+bet_side scoring_role line_bucket  market_prob_bucket abs_edge_bucket   minutes_bucket   contact_bucket          matchup_pts_bucket matchup_contact_bucket diagnostic_type  threshold  n_bets  hit_rate  avg_return_per_bet  total_units  avg_abs_edge
+     NaN          NaN   star_line                 NaN             NaN              NaN              NaN                         NaN                    NaN            line      0.100    34.0  0.588235            0.107247     3.646390      0.109747
+     NaN          NaN         NaN                 NaN      edge_10_15              NaN              NaN                         NaN                    NaN            edge      0.100    35.0  0.571429            0.075611     2.646390      0.109595
+     NaN         star         NaN                 NaN             NaN              NaN              NaN                         NaN                    NaN            role      0.100    35.0  0.571429            0.075611     2.646390      0.109595
+     NaN          NaN         NaN                 NaN      edge_10_15              NaN              NaN                         NaN                    NaN            edge      0.050    35.0  0.571429            0.075611     2.646390      0.109595
+   Under          NaN         NaN                 NaN             NaN              NaN              NaN                         NaN                    NaN            side      0.100    35.0  0.571429            0.075611     2.646390      0.109595
+     NaN          NaN         NaN                 NaN      edge_10_15              NaN              NaN                         NaN                    NaN            edge      0.025    35.0  0.571429            0.075611     2.646390      0.109595
+     NaN          NaN         NaN                 NaN      edge_10_15              NaN              NaN                         NaN                    NaN            edge      0.075    35.0  0.571429            0.075611     2.646390      0.109595
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN (-19.601000000000003, -2.9]                    NaN     matchup_pts      0.075   123.0  0.569106            0.074861     9.207957      0.090355
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN                         NaN       (-0.746, 0.0417] matchup_contact      0.075    53.0  0.566038            0.067239     3.563686      0.088831
+     NaN          NaN         NaN                 NaN             NaN rotation_minutes              NaN                         NaN                    NaN         minutes      0.050   146.0  0.568493            0.063310     9.243197      0.059207
+     NaN          NaN         NaN                 NaN             NaN    heavy_minutes              NaN                         NaN                    NaN         minutes      0.100    34.0  0.558824            0.049280     1.675516      0.109612
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN                         NaN       (-5.001, -0.746] matchup_contact      0.075    77.0  0.545455            0.033155     2.552954      0.089200
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN                         NaN          (0.733, 4.25] matchup_contact      0.025  1203.0  0.549460            0.032097    38.613091      0.043118
+     NaN          NaN         NaN                 NaN             NaN              NaN   (0.131, 0.307]                         NaN                    NaN         contact      0.075   116.0  0.543103            0.026363     3.058091      0.089359
+     NaN          NaN   star_line                 NaN             NaN              NaN              NaN                         NaN                    NaN            line      0.075   182.0  0.538462            0.016676     3.035099      0.090358
+     NaN          NaN   star_line                 NaN             NaN              NaN              NaN                         NaN                    NaN            line      0.025  1185.0  0.535021            0.007481     8.865173      0.052819
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN               (1.188, 10.6]                    NaN     matchup_pts      0.025  1275.0  0.535686            0.007407     9.443781      0.040829
+     NaN          NaN         NaN                 NaN             NaN              NaN (-0.001, 0.0585]                         NaN                    NaN         contact      0.025  1356.0  0.538348            0.007344     9.959018      0.039047
+     NaN         star         NaN                 NaN             NaN              NaN              NaN                         NaN                    NaN            role      0.075   195.0  0.533333            0.007134     1.391072      0.089968
+     NaN          NaN         NaN                 NaN             NaN  starter_minutes              NaN                         NaN                    NaN         minutes      0.025  1646.0  0.534022            0.001923     3.165585      0.038648
+     NaN          NaN         NaN                 NaN             NaN              NaN  (0.0916, 0.131]                         NaN                    NaN         contact      0.075    66.0  0.530303           -0.000380    -0.025065      0.089292
+     NaN         star         NaN                 NaN             NaN              NaN              NaN                         NaN                    NaN            role      0.025  1306.0  0.529862           -0.001135    -1.482636      0.052868
+     NaN          NaN         NaN  market_slight_over             NaN              NaN              NaN                         NaN                    NaN     market_prob      0.075   112.0  0.517857           -0.001626    -0.182076      0.088148
+     NaN          NaN         NaN                 NaN             NaN              NaN              NaN                         NaN        (0.0417, 0.733] matchup_contact      0.025  1253.0  0.531524           -0.002592    -3.247836      0.041235
+     NaN          NaN         NaN                 NaN             NaN    heavy_minutes              NaN                         NaN                    NaN         minutes      0.075   199.0  0.527638           -0.003176    -0.631932      0.089762
+     NaN          NaN         NaN                 NaN             NaN              NaN  (0.0916, 0.131]                         NaN                    NaN         contact      0.025  1190.0  0.529412           -0.004603    -5.477108      0.043323
+     NaN          NaN         NaN                 NaN        edge_0_5              NaN              NaN                         NaN                    NaN            edge      0.025  3727.0  0.528307           -0.008413   -31.354002      0.035177
+     NaN      starter         NaN                 NaN             NaN              NaN              NaN                         NaN                    NaN            role      0.050   261.0  0.528736           -0.009420    -2.458565      0.060517
+     NaN          NaN    low_line                 NaN             NaN              NaN              NaN                         NaN                    NaN            line      0.025   857.0  0.527421           -0.013203   -11.315225      0.038078
+     NaN          NaN         NaN market_slight_under             NaN              NaN              NaN                         NaN                    NaN     market_prob      0.025  2704.0  0.532914           -0.014308   -38.688553      0.042236
+
+FILES WRITTEN
+--------------------------------------------------------------------------------
+reports/tables/diagnostic_trades_all_thresholds.csv
+reports/tables/diagnostic_by_threshold.csv
+reports/tables/diagnostic_by_threshold_and_side.csv
+reports/tables/diagnostic_by_threshold_and_scoring_role.csv
+reports/tables/diagnostic_by_threshold_and_line_bucket.csv
+reports/tables/diagnostic_by_threshold_and_market_prob_bucket.csv
+reports/tables/diagnostic_by_threshold_and_abs_edge_bucket.csv
+reports/tables/diagnostic_by_threshold_and_minutes_bucket.csv
+reports/tables/diagnostic_by_threshold_and_contact_bucket.csv
+reports/tables/diagnostic_by_threshold_and_matchup_pts_bucket.csv
+reports/tables/diagnostic_by_threshold_and_matchup_contact_bucket.csv
+reports/tables/diagnostic_by_threshold_and_player.csv
+reports/tables/diagnostic_best_slices_min30.csv
+
+Figures written to reports/figures/
+
+================================================================================
+WROTE SUMMARY: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/strategy_diagnostic_summary.txt
+WROTE TABLES TO: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/tables
+WROTE FIGURES TO: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/figures
+================================================================================
+"### scripts/03_train_and_backtest.py"
+
+================ TRAINING BASELINE MODEL ================
+Loaded dataset: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/processed/player_points_modeling_dataset_with_referees.csv
+Rows: 43,821
+Date range: 2023-10-24 to 2026-04-10
+Using 79 features:
+['points_line', 'market_prob_over_novig', 'player_pts_l5', 'player_fta_l5', 'player_pfd_l5', 'player_min_l5', 'player_fga_l5', 'player_pf_l5', 'player_pts_l10', 'player_fta_l10', 'player_pfd_l10', 'player_min_l10', 'player_fga_l10', 'player_pf_l10', 'player_pts_l20', 'player_fta_l20', 'player_pfd_l20', 'player_min_l20', 'player_fga_l20', 'player_pf_l20', 'player_pts_per_min_l10', 'player_fta_per_min_l10', 'player_pfd_per_min_l10', 'player_fga_per_min_l10', 'opp_pf_l10', 'opp_fta_allowed_l10', 'opp_pf_l20', 'opp_fta_allowed_l20', 'simple_matchup_risk', 'def_role_pts_allowed_l10', 'def_role_fta_allowed_l10', 'def_role_pfd_allowed_l10', 'def_role_players_faced_l10', 'def_role_pts_allowed_l20', 'def_role_fta_allowed_l20', 'def_role_pfd_allowed_l20', 'def_role_players_faced_l20', 'matchup_pts_edge_l10', 'matchup_fta_edge_l10', 'matchup_pfd_edge_l10', 'matchup_pts_edge_l20', 'matchup_fta_edge_l20', 'matchup_pfd_edge_l20', 'crew_n_officials', 'crew_total_pts_l20', 'crew_total_fta_l20', 'crew_total_pf_l20', 'crew_total_pfd_l20', 'crew_home_fta_edge_l20', 'crew_home_pf_edge_l20', 'crew_home_pts_edge_l20', 'crew_total_pts_l50', 'crew_total_fta_l50', 'crew_total_pf_l50', 'crew_total_pfd_l50', 'crew_home_fta_edge_l50', 'crew_home_pf_edge_l50', 'crew_home_pts_edge_l50', 'crew_total_pts_z_l20', 'crew_total_fta_z_l20', 'crew_total_pf_z_l20', 'crew_total_pfd_z_l20', 'crew_home_fta_edge_z_l20', 'crew_home_pf_edge_z_l20', 'crew_home_pts_edge_z_l20', 'crew_total_pts_z_l50', 'crew_total_fta_z_l50', 'crew_total_pf_z_l50', 'crew_total_pfd_z_l50', 'crew_home_fta_edge_z_l50', 'crew_home_pf_edge_z_l50', 'crew_home_pts_edge_z_l50', 'ref_contact_strictness_l20', 'ref_scoring_environment_l20', 'player_side_ref_fta_edge_l20', 'player_side_ref_pf_edge_l20', 'ref_contact_x_player_pfd_per_min_l10', 'ref_contact_x_player_fta_per_min_l10', 'ref_contact_x_matchup_pfd_edge_l10']
+
+Time split date: 2025-11-07
+Train rows: 30,853 | 2023-10-24 to 2025-11-06
+Test rows:  12,954 | 2025-11-07 to 2026-04-10
+
+================ MODEL METRICS ================
+train_auc: 0.542373
+test_auc: 0.527981
+train_log_loss: 0.689983
+test_log_loss: 0.692285
+train_brier: 0.248424
+test_brier: 0.249562
+train_accuracy_50pct: 0.531942
+test_accuracy_50pct: 0.524240
+market_test_auc: 0.532407
+market_test_log_loss: 0.691733
+market_test_brier: 0.249293
+
+Wrote predictions to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_predictions.csv
+Wrote model metrics to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_metrics.csv
+Wrote coefficients to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_coefficients.csv
+
+Top positive coefficients:
+                             feature  coefficient
+                      player_min_l10     0.224767
+                       player_pfd_l5     0.210080
+              player_fga_per_min_l10     0.159407
+                matchup_pfd_edge_l10     0.101848
+              market_prob_over_novig     0.096603
+ref_contact_x_player_fta_per_min_l10     0.079170
+            def_role_pts_allowed_l20     0.078043
+                      player_fta_l10     0.067791
+            def_role_pfd_allowed_l10     0.064443
+                matchup_pts_edge_l20     0.055064
+
+Top negative coefficients:
+                             feature  coefficient
+                matchup_pfd_edge_l20    -0.058026
+          def_role_players_faced_l20    -0.059475
+                      player_pfd_l20    -0.061885
+ref_contact_x_player_pfd_per_min_l10    -0.103132
+                       player_fta_l5    -0.118981
+            def_role_pfd_allowed_l20    -0.122983
+            def_role_pts_allowed_l10    -0.144861
+                      player_pts_l10    -0.144988
+                       player_min_l5    -0.165585
+                      player_fga_l10    -0.198127
+
+================ BACKTEST RESULTS ================
+ threshold  n_bets  hit_rate  avg_return_per_bet  total_return_sum  roi_per_dollar_staked  return_vol  per_bet_sharpe  max_drawdown  over_bets  under_bets
+     0.025    5942  0.519522           -0.024258       -144.140104              -0.024258    0.939636       -0.025816           NaN        813        5129
+     0.050    1869  0.516854           -0.028565        -53.387304              -0.028565    0.940500       -0.030372          -1.0        123        1746
+     0.075     432  0.509259           -0.042217        -18.237958              -0.042217    0.942096       -0.044812          -1.0          7         425
+     0.100      95  0.515789           -0.030277         -2.876331              -0.030277    0.945363       -0.032027           NaN          0          95
+
+Wrote trades to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/trades.csv
+Wrote summary to: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/backtest_summary.csv
+"### scripts/04_make_outputs.py"
+STRATEGY DIAGNOSTIC SUMMARY
+================================================================================
+
+Predictions file: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/outputs/model_predictions.csv
+Total diagnostic trades across thresholds: 8,338
+
+OVERALL BY THRESHOLD
+--------------------------------------------------------------------------------
+ threshold  n_bets  hit_rate  avg_return_per_bet  total_units  return_vol  per_bet_sharpe  max_drawdown_units  avg_abs_edge  avg_model_prob_over  avg_market_prob_over  avg_points_line  meets_min_bets
+     0.025  5942.0  0.519522           -0.024258  -144.140104    0.939636       -0.025816         -164.792446      0.045668             0.463442              0.498715        15.613935            True
+     0.050  1869.0  0.516854           -0.028565   -53.387304    0.940500       -0.030372          -77.750476      0.067323             0.439015              0.498500        18.272071            True
+     0.075   432.0  0.509259           -0.042217   -18.237958    0.942096       -0.044812          -27.052505      0.091847             0.409018              0.498217        22.490741            True
+     0.100    95.0  0.515789           -0.030277    -2.876331    0.945363       -0.032027           -9.999288      0.116585             0.381011              0.497596        23.773684            True
+
+BY THRESHOLD AND SIDE
+--------------------------------------------------------------------------------
+ threshold bet_side  n_bets  hit_rate  avg_return_per_bet  total_units  return_vol  per_bet_sharpe  max_drawdown_units  avg_abs_edge  avg_model_prob_over  avg_market_prob_over  avg_points_line  meets_min_bets
+     0.025    Under  5129.0  0.522129           -0.019281   -98.890597    0.939503       -0.020522         -116.334542      0.046886             0.451414              0.498299        15.998733            True
+     0.025     Over   813.0  0.503075           -0.055657   -45.249507    0.940440       -0.059182          -59.844923      0.037987             0.539325              0.501338        13.186347            True
+     0.050    Under  1746.0  0.521191           -0.020354   -35.538933    0.940265       -0.021648          -58.652671      0.067870             0.430442              0.498312        18.631730            True
+     0.050     Over   123.0  0.455285           -0.145109   -17.848371    0.939924       -0.154383          -24.340446      0.059545             0.560712              0.501167        13.166667            True
+     0.075    Under   425.0  0.510588           -0.039527   -16.798984    0.942250       -0.041950          -26.706489      0.092014             0.406076              0.498090        22.681176            True
+     0.075     Over     7.0  0.428571           -0.205568    -1.438974    0.991686       -0.207291           -3.173554      0.081707             0.587659              0.505952        10.928571           False
+     0.100    Under    95.0  0.515789           -0.030277    -2.876331    0.945363       -0.032027           -9.999288      0.116585             0.381011              0.497596        23.773684            True
+
+BEST SLICES WITH AT LEAST 30 BETS
+--------------------------------------------------------------------------------
+bet_side scoring_role line_bucket market_prob_bucket abs_edge_bucket   minutes_bucket   contact_bucket matchup_pts_bucket matchup_contact_bucket diagnostic_type  threshold  n_bets  hit_rate  avg_return_per_bet  total_units  avg_abs_edge
+     NaN     rotation         NaN                NaN             NaN              NaN              NaN                NaN                    NaN            role      0.075    33.0  0.666667            0.234253     7.730353      0.089239
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN                NaN          (0.14, 0.857] matchup_contact      0.075    93.0  0.591398            0.107879    10.032786      0.093252
+     NaN          NaN    mid_line                NaN             NaN              NaN              NaN                NaN                    NaN            line      0.075    55.0  0.581818            0.077262     4.249396      0.090894
+     NaN          NaN         NaN market_slight_over             NaN              NaN              NaN                NaN                    NaN     market_prob      0.075   190.0  0.542105            0.045079     8.565060      0.092355
+     NaN          NaN         NaN market_slight_over             NaN              NaN              NaN                NaN                    NaN     market_prob      0.100    41.0  0.536585            0.036115     1.480711      0.116586
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN                NaN           (0.857, 6.1] matchup_contact      0.050   550.0  0.549091            0.034018    18.710061      0.067923
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN   (-2.567, -0.629]                    NaN     matchup_pts      0.075    86.0  0.546512            0.029700     2.554203      0.093878
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN                NaN           (0.857, 6.1] matchup_contact      0.025  1365.0  0.546520            0.028342    38.686889      0.049190
+     NaN          NaN         NaN                NaN             NaN              NaN   (0.124, 0.293]                NaN                    NaN         contact      0.100    39.0  0.538462            0.020068     0.782645      0.117581
+     NaN          NaN         NaN                NaN             NaN              NaN (-0.001, 0.0553]                NaN                    NaN         contact      0.025  1590.0  0.542767            0.018400    29.256425      0.043242
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN                NaN          (0.14, 0.857] matchup_contact      0.050   453.0  0.538631            0.013477     6.104923      0.066652
+     NaN          NaN         NaN                NaN             NaN              NaN (-0.001, 0.0553]                NaN                    NaN         contact      0.075    48.0  0.541667            0.012652     0.607293      0.090610
+     NaN          NaN         NaN                NaN             NaN rotation_minutes              NaN                NaN                    NaN         minutes      0.050   300.0  0.540000            0.011090     3.326863      0.061571
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN      (1.411, 10.6]                    NaN     matchup_pts      0.025  1486.0  0.537685            0.011006    16.355244      0.045563
+     NaN          NaN         NaN                NaN             NaN              NaN (0.0553, 0.0851]                NaN                    NaN         contact      0.075    80.0  0.537500            0.004758     0.380600      0.092268
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN                NaN          (0.14, 0.857] matchup_contact      0.025  1514.0  0.535007            0.004358     6.598335      0.044847
+     NaN          NaN         NaN                NaN             NaN              NaN (-0.001, 0.0553]                NaN                    NaN         contact      0.050   437.0  0.535469            0.003938     1.720978      0.062961
+     NaN          NaN   star_line                NaN             NaN              NaN              NaN                NaN                    NaN            line      0.025  1283.0  0.533125            0.003807     4.884574      0.056722
+     NaN         star         NaN                NaN             NaN              NaN              NaN                NaN                    NaN            role      0.050   797.0  0.528231           -0.002936    -2.339906      0.073378
+     NaN          NaN   star_line                NaN             NaN              NaN              NaN                NaN                    NaN            line      0.050   685.0  0.528467           -0.003552    -2.433116      0.073478
+     NaN          NaN         NaN market_slight_over             NaN              NaN              NaN                NaN                    NaN     market_prob      0.050   821.0  0.516443           -0.004030    -3.308473      0.067523
+     NaN         star         NaN                NaN             NaN              NaN              NaN                NaN                    NaN            role      0.025  1441.0  0.528105           -0.004496    -6.478935      0.057325
+     NaN          NaN         NaN                NaN             NaN  starter_minutes              NaN                NaN                    NaN         minutes      0.025  2168.0  0.529982           -0.005214   -11.304761      0.042858
+     NaN          NaN   high_line                NaN             NaN              NaN              NaN                NaN                    NaN            line      0.050   487.0  0.529774           -0.006887    -3.353834      0.065936
+     NaN          NaN         NaN                NaN      edge_10_15              NaN              NaN                NaN                    NaN            edge      0.025    91.0  0.527473           -0.007030    -0.639689      0.114467
+     NaN          NaN         NaN                NaN      edge_10_15              NaN              NaN                NaN                    NaN            edge      0.075    91.0  0.527473           -0.007030    -0.639689      0.114467
+     NaN          NaN         NaN                NaN      edge_10_15              NaN              NaN                NaN                    NaN            edge      0.100    91.0  0.527473           -0.007030    -0.639689      0.114467
+     NaN          NaN         NaN                NaN      edge_10_15              NaN              NaN                NaN                    NaN            edge      0.050    91.0  0.527473           -0.007030    -0.639689      0.114467
+     NaN          NaN         NaN                NaN             NaN              NaN   (0.124, 0.293]                NaN                    NaN         contact      0.050   538.0  0.524164           -0.010555    -5.678431      0.071545
+     NaN          NaN         NaN                NaN             NaN              NaN              NaN    (-0.629, 1.411]                    NaN     matchup_pts      0.050   427.0  0.526932           -0.011740    -5.013035      0.064924
+
+FILES WRITTEN
+--------------------------------------------------------------------------------
+reports/tables/diagnostic_trades_all_thresholds.csv
+reports/tables/diagnostic_by_threshold.csv
+reports/tables/diagnostic_by_threshold_and_side.csv
+reports/tables/diagnostic_by_threshold_and_scoring_role.csv
+reports/tables/diagnostic_by_threshold_and_line_bucket.csv
+reports/tables/diagnostic_by_threshold_and_market_prob_bucket.csv
+reports/tables/diagnostic_by_threshold_and_abs_edge_bucket.csv
+reports/tables/diagnostic_by_threshold_and_minutes_bucket.csv
+reports/tables/diagnostic_by_threshold_and_contact_bucket.csv
+reports/tables/diagnostic_by_threshold_and_matchup_pts_bucket.csv
+reports/tables/diagnostic_by_threshold_and_matchup_contact_bucket.csv
+reports/tables/diagnostic_by_threshold_and_player.csv
+reports/tables/diagnostic_best_slices_min30.csv
+
+Figures written to reports/figures/
+
+================================================================================
+WROTE SUMMARY: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/strategy_diagnostic_summary.txt
+WROTE TABLES TO: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/tables
+WROTE FIGURES TO: /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/reports/figures
+================================================================================
+DRIVER DONE

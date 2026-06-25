@@ -1,0 +1,1757 @@
+START Wed Jun 24 20:33:22 EDT 2026
+  [2021-10-19T16:00:00Z] status=200 remaining=70284 used=29716 cost=10
+  2021-10-19: 20 new games (cumulative 21)
+  [2021-10-20T16:00:00Z] status=200 remaining=70274 used=29726 cost=10
+  2021-10-20: 0 new games (cumulative 21)
+  [2021-10-21T16:00:00Z] status=200 remaining=70264 used=29736 cost=10
+  2021-10-21: 0 new games (cumulative 21)
+  [2021-10-22T16:00:00Z] status=200 remaining=70254 used=29746 cost=10
+  2021-10-22: 10 new games (cumulative 31)
+  [2021-10-23T16:00:00Z] status=200 remaining=70244 used=29756 cost=10
+  2021-10-23: 8 new games (cumulative 39)
+  [2021-10-24T16:00:00Z] status=200 remaining=70234 used=29766 cost=10
+  2021-10-24: 6 new games (cumulative 45)
+  [2021-10-25T16:00:00Z] status=200 remaining=70224 used=29776 cost=10
+  2021-10-25: 9 new games (cumulative 54)
+  [2021-10-26T16:00:00Z] status=200 remaining=70214 used=29786 cost=10
+  2021-10-26: 5 new games (cumulative 59)
+  [2021-10-27T16:00:00Z] status=200 remaining=70204 used=29796 cost=10
+  2021-10-27: 10 new games (cumulative 69)
+  [2021-10-28T16:00:00Z] status=200 remaining=70194 used=29806 cost=10
+  2021-10-28: 6 new games (cumulative 75)
+  [2021-10-29T16:00:00Z] status=200 remaining=70184 used=29816 cost=10
+  2021-10-29: 7 new games (cumulative 82)
+  [2021-10-30T16:00:00Z] status=200 remaining=70174 used=29826 cost=10
+  2021-10-30: 11 new games (cumulative 93)
+  [2021-10-31T16:00:00Z] status=200 remaining=70164 used=29836 cost=10
+  2021-10-31: 5 new games (cumulative 98)
+  [2021-11-01T16:00:00Z] status=200 remaining=70154 used=29846 cost=10
+  2021-11-01: 9 new games (cumulative 107)
+  [2021-11-02T16:00:00Z] status=200 remaining=70144 used=29856 cost=10
+  2021-11-02: 5 new games (cumulative 112)
+  [2021-11-03T16:00:00Z] status=200 remaining=70134 used=29866 cost=10
+  2021-11-03: 11 new games (cumulative 123)
+  [2021-11-04T16:00:00Z] status=200 remaining=70124 used=29876 cost=10
+  2021-11-04: 5 new games (cumulative 128)
+  [2021-11-05T16:00:00Z] status=200 remaining=70114 used=29886 cost=10
+  2021-11-05: 9 new games (cumulative 137)
+  [2021-11-06T16:00:00Z] status=200 remaining=70104 used=29896 cost=10
+  2021-11-06: 6 new games (cumulative 143)
+  [2021-11-07T16:00:00Z] status=200 remaining=70094 used=29906 cost=10
+  2021-11-07: 8 new games (cumulative 151)
+  [2021-11-08T16:00:00Z] status=200 remaining=70084 used=29916 cost=10
+  2021-11-08: 8 new games (cumulative 159)
+  [2021-11-09T16:00:00Z] status=200 remaining=70074 used=29926 cost=10
+  2021-11-09: 3 new games (cumulative 162)
+  [2021-11-10T16:00:00Z] status=200 remaining=70064 used=29936 cost=10
+  2021-11-10: 13 new games (cumulative 175)
+  [2021-11-11T16:00:00Z] status=200 remaining=70054 used=29946 cost=10
+  2021-11-11: 3 new games (cumulative 178)
+  [2021-11-12T16:00:00Z] status=200 remaining=70044 used=29956 cost=10
+  2021-11-12: 11 new games (cumulative 189)
+  [2021-11-13T16:00:00Z] status=200 remaining=70034 used=29966 cost=10
+  2021-11-13: 7 new games (cumulative 196)
+  [2021-11-14T16:00:00Z] status=200 remaining=70024 used=29976 cost=10
+  2021-11-14: 7 new games (cumulative 203)
+  [2021-11-15T16:00:00Z] status=200 remaining=70014 used=29986 cost=10
+  2021-11-15: 11 new games (cumulative 214)
+  [2021-11-16T16:00:00Z] status=200 remaining=70004 used=29996 cost=10
+  2021-11-16: 3 new games (cumulative 217)
+  [2021-11-17T16:00:00Z] status=200 remaining=69994 used=30006 cost=10
+  2021-11-17: 11 new games (cumulative 228)
+  [2021-11-18T16:00:00Z] status=200 remaining=69984 used=30016 cost=10
+  2021-11-18: 6 new games (cumulative 234)
+  [2021-11-19T16:00:00Z] status=200 remaining=69974 used=30026 cost=10
+  2021-11-19: 9 new games (cumulative 243)
+  [2021-11-20T16:00:00Z] status=200 remaining=69964 used=30036 cost=10
+  2021-11-20: 9 new games (cumulative 252)
+  [2021-11-21T16:00:00Z] status=200 remaining=69954 used=30046 cost=10
+  2021-11-21: 5 new games (cumulative 257)
+  [2021-11-22T16:00:00Z] status=200 remaining=69944 used=30056 cost=10
+  2021-11-22: 10 new games (cumulative 267)
+  [2021-11-23T16:00:00Z] status=200 remaining=69934 used=30066 cost=10
+  2021-11-23: 4 new games (cumulative 271)
+  [2021-11-24T16:00:00Z] status=200 remaining=69924 used=30076 cost=10
+  2021-11-24: 13 new games (cumulative 284)
+  [2021-11-25T16:00:00Z] status=200 remaining=69914 used=30086 cost=10
+  2021-11-25: 0 new games (cumulative 296)
+  [2021-11-26T16:00:00Z] status=200 remaining=69904 used=30096 cost=10
+  2021-11-26: 0 new games (cumulative 296)
+  [2021-11-27T16:00:00Z] status=200 remaining=69894 used=30106 cost=10
+  2021-11-27: 8 new games (cumulative 304)
+  [2021-11-28T16:00:00Z] status=200 remaining=69884 used=30116 cost=10
+  2021-11-28: 5 new games (cumulative 309)
+  [2021-11-29T16:00:00Z] status=200 remaining=69874 used=30126 cost=10
+  2021-11-29: 9 new games (cumulative 318)
+  [2021-11-30T16:00:00Z] status=200 remaining=69864 used=30136 cost=10
+  2021-11-30: 5 new games (cumulative 323)
+  [2021-12-01T16:00:00Z] status=200 remaining=69854 used=30146 cost=10
+  2021-12-01: 8 new games (cumulative 332)
+  [2021-12-02T16:00:00Z] status=200 remaining=69844 used=30156 cost=10
+  2021-12-02: 5 new games (cumulative 337)
+  [2021-12-03T16:00:00Z] status=200 remaining=69834 used=30166 cost=10
+  2021-12-03: 9 new games (cumulative 346)
+  [2021-12-04T16:00:00Z] status=200 remaining=69824 used=30176 cost=10
+  2021-12-04: 7 new games (cumulative 353)
+  [2021-12-05T16:00:00Z] status=200 remaining=69814 used=30186 cost=10
+  2021-12-05: 4 new games (cumulative 357)
+  [2021-12-06T16:00:00Z] status=200 remaining=69804 used=30196 cost=10
+  2021-12-06: 9 new games (cumulative 367)
+  [2021-12-07T16:00:00Z] status=200 remaining=69794 used=30206 cost=10
+  2021-12-07: 3 new games (cumulative 370)
+  [2021-12-08T16:00:00Z] status=200 remaining=69784 used=30216 cost=10
+  2021-12-08: 13 new games (cumulative 383)
+  [2021-12-09T16:00:00Z] status=200 remaining=69774 used=30226 cost=10
+  2021-12-09: 3 new games (cumulative 386)
+  [2021-12-10T16:00:00Z] status=200 remaining=69764 used=30236 cost=10
+  2021-12-10: 9 new games (cumulative 395)
+  [2021-12-11T16:00:00Z] status=200 remaining=69754 used=30246 cost=10
+  2021-12-11: 7 new games (cumulative 402)
+  [2021-12-12T16:00:00Z] status=200 remaining=69744 used=30256 cost=10
+  2021-12-12: 6 new games (cumulative 408)
+  [2021-12-13T16:00:00Z] status=200 remaining=69734 used=30266 cost=10
+  2021-12-13: 9 new games (cumulative 417)
+  [2021-12-14T16:00:00Z] status=200 remaining=69724 used=30276 cost=10
+  2021-12-14: 3 new games (cumulative 420)
+  [2021-12-15T16:00:00Z] status=200 remaining=69714 used=30286 cost=10
+  2021-12-15: 11 new games (cumulative 431)
+  [2021-12-16T16:00:00Z] status=200 remaining=69704 used=30296 cost=10
+  2021-12-16: 4 new games (cumulative 435)
+  [2021-12-17T16:00:00Z] status=200 remaining=69694 used=30306 cost=10
+  2021-12-17: 8 new games (cumulative 443)
+  [2021-12-18T16:00:00Z] status=200 remaining=69684 used=30316 cost=10
+  2021-12-18: 7 new games (cumulative 450)
+  [2021-12-19T16:00:00Z] status=200 remaining=69674 used=30326 cost=10
+  2021-12-19: 9 new games (cumulative 459)
+  [2021-12-20T16:00:00Z] status=200 remaining=69664 used=30336 cost=10
+  2021-12-20: 6 new games (cumulative 465)
+  [2021-12-21T16:00:00Z] status=200 remaining=69654 used=30346 cost=10
+  2021-12-21: 5 new games (cumulative 470)
+  [2021-12-22T16:00:00Z] status=200 remaining=69644 used=30356 cost=10
+  2021-12-22: 6 new games (cumulative 476)
+  [2021-12-23T16:00:00Z] status=200 remaining=69634 used=30366 cost=10
+  2021-12-23: 11 new games (cumulative 487)
+  [2021-12-24T16:00:00Z] status=200 remaining=69624 used=30376 cost=10
+  2021-12-24: 3 new games (cumulative 490)
+  [2021-12-25T16:00:00Z] status=200 remaining=69614 used=30386 cost=10
+  2021-12-25: 0 new games (cumulative 490)
+  [2021-12-26T16:00:00Z] status=200 remaining=69604 used=30396 cost=10
+  2021-12-26: 8 new games (cumulative 498)
+  [2021-12-27T16:00:00Z] status=200 remaining=69594 used=30406 cost=10
+  2021-12-27: 7 new games (cumulative 505)
+  [2021-12-28T16:00:00Z] status=200 remaining=69584 used=30416 cost=10
+  2021-12-28: 8 new games (cumulative 513)
+  [2021-12-29T16:00:00Z] status=200 remaining=69574 used=30426 cost=10
+  2021-12-29: 9 new games (cumulative 522)
+  [2021-12-30T16:00:00Z] status=200 remaining=69564 used=30436 cost=10
+  2021-12-30: 4 new games (cumulative 526)
+  [2021-12-31T16:00:00Z] status=200 remaining=69554 used=30446 cost=10
+  2021-12-31: 10 new games (cumulative 536)
+  [2022-01-01T16:00:00Z] status=200 remaining=69544 used=30456 cost=10
+  2022-01-01: 6 new games (cumulative 542)
+  [2022-01-02T16:00:00Z] status=200 remaining=69534 used=30466 cost=10
+  2022-01-02: 6 new games (cumulative 549)
+  [2022-01-03T16:00:00Z] status=200 remaining=69524 used=30476 cost=10
+  2022-01-03: 10 new games (cumulative 559)
+  [2022-01-04T16:00:00Z] status=200 remaining=69514 used=30486 cost=10
+  2022-01-04: 5 new games (cumulative 564)
+  [2022-01-05T16:00:00Z] status=200 remaining=69504 used=30496 cost=10
+  2022-01-05: 11 new games (cumulative 575)
+  [2022-01-06T16:00:00Z] status=200 remaining=69494 used=30506 cost=10
+  2022-01-06: 4 new games (cumulative 579)
+  [2022-01-07T16:00:00Z] status=200 remaining=69484 used=30516 cost=10
+  2022-01-07: 9 new games (cumulative 588)
+  [2022-01-08T16:00:00Z] status=200 remaining=69474 used=30526 cost=10
+  2022-01-08: 6 new games (cumulative 594)
+  [2022-01-09T16:00:00Z] status=200 remaining=69464 used=30536 cost=10
+  2022-01-09: 10 new games (cumulative 604)
+  [2022-01-10T16:00:00Z] status=200 remaining=69454 used=30546 cost=10
+  2022-01-10: 6 new games (cumulative 611)
+  [2022-01-11T16:00:00Z] status=200 remaining=69444 used=30556 cost=10
+  2022-01-11: 6 new games (cumulative 617)
+  [2022-01-12T16:00:00Z] status=200 remaining=69434 used=30566 cost=10
+  2022-01-12: 9 new games (cumulative 626)
+  [2022-01-13T16:00:00Z] status=200 remaining=69424 used=30576 cost=10
+  2022-01-13: 5 new games (cumulative 631)
+  [2022-01-14T16:00:00Z] status=200 remaining=69414 used=30586 cost=10
+  2022-01-14: 9 new games (cumulative 640)
+  [2022-01-15T16:00:00Z] status=200 remaining=69404 used=30596 cost=10
+  2022-01-15: 10 new games (cumulative 650)
+  [2022-01-16T16:00:00Z] status=200 remaining=69394 used=30606 cost=10
+  2022-01-16: 4 new games (cumulative 654)
+  [2022-01-17T16:00:00Z] status=200 remaining=69384 used=30616 cost=10
+  2022-01-17: 12 new games (cumulative 666)
+  [2022-01-18T16:00:00Z] status=200 remaining=69374 used=30626 cost=10
+  2022-01-18: 2 new games (cumulative 668)
+  [2022-01-19T16:00:00Z] status=200 remaining=69364 used=30636 cost=10
+  2022-01-19: 13 new games (cumulative 681)
+  [2022-01-20T16:00:00Z] status=200 remaining=69354 used=30646 cost=10
+  2022-01-20: 3 new games (cumulative 684)
+  [2022-01-21T16:00:00Z] status=200 remaining=69344 used=30656 cost=10
+  2022-01-21: 11 new games (cumulative 695)
+  [2022-01-22T16:00:00Z] status=200 remaining=69334 used=30666 cost=10
+  2022-01-22: 3 new games (cumulative 698)
+  [2022-01-23T16:00:00Z] status=200 remaining=69324 used=30676 cost=10
+  2022-01-23: 11 new games (cumulative 709)
+  [2022-01-24T16:00:00Z] status=200 remaining=69314 used=30686 cost=10
+  2022-01-24: 4 new games (cumulative 713)
+  [2022-01-25T16:00:00Z] status=200 remaining=69304 used=30696 cost=10
+  2022-01-25: 9 new games (cumulative 722)
+  [2022-01-26T16:00:00Z] status=200 remaining=69294 used=30706 cost=10
+  2022-01-26: 10 new games (cumulative 732)
+  [2022-01-27T16:00:00Z] status=200 remaining=69284 used=30716 cost=10
+  2022-01-27: 2 new games (cumulative 734)
+  [2022-01-28T16:00:00Z] status=200 remaining=69274 used=30726 cost=10
+  2022-01-28: 11 new games (cumulative 745)
+  [2022-01-29T16:00:00Z] status=200 remaining=69264 used=30736 cost=10
+  2022-01-29: 6 new games (cumulative 751)
+  [2022-01-30T16:00:00Z] status=200 remaining=69254 used=30746 cost=10
+  2022-01-30: 8 new games (cumulative 759)
+  [2022-01-31T16:00:00Z] status=200 remaining=69244 used=30756 cost=10
+  2022-01-31: 8 new games (cumulative 767)
+  [2022-02-01T16:00:00Z] status=200 remaining=69234 used=30766 cost=10
+  2022-02-01: 7 new games (cumulative 774)
+  [2022-02-02T16:00:00Z] status=200 remaining=69224 used=30776 cost=10
+  2022-02-02: 9 new games (cumulative 783)
+  [2022-02-03T16:00:00Z] status=200 remaining=69214 used=30786 cost=10
+  2022-02-03: 6 new games (cumulative 789)
+  [2022-02-04T16:00:00Z] status=200 remaining=69204 used=30796 cost=10
+  2022-02-04: 9 new games (cumulative 798)
+  [2022-02-05T16:00:00Z] status=200 remaining=69194 used=30806 cost=10
+  2022-02-05: 6 new games (cumulative 804)
+  [2022-02-06T16:00:00Z] status=200 remaining=69184 used=30816 cost=10
+  2022-02-06: 8 new games (cumulative 812)
+  [2022-02-07T16:00:00Z] status=200 remaining=69174 used=30826 cost=10
+  2022-02-07: 5 new games (cumulative 817)
+  [2022-02-08T16:00:00Z] status=200 remaining=69164 used=30836 cost=10
+  2022-02-08: 10 new games (cumulative 827)
+  [2022-02-09T16:00:00Z] status=200 remaining=69154 used=30846 cost=10
+  2022-02-09: 6 new games (cumulative 833)
+  [2022-02-10T16:00:00Z] status=200 remaining=69144 used=30856 cost=10
+  2022-02-10: 7 new games (cumulative 840)
+  [2022-02-11T16:00:00Z] status=200 remaining=69134 used=30866 cost=10
+  2022-02-11: 7 new games (cumulative 847)
+  [2022-02-12T16:00:00Z] status=200 remaining=69124 used=30876 cost=10
+  2022-02-12: 11 new games (cumulative 858)
+  [2022-02-13T16:00:00Z] status=200 remaining=69114 used=30886 cost=10
+  2022-02-13: 2 new games (cumulative 860)
+  [2022-02-14T16:00:00Z] status=200 remaining=69104 used=30896 cost=10
+  2022-02-14: 9 new games (cumulative 869)
+  [2022-02-15T16:00:00Z] status=200 remaining=69094 used=30906 cost=10
+  2022-02-15: 7 new games (cumulative 876)
+  [2022-02-16T16:00:00Z] status=200 remaining=69084 used=30916 cost=10
+  2022-02-16: 11 new games (cumulative 887)
+  [2022-02-17T16:00:00Z] status=200 remaining=69074 used=30926 cost=10
+  2022-02-17: 5 new games (cumulative 892)
+  [2022-02-18T16:00:00Z] status=200 remaining=69064 used=30936 cost=10
+  2022-02-18: 0 new games (cumulative 892)
+  [2022-02-19T16:00:00Z] status=200 remaining=69054 used=30946 cost=10
+  2022-02-19: 0 new games (cumulative 892)
+  [2022-02-20T16:00:00Z] status=200 remaining=69044 used=30956 cost=10
+  2022-02-20: 0 new games (cumulative 892)
+  [2022-02-21T16:00:00Z] status=200 remaining=69034 used=30966 cost=10
+  2022-02-21: 0 new games (cumulative 892)
+  [2022-02-22T16:00:00Z] status=200 remaining=69024 used=30976 cost=10
+  2022-02-22: 0 new games (cumulative 899)
+  [2022-02-23T16:00:00Z] status=200 remaining=69014 used=30986 cost=10
+  2022-02-23: 0 new games (cumulative 899)
+  [2022-02-24T16:00:00Z] status=200 remaining=69004 used=30996 cost=10
+  2022-02-24: 9 new games (cumulative 908)
+  [2022-02-25T16:00:00Z] status=200 remaining=68994 used=31006 cost=10
+  2022-02-25: 0 new games (cumulative 908)
+  [2022-02-26T16:00:00Z] status=200 remaining=68984 used=31016 cost=10
+  2022-02-26: 7 new games (cumulative 915)
+  [2022-02-27T16:00:00Z] status=200 remaining=68974 used=31026 cost=10
+  2022-02-27: 8 new games (cumulative 923)
+  [2022-02-28T16:00:00Z] status=200 remaining=68964 used=31036 cost=10
+  2022-02-28: 7 new games (cumulative 930)
+  [2022-03-01T16:00:00Z] status=200 remaining=68954 used=31046 cost=10
+  2022-03-01: 6 new games (cumulative 936)
+  [2022-03-02T16:00:00Z] status=200 remaining=68944 used=31056 cost=10
+  2022-03-02: 7 new games (cumulative 944)
+  [2022-03-03T16:00:00Z] status=200 remaining=68934 used=31066 cost=10
+  2022-03-03: 7 new games (cumulative 951)
+  [2022-03-04T16:00:00Z] status=200 remaining=68924 used=31076 cost=10
+  2022-03-04: 9 new games (cumulative 960)
+  [2022-03-05T16:00:00Z] status=200 remaining=68914 used=31086 cost=10
+  2022-03-05: 6 new games (cumulative 966)
+  [2022-03-06T16:00:00Z] status=200 remaining=68904 used=31096 cost=10
+  2022-03-06: 8 new games (cumulative 974)
+  [2022-03-07T16:00:00Z] status=200 remaining=68894 used=31106 cost=10
+  2022-03-07: 8 new games (cumulative 982)
+  [2022-03-08T16:00:00Z] status=200 remaining=68884 used=31116 cost=10
+  2022-03-08: 6 new games (cumulative 988)
+  [2022-03-09T16:00:00Z] status=200 remaining=68874 used=31126 cost=10
+  2022-03-09: 12 new games (cumulative 1001)
+  [2022-03-10T16:00:00Z] status=200 remaining=68864 used=31136 cost=10
+  2022-03-10: 1 new games (cumulative 1002)
+  [2022-03-11T16:00:00Z] status=200 remaining=68854 used=31146 cost=10
+  2022-03-11: 10 new games (cumulative 1012)
+  [2022-03-12T16:00:00Z] status=200 remaining=68844 used=31156 cost=10
+  2022-03-12: 7 new games (cumulative 1019)
+  [2022-03-13T16:00:00Z] status=200 remaining=68834 used=31166 cost=10
+  2022-03-13: 8 new games (cumulative 1027)
+  [2022-03-14T16:00:00Z] status=200 remaining=68824 used=31176 cost=10
+  2022-03-14: 9 new games (cumulative 1036)
+  [2022-03-15T16:00:00Z] status=200 remaining=68814 used=31186 cost=10
+  2022-03-15: 4 new games (cumulative 1040)
+  [2022-03-16T16:00:00Z] status=200 remaining=68804 used=31196 cost=10
+  2022-03-16: 12 new games (cumulative 1052)
+  [2022-03-17T16:00:00Z] status=200 remaining=68794 used=31206 cost=10
+  2022-03-17: 1 new games (cumulative 1053)
+  [2022-03-18T16:00:00Z] status=200 remaining=68784 used=31216 cost=10
+  2022-03-18: 12 new games (cumulative 1065)
+  [2022-03-19T16:00:00Z] status=200 remaining=68774 used=31226 cost=10
+  2022-03-19: 4 new games (cumulative 1069)
+  [2022-03-20T16:00:00Z] status=200 remaining=68764 used=31236 cost=10
+  2022-03-20: 9 new games (cumulative 1078)
+  [2022-03-21T16:00:00Z] status=200 remaining=68754 used=31246 cost=10
+  2022-03-21: 9 new games (cumulative 1087)
+  [2022-03-22T16:00:00Z] status=200 remaining=68744 used=31256 cost=10
+  2022-03-22: 4 new games (cumulative 1091)
+  [2022-03-23T16:00:00Z] status=200 remaining=68734 used=31266 cost=10
+  2022-03-23: 11 new games (cumulative 1102)
+  [2022-03-24T16:00:00Z] status=200 remaining=68724 used=31276 cost=10
+  2022-03-24: 5 new games (cumulative 1107)
+  [2022-03-25T16:00:00Z] status=200 remaining=68714 used=31286 cost=10
+  2022-03-25: 7 new games (cumulative 1114)
+  [2022-03-26T16:00:00Z] status=200 remaining=68704 used=31296 cost=10
+  2022-03-26: 8 new games (cumulative 1122)
+  [2022-03-27T16:00:00Z] status=200 remaining=68694 used=31306 cost=10
+  2022-03-27: 7 new games (cumulative 1129)
+  [2022-03-28T16:00:00Z] status=200 remaining=68684 used=31316 cost=10
+  2022-03-28: 9 new games (cumulative 1138)
+  [2022-03-29T16:00:00Z] status=200 remaining=68674 used=31326 cost=10
+  2022-03-29: 5 new games (cumulative 1143)
+  [2022-03-30T16:00:00Z] status=200 remaining=68664 used=31336 cost=10
+  2022-03-30: 11 new games (cumulative 1154)
+  [2022-03-31T16:00:00Z] status=200 remaining=68654 used=31346 cost=10
+  2022-03-31: 5 new games (cumulative 1159)
+  [2022-04-01T16:00:00Z] status=200 remaining=68644 used=31356 cost=10
+  2022-04-01: 10 new games (cumulative 1169)
+  [2022-04-02T16:00:00Z] status=200 remaining=68634 used=31366 cost=10
+  2022-04-02: 5 new games (cumulative 1174)
+  [2022-04-03T16:00:00Z] status=200 remaining=68624 used=31376 cost=10
+  2022-04-03: 12 new games (cumulative 1186)
+  [2022-04-04T16:00:00Z] status=200 remaining=68614 used=31386 cost=10
+  2022-04-04: 0 new games (cumulative 1197)
+  [2022-04-05T16:00:00Z] status=200 remaining=68604 used=31396 cost=10
+  2022-04-05: 1 new games (cumulative 1198)
+  [2022-04-06T16:00:00Z] status=200 remaining=68594 used=31406 cost=10
+  2022-04-06: 6 new games (cumulative 1204)
+  [2022-04-07T16:00:00Z] status=200 remaining=68584 used=31416 cost=10
+  2022-04-07: 7 new games (cumulative 1211)
+  [2022-04-08T16:00:00Z] status=200 remaining=68574 used=31426 cost=10
+  2022-04-08: 9 new games (cumulative 1220)
+  [2022-04-09T16:00:00Z] status=200 remaining=68564 used=31436 cost=10
+  2022-04-09: 4 new games (cumulative 1224)
+  [2022-04-10T16:00:00Z] status=200 remaining=68554 used=31446 cost=10
+  2022-04-10: 15 new games (cumulative 1239)
+
+Saved 1,213 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/historical_game_totals_odds.csv
+Snapshots: 174 | est credits this run: ~1740
+  [2022-10-18T16:00:00Z] status=200 remaining=68544 used=31456 cost=10
+  2022-10-18: 16 new games (cumulative 16)
+  [2022-10-19T16:00:00Z] status=200 remaining=68534 used=31466 cost=10
+  2022-10-19: 0 new games (cumulative 16)
+  [2022-10-20T16:00:00Z] status=200 remaining=68524 used=31476 cost=10
+  2022-10-20: 0 new games (cumulative 16)
+  [2022-10-21T16:00:00Z] status=200 remaining=68514 used=31486 cost=10
+  2022-10-21: 11 new games (cumulative 27)
+  [2022-10-22T16:00:00Z] status=200 remaining=68504 used=31496 cost=10
+  2022-10-22: 9 new games (cumulative 36)
+  [2022-10-23T16:00:00Z] status=200 remaining=68494 used=31506 cost=10
+  2022-10-23: 7 new games (cumulative 43)
+  [2022-10-24T16:00:00Z] status=200 remaining=68484 used=31516 cost=10
+  2022-10-24: 8 new games (cumulative 51)
+  [2022-10-25T16:00:00Z] status=200 remaining=68474 used=31526 cost=10
+  2022-10-25: 4 new games (cumulative 55)
+  [2022-10-26T16:00:00Z] status=200 remaining=68464 used=31536 cost=10
+  2022-10-26: 10 new games (cumulative 65)
+  [2022-10-27T16:00:00Z] status=200 remaining=68454 used=31546 cost=10
+  2022-10-27: 4 new games (cumulative 69)
+  [2022-10-28T16:00:00Z] status=200 remaining=68444 used=31556 cost=10
+  2022-10-28: 11 new games (cumulative 80)
+  [2022-10-29T16:00:00Z] status=200 remaining=68434 used=31566 cost=10
+  2022-10-29: 7 new games (cumulative 87)
+  [2022-10-30T16:00:00Z] status=200 remaining=68424 used=31576 cost=10
+  2022-10-30: 8 new games (cumulative 95)
+  [2022-10-31T16:00:00Z] status=200 remaining=68414 used=31586 cost=10
+  2022-10-31: 7 new games (cumulative 102)
+  [2022-11-01T16:00:00Z] status=200 remaining=68404 used=31596 cost=10
+  2022-11-01: 4 new games (cumulative 106)
+  [2022-11-02T16:00:00Z] status=200 remaining=68394 used=31606 cost=10
+  2022-11-02: 11 new games (cumulative 117)
+  [2022-11-03T16:00:00Z] status=200 remaining=68384 used=31616 cost=10
+  2022-11-03: 2 new games (cumulative 119)
+  [2022-11-04T16:00:00Z] status=200 remaining=68374 used=31626 cost=10
+  2022-11-04: 12 new games (cumulative 131)
+  [2022-11-05T16:00:00Z] status=200 remaining=68364 used=31636 cost=10
+  2022-11-05: 8 new games (cumulative 139)
+  [2022-11-06T16:00:00Z] status=200 remaining=68354 used=31646 cost=10
+  2022-11-06: 4 new games (cumulative 143)
+  [2022-11-07T16:00:00Z] status=200 remaining=68344 used=31656 cost=10
+  2022-11-07: 15 new games (cumulative 158)
+  [2022-11-08T16:00:00Z] status=200 remaining=68334 used=31666 cost=10
+  2022-11-08: 0 new games (cumulative 158)
+  [2022-11-09T16:00:00Z] status=200 remaining=68324 used=31676 cost=10
+  2022-11-09: 13 new games (cumulative 171)
+  [2022-11-10T16:00:00Z] status=200 remaining=68314 used=31686 cost=10
+  2022-11-10: 4 new games (cumulative 175)
+  [2022-11-11T16:00:00Z] status=200 remaining=68304 used=31696 cost=10
+  2022-11-11: 8 new games (cumulative 183)
+  [2022-11-12T16:00:00Z] status=200 remaining=68294 used=31706 cost=10
+  2022-11-12: 8 new games (cumulative 191)
+  [2022-11-13T16:00:00Z] status=200 remaining=68284 used=31716 cost=10
+  2022-11-13: 7 new games (cumulative 198)
+  [2022-11-14T16:00:00Z] status=200 remaining=68274 used=31726 cost=10
+  2022-11-14: 7 new games (cumulative 205)
+  [2022-11-15T16:00:00Z] status=200 remaining=68264 used=31736 cost=10
+  2022-11-15: 5 new games (cumulative 210)
+  [2022-11-16T16:00:00Z] status=200 remaining=68254 used=31746 cost=10
+  2022-11-16: 10 new games (cumulative 220)
+  [2022-11-17T16:00:00Z] status=200 remaining=68244 used=31756 cost=10
+  2022-11-17: 3 new games (cumulative 223)
+  [2022-11-18T16:00:00Z] status=200 remaining=68234 used=31766 cost=10
+  2022-11-18: 11 new games (cumulative 234)
+  [2022-11-19T16:00:00Z] status=200 remaining=68224 used=31776 cost=10
+  2022-11-19: 5 new games (cumulative 239)
+  [2022-11-20T16:00:00Z] status=200 remaining=68214 used=31786 cost=10
+  2022-11-20: 8 new games (cumulative 247)
+  [2022-11-21T16:00:00Z] status=200 remaining=68204 used=31796 cost=10
+  2022-11-21: 8 new games (cumulative 255)
+  [2022-11-22T16:00:00Z] status=200 remaining=68194 used=31806 cost=10
+  2022-11-22: 4 new games (cumulative 259)
+  [2022-11-23T16:00:00Z] status=200 remaining=68184 used=31816 cost=10
+  2022-11-23: 12 new games (cumulative 271)
+  [2022-11-24T16:00:00Z] status=200 remaining=68174 used=31826 cost=10
+  2022-11-24: 0 new games (cumulative 285)
+  [2022-11-25T16:00:00Z] status=200 remaining=68164 used=31836 cost=10
+  2022-11-25: 0 new games (cumulative 285)
+  [2022-11-26T16:00:00Z] status=200 remaining=68154 used=31846 cost=10
+  2022-11-26: 4 new games (cumulative 289)
+  [2022-11-27T16:00:00Z] status=200 remaining=68144 used=31856 cost=10
+  2022-11-27: 9 new games (cumulative 298)
+  [2022-11-28T16:00:00Z] status=200 remaining=68134 used=31866 cost=10
+  2022-11-28: 10 new games (cumulative 308)
+  [2022-11-29T16:00:00Z] status=200 remaining=68124 used=31876 cost=10
+  2022-11-29: 3 new games (cumulative 311)
+  [2022-11-30T16:00:00Z] status=200 remaining=68114 used=31886 cost=10
+  2022-11-30: 13 new games (cumulative 324)
+  [2022-12-01T16:00:00Z] status=200 remaining=68104 used=31896 cost=10
+  2022-12-01: 1 new games (cumulative 325)
+  [2022-12-02T16:00:00Z] status=200 remaining=68094 used=31906 cost=10
+  2022-12-02: 11 new games (cumulative 336)
+  [2022-12-03T16:00:00Z] status=200 remaining=68084 used=31916 cost=10
+  2022-12-03: 7 new games (cumulative 343)
+  [2022-12-04T16:00:00Z] status=200 remaining=68074 used=31926 cost=10
+  2022-12-04: 8 new games (cumulative 351)
+  [2022-12-05T16:00:00Z] status=200 remaining=68064 used=31936 cost=10
+  2022-12-05: 8 new games (cumulative 359)
+  [2022-12-06T16:00:00Z] status=200 remaining=68054 used=31946 cost=10
+  2022-12-06: 3 new games (cumulative 362)
+  [2022-12-07T16:00:00Z] status=200 remaining=68044 used=31956 cost=10
+  2022-12-07: 11 new games (cumulative 373)
+  [2022-12-08T16:00:00Z] status=200 remaining=68034 used=31966 cost=10
+  2022-12-08: 3 new games (cumulative 376)
+  [2022-12-09T16:00:00Z] status=200 remaining=68024 used=31976 cost=10
+  2022-12-09: 10 new games (cumulative 386)
+  [2022-12-10T16:00:00Z] status=200 remaining=68014 used=31986 cost=10
+  2022-12-10: 8 new games (cumulative 394)
+  [2022-12-11T16:00:00Z] status=200 remaining=68004 used=31996 cost=10
+  2022-12-11: 7 new games (cumulative 401)
+  [2022-12-12T16:00:00Z] status=200 remaining=67994 used=32006 cost=10
+  2022-12-12: 7 new games (cumulative 408)
+  [2022-12-13T16:00:00Z] status=200 remaining=67984 used=32016 cost=10
+  2022-12-13: 5 new games (cumulative 413)
+  [2022-12-14T16:00:00Z] status=200 remaining=67974 used=32026 cost=10
+  2022-12-14: 10 new games (cumulative 423)
+  [2022-12-15T16:00:00Z] status=200 remaining=67964 used=32036 cost=10
+  2022-12-15: 4 new games (cumulative 427)
+  [2022-12-16T16:00:00Z] status=200 remaining=67954 used=32046 cost=10
+  2022-12-16: 10 new games (cumulative 437)
+  [2022-12-17T16:00:00Z] status=200 remaining=67944 used=32056 cost=10
+  2022-12-17: 7 new games (cumulative 444)
+  [2022-12-18T16:00:00Z] status=200 remaining=67934 used=32066 cost=10
+  2022-12-18: 7 new games (cumulative 451)
+  [2022-12-19T16:00:00Z] status=200 remaining=67924 used=32076 cost=10
+  2022-12-19: 9 new games (cumulative 460)
+  [2022-12-20T16:00:00Z] status=200 remaining=67914 used=32086 cost=10
+  2022-12-20: 8 new games (cumulative 468)
+  [2022-12-21T16:00:00Z] status=200 remaining=67904 used=32096 cost=10
+  2022-12-21: 11 new games (cumulative 479)
+  [2022-12-22T16:00:00Z] status=200 remaining=67894 used=32106 cost=10
+  2022-12-22: 4 new games (cumulative 483)
+  [2022-12-23T16:00:00Z] status=200 remaining=67884 used=32116 cost=10
+  2022-12-23: 14 new games (cumulative 497)
+  [2022-12-24T16:00:00Z] status=200 remaining=67874 used=32126 cost=10
+  2022-12-24: 0 new games (cumulative 497)
+  [2022-12-25T16:00:00Z] status=200 remaining=67864 used=32136 cost=10
+  2022-12-25: 0 new games (cumulative 497)
+  [2022-12-26T16:00:00Z] status=200 remaining=67854 used=32146 cost=10
+  2022-12-26: 7 new games (cumulative 504)
+  [2022-12-27T16:00:00Z] status=200 remaining=67844 used=32156 cost=10
+  2022-12-27: 10 new games (cumulative 514)
+  [2022-12-28T16:00:00Z] status=200 remaining=67834 used=32166 cost=10
+  2022-12-28: 8 new games (cumulative 522)
+  [2022-12-29T16:00:00Z] status=200 remaining=67824 used=32176 cost=10
+  2022-12-29: 6 new games (cumulative 528)
+  [2022-12-30T16:00:00Z] status=200 remaining=67814 used=32186 cost=10
+  2022-12-30: 9 new games (cumulative 537)
+  [2022-12-31T16:00:00Z] status=200 remaining=67804 used=32196 cost=10
+  2022-12-31: 9 new games (cumulative 546)
+  [2023-01-01T16:00:00Z] status=200 remaining=67794 used=32206 cost=10
+  2023-01-01: 3 new games (cumulative 549)
+  [2023-01-02T16:00:00Z] status=200 remaining=67784 used=32216 cost=10
+  2023-01-02: 11 new games (cumulative 560)
+  [2023-01-03T16:00:00Z] status=200 remaining=67774 used=32226 cost=10
+  2023-01-03: 3 new games (cumulative 563)
+  [2023-01-04T16:00:00Z] status=200 remaining=67764 used=32236 cost=10
+  2023-01-04: 12 new games (cumulative 575)
+  [2023-01-05T16:00:00Z] status=200 remaining=67754 used=32246 cost=10
+  2023-01-05: 4 new games (cumulative 579)
+  [2023-01-06T16:00:00Z] status=200 remaining=67744 used=32256 cost=10
+  2023-01-06: 11 new games (cumulative 590)
+  [2023-01-07T16:00:00Z] status=200 remaining=67734 used=32266 cost=10
+  2023-01-07: 5 new games (cumulative 595)
+  [2023-01-08T16:00:00Z] status=200 remaining=67724 used=32276 cost=10
+  2023-01-08: 9 new games (cumulative 604)
+  [2023-01-09T16:00:00Z] status=200 remaining=67714 used=32286 cost=10
+  2023-01-09: 6 new games (cumulative 610)
+  [2023-01-10T16:00:00Z] status=200 remaining=67704 used=32296 cost=10
+  2023-01-10: 7 new games (cumulative 617)
+  [2023-01-11T16:00:00Z] status=200 remaining=67694 used=32306 cost=10
+  2023-01-11: 8 new games (cumulative 629)
+  [2023-01-12T16:00:00Z] status=200 remaining=67684 used=32316 cost=10
+  2023-01-12: 2 new games (cumulative 635)
+  [2023-01-13T16:00:00Z] status=200 remaining=67674 used=32326 cost=10
+  2023-01-13: 5 new games (cumulative 640)
+  [2023-01-14T16:00:00Z] status=200 remaining=67664 used=32336 cost=10
+  2023-01-14: 7 new games (cumulative 647)
+  [2023-01-15T16:00:00Z] status=200 remaining=67654 used=32346 cost=10
+  2023-01-15: 8 new games (cumulative 655)
+  [2023-01-16T16:00:00Z] status=200 remaining=67644 used=32356 cost=10
+  2023-01-16: 9 new games (cumulative 664)
+  [2023-01-17T16:00:00Z] status=200 remaining=67634 used=32366 cost=10
+  2023-01-17: 4 new games (cumulative 668)
+  [2023-01-18T16:00:00Z] status=200 remaining=67624 used=32376 cost=10
+  2023-01-18: 9 new games (cumulative 680)
+  [2023-01-19T16:00:00Z] status=200 remaining=67614 used=32386 cost=10
+  2023-01-19: 2 new games (cumulative 682)
+  [2023-01-20T16:00:00Z] status=200 remaining=67604 used=32396 cost=10
+  2023-01-20: 9 new games (cumulative 691)
+  [2023-01-21T16:00:00Z] status=200 remaining=67594 used=32406 cost=10
+  2023-01-21: 7 new games (cumulative 698)
+  [2023-01-22T16:00:00Z] status=200 remaining=67584 used=32416 cost=10
+  2023-01-22: 7 new games (cumulative 705)
+  [2023-01-23T16:00:00Z] status=200 remaining=67574 used=32426 cost=10
+  2023-01-23: 7 new games (cumulative 712)
+  [2023-01-24T16:00:00Z] status=200 remaining=67564 used=32436 cost=10
+  2023-01-24: 7 new games (cumulative 719)
+  [2023-01-25T16:00:00Z] status=200 remaining=67554 used=32446 cost=10
+  2023-01-25: 0 new games (cumulative 729)
+  [2023-01-26T16:00:00Z] status=200 remaining=67544 used=32456 cost=10
+  2023-01-26: 0 new games (cumulative 739)
+  [2023-01-27T16:00:00Z] status=200 remaining=67534 used=32466 cost=10
+  2023-01-27: 1 new games (cumulative 749)
+  [2023-01-28T16:00:00Z] status=200 remaining=67524 used=32476 cost=10
+  2023-01-28: 2 new games (cumulative 751)
+  [2023-01-29T16:00:00Z] status=200 remaining=67514 used=32486 cost=10
+  2023-01-29: 4 new games (cumulative 762)
+  [2023-01-30T16:00:00Z] status=200 remaining=67504 used=32496 cost=10
+  2023-01-30: 1 new games (cumulative 763)
+  [2023-01-31T16:00:00Z] status=200 remaining=67494 used=32506 cost=10
+  2023-01-31: 5 new games (cumulative 776)
+  [2023-02-01T16:00:00Z] status=200 remaining=67484 used=32516 cost=10
+  2023-02-01: 1 new games (cumulative 777)
+  [2023-02-02T16:00:00Z] status=200 remaining=67474 used=32526 cost=10
+  2023-02-02: 7 new games (cumulative 784)
+  [2023-02-03T16:00:00Z] status=200 remaining=67464 used=32536 cost=10
+  2023-02-03: 8 new games (cumulative 792)
+  [2023-02-04T16:00:00Z] status=200 remaining=67454 used=32546 cost=10
+  2023-02-04: 9 new games (cumulative 801)
+  [2023-02-05T16:00:00Z] status=200 remaining=67444 used=32556 cost=10
+  2023-02-05: 6 new games (cumulative 807)
+  [2023-02-06T16:00:00Z] status=200 remaining=67434 used=32566 cost=10
+  2023-02-06: 8 new games (cumulative 815)
+  [2023-02-07T16:00:00Z] status=200 remaining=67424 used=32576 cost=10
+  2023-02-07: 6 new games (cumulative 821)
+  [2023-02-08T16:00:00Z] status=200 remaining=67414 used=32586 cost=10
+  2023-02-08: 9 new games (cumulative 830)
+  [2023-02-09T16:00:00Z] status=200 remaining=67404 used=32596 cost=10
+  2023-02-09: 4 new games (cumulative 834)
+  [2023-02-10T16:00:00Z] status=200 remaining=67394 used=32606 cost=10
+  2023-02-10: 11 new games (cumulative 846)
+  [2023-02-11T16:00:00Z] status=200 remaining=67384 used=32616 cost=10
+  2023-02-11: 9 new games (cumulative 855)
+  [2023-02-12T16:00:00Z] status=200 remaining=67374 used=32626 cost=10
+  2023-02-12: 2 new games (cumulative 857)
+  [2023-02-13T16:00:00Z] status=200 remaining=67364 used=32636 cost=10
+  2023-02-13: 11 new games (cumulative 868)
+  [2023-02-14T16:00:00Z] status=200 remaining=67354 used=32646 cost=10
+  2023-02-14: 5 new games (cumulative 873)
+  [2023-02-15T16:00:00Z] status=200 remaining=67344 used=32656 cost=10
+  2023-02-15: 10 new games (cumulative 883)
+  [2023-02-16T16:00:00Z] status=200 remaining=67334 used=32666 cost=10
+  2023-02-16: 3 new games (cumulative 886)
+  [2023-02-17T16:00:00Z] status=200 remaining=67324 used=32676 cost=10
+  2023-02-17: 0 new games (cumulative 886)
+  [2023-02-18T16:00:00Z] status=200 remaining=67314 used=32686 cost=10
+  2023-02-18: 0 new games (cumulative 886)
+  [2023-02-19T16:00:00Z] status=200 remaining=67304 used=32696 cost=10
+  2023-02-19: 0 new games (cumulative 886)
+  [2023-02-20T16:00:00Z] status=200 remaining=67294 used=32706 cost=10
+  2023-02-20: 0 new games (cumulative 895)
+  [2023-02-21T16:00:00Z] status=200 remaining=67284 used=32716 cost=10
+  2023-02-21: 0 new games (cumulative 895)
+  [2023-02-22T16:00:00Z] status=200 remaining=67274 used=32726 cost=10
+  2023-02-22: 0 new games (cumulative 903)
+  [2023-02-23T16:00:00Z] status=200 remaining=67264 used=32736 cost=10
+  2023-02-23: 0 new games (cumulative 903)
+  [2023-02-24T16:00:00Z] status=200 remaining=67254 used=32746 cost=10
+  2023-02-24: 0 new games (cumulative 910)
+  [2023-02-25T16:00:00Z] status=200 remaining=67244 used=32756 cost=10
+  2023-02-25: 0 new games (cumulative 916)
+  [2023-02-26T16:00:00Z] status=200 remaining=67234 used=32766 cost=10
+  2023-02-26: 3 new games (cumulative 919)
+  [2023-02-27T16:00:00Z] status=200 remaining=67224 used=32776 cost=10
+  2023-02-27: 4 new games (cumulative 923)
+  [2023-02-28T16:00:00Z] status=200 remaining=67214 used=32786 cost=10
+  2023-02-28: 10 new games (cumulative 938)
+  [2023-03-01T16:00:00Z] status=200 remaining=67204 used=32796 cost=10
+  2023-03-01: 4 new games (cumulative 942)
+  [2023-03-02T16:00:00Z] status=200 remaining=67194 used=32806 cost=10
+  2023-03-02: 4 new games (cumulative 946)
+  [2023-03-03T16:00:00Z] status=200 remaining=67184 used=32816 cost=10
+  2023-03-03: 10 new games (cumulative 960)
+  [2023-03-04T16:00:00Z] status=200 remaining=67174 used=32826 cost=10
+  2023-03-04: 2 new games (cumulative 962)
+  [2023-03-05T16:00:00Z] status=200 remaining=67164 used=32836 cost=10
+  2023-03-05: 10 new games (cumulative 972)
+  [2023-03-06T16:00:00Z] status=200 remaining=67154 used=32846 cost=10
+  2023-03-06: 6 new games (cumulative 978)
+  [2023-03-07T16:00:00Z] status=200 remaining=67144 used=32856 cost=10
+  2023-03-07: 8 new games (cumulative 986)
+  [2023-03-08T16:00:00Z] status=200 remaining=67134 used=32866 cost=10
+  2023-03-08: 7 new games (cumulative 993)
+  [2023-03-09T16:00:00Z] status=200 remaining=67124 used=32876 cost=10
+  2023-03-09: 6 new games (cumulative 999)
+  [2023-03-10T16:00:00Z] status=200 remaining=67114 used=32886 cost=10
+  2023-03-10: 6 new games (cumulative 1005)
+  [2023-03-11T16:00:00Z] status=200 remaining=67104 used=32896 cost=10
+  2023-03-11: 10 new games (cumulative 1015)
+  [2023-03-12T16:00:00Z] status=200 remaining=67094 used=32906 cost=10
+  2023-03-12: 6 new games (cumulative 1026)
+  [2023-03-13T16:00:00Z] status=200 remaining=67084 used=32916 cost=10
+  2023-03-13: 2 new games (cumulative 1028)
+  [2023-03-14T16:00:00Z] status=200 remaining=67074 used=32926 cost=10
+  2023-03-14: 8 new games (cumulative 1040)
+  [2023-03-15T16:00:00Z] status=200 remaining=67064 used=32936 cost=10
+  2023-03-15: 3 new games (cumulative 1043)
+  [2023-03-16T16:00:00Z] status=200 remaining=67054 used=32946 cost=10
+  2023-03-16: 5 new games (cumulative 1048)
+  [2023-03-17T16:00:00Z] status=200 remaining=67044 used=32956 cost=10
+  2023-03-17: 8 new games (cumulative 1056)
+  [2023-03-18T16:00:00Z] status=200 remaining=67034 used=32966 cost=10
+  2023-03-18: 8 new games (cumulative 1064)
+  [2023-03-19T16:00:00Z] status=200 remaining=67024 used=32976 cost=10
+  2023-03-19: 8 new games (cumulative 1072)
+  [2023-03-20T16:00:00Z] status=200 remaining=67014 used=32986 cost=10
+  2023-03-20: 6 new games (cumulative 1078)
+  [2023-03-21T16:00:00Z] status=200 remaining=67004 used=32996 cost=10
+  2023-03-21: 6 new games (cumulative 1084)
+  [2023-03-22T16:00:00Z] status=200 remaining=66994 used=33006 cost=10
+  2023-03-22: 10 new games (cumulative 1094)
+  [2023-03-23T16:00:00Z] status=200 remaining=66984 used=33016 cost=10
+  2023-03-23: 4 new games (cumulative 1098)
+  [2023-03-24T16:00:00Z] status=200 remaining=66974 used=33026 cost=10
+  2023-03-24: 10 new games (cumulative 1108)
+  [2023-03-25T16:00:00Z] status=200 remaining=66964 used=33036 cost=10
+  2023-03-25: 6 new games (cumulative 1118)
+  [2023-03-26T16:00:00Z] status=200 remaining=66954 used=33046 cost=10
+  2023-03-26: 6 new games (cumulative 1129)
+  [2023-03-27T16:00:00Z] status=200 remaining=66944 used=33056 cost=10
+  2023-03-27: 4 new games (cumulative 1133)
+  [2023-03-28T16:00:00Z] status=200 remaining=66934 used=33066 cost=10
+  2023-03-28: 6 new games (cumulative 1139)
+  [2023-03-29T16:00:00Z] status=200 remaining=66924 used=33076 cost=10
+  2023-03-29: 10 new games (cumulative 1151)
+  [2023-03-30T16:00:00Z] status=200 remaining=66914 used=33086 cost=10
+  2023-03-30: 0 new games (cumulative 1160)
+  [2023-03-31T16:00:00Z] status=200 remaining=66904 used=33096 cost=10
+  2023-03-31: 4 new games (cumulative 1164)
+  [2023-04-01T16:00:00Z] status=200 remaining=66894 used=33106 cost=10
+  2023-04-01: 2 new games (cumulative 1166)
+  [2023-04-02T16:00:00Z] status=200 remaining=66884 used=33116 cost=10
+  2023-04-02: 13 new games (cumulative 1179)
+  [2023-04-03T16:00:00Z] status=200 remaining=66874 used=33126 cost=10
+  2023-04-03: 0 new games (cumulative 1192)
+  [2023-04-04T16:00:00Z] status=200 remaining=66864 used=33136 cost=10
+  2023-04-04: 0 new games (cumulative 1192)
+  [2023-04-05T16:00:00Z] status=200 remaining=66854 used=33146 cost=10
+  2023-04-05: 8 new games (cumulative 1200)
+  [2023-04-06T16:00:00Z] status=200 remaining=66844 used=33156 cost=10
+  2023-04-06: 5 new games (cumulative 1205)
+  [2023-04-07T16:00:00Z] status=200 remaining=66834 used=33166 cost=10
+  2023-04-07: 11 new games (cumulative 1216)
+  [2023-04-08T16:00:00Z] status=200 remaining=66824 used=33176 cost=10
+  2023-04-08: 3 new games (cumulative 1222)
+  [2023-04-09T16:00:00Z] status=200 remaining=66814 used=33186 cost=10
+  2023-04-09: 13 new games (cumulative 1235)
+
+Saved 2,294 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/historical_game_totals_odds.csv
+Snapshots: 174 | est credits this run: ~1740
+  [2023-10-24T16:00:00Z] status=200 remaining=66804 used=33196 cost=10
+  2023-10-24: 14 new games (cumulative 76)
+  [2023-10-25T16:00:00Z] status=200 remaining=66794 used=33206 cost=10
+  2023-10-25: 1 new games (cumulative 77)
+  [2023-10-26T16:00:00Z] status=200 remaining=66784 used=33216 cost=10
+  2023-10-26: 0 new games (cumulative 80)
+  [2023-10-27T16:00:00Z] status=200 remaining=66774 used=33226 cost=10
+  2023-10-27: 7 new games (cumulative 87)
+  [2023-10-28T16:00:00Z] status=200 remaining=66764 used=33236 cost=10
+  2023-10-28: 7 new games (cumulative 94)
+  [2023-10-29T16:00:00Z] status=200 remaining=66754 used=33246 cost=10
+  2023-10-29: 6 new games (cumulative 100)
+  [2023-10-30T16:00:00Z] status=200 remaining=66744 used=33256 cost=10
+  2023-10-30: 11 new games (cumulative 111)
+  [2023-10-31T16:00:00Z] status=200 remaining=66734 used=33266 cost=10
+  2023-10-31: 3 new games (cumulative 114)
+  [2023-11-01T16:00:00Z] status=200 remaining=66724 used=33276 cost=10
+  2023-11-01: 13 new games (cumulative 127)
+  [2023-11-02T16:00:00Z] status=200 remaining=66714 used=33286 cost=10
+  2023-11-02: 4 new games (cumulative 133)
+  [2023-11-03T16:00:00Z] status=200 remaining=66704 used=33296 cost=10
+  2023-11-03: 0 new games (cumulative 133)
+  [2023-11-04T16:00:00Z] status=200 remaining=66694 used=33306 cost=10
+  2023-11-04: 8 new games (cumulative 141)
+  [2023-11-05T16:00:00Z] status=200 remaining=66684 used=33316 cost=10
+  2023-11-05: 5 new games (cumulative 146)
+  [2023-11-06T16:00:00Z] status=200 remaining=66674 used=33326 cost=10
+  2023-11-06: 12 new games (cumulative 158)
+  [2023-11-07T16:00:00Z] status=200 remaining=66664 used=33336 cost=10
+  2023-11-07: 14 new games (cumulative 172)
+  [2023-11-08T16:00:00Z] status=200 remaining=66654 used=33346 cost=10
+  2023-11-08: 0 new games (cumulative 172)
+  [2023-11-09T16:00:00Z] status=200 remaining=66644 used=33356 cost=10
+  2023-11-09: 2 new games (cumulative 174)
+  [2023-11-10T16:00:00Z] status=200 remaining=66634 used=33366 cost=10
+  2023-11-10: 4 new games (cumulative 178)
+  [2023-11-11T16:00:00Z] status=200 remaining=66624 used=33376 cost=10
+  2023-11-11: 4 new games (cumulative 182)
+  [2023-11-12T16:00:00Z] status=200 remaining=66614 used=33386 cost=10
+  2023-11-12: 11 new games (cumulative 193)
+  [2023-11-13T16:00:00Z] status=200 remaining=66604 used=33396 cost=10
+  2023-11-13: 4 new games (cumulative 204)
+  [2023-11-14T16:00:00Z] status=200 remaining=66594 used=33406 cost=10
+  2023-11-14: 1 new games (cumulative 205)
+  [2023-11-15T16:00:00Z] status=200 remaining=66584 used=33416 cost=10
+  2023-11-15: 8 new games (cumulative 213)
+  [2023-11-16T16:00:00Z] status=200 remaining=66574 used=33426 cost=10
+  2023-11-16: 2 new games (cumulative 215)
+  [2023-11-17T16:00:00Z] status=200 remaining=66564 used=33436 cost=10
+  2023-11-17: 10 new games (cumulative 226)
+  [2023-11-18T16:00:00Z] status=200 remaining=66554 used=33446 cost=10
+  2023-11-18: 5 new games (cumulative 231)
+  [2023-11-19T16:00:00Z] status=200 remaining=66544 used=33456 cost=10
+  2023-11-19: 9 new games (cumulative 240)
+  [2023-11-20T16:00:00Z] status=200 remaining=66534 used=33466 cost=10
+  2023-11-20: 8 new games (cumulative 252)
+  [2023-11-21T16:00:00Z] status=200 remaining=66524 used=33476 cost=10
+  2023-11-21: 1 new games (cumulative 253)
+  [2023-11-22T16:00:00Z] status=200 remaining=66514 used=33486 cost=10
+  2023-11-22: 14 new games (cumulative 267)
+  [2023-11-23T16:00:00Z] status=200 remaining=66504 used=33496 cost=10
+  2023-11-23: 10 new games (cumulative 277)
+  [2023-11-24T16:00:00Z] status=200 remaining=66494 used=33506 cost=10
+  2023-11-24: 0 new games (cumulative 277)
+  [2023-11-25T16:00:00Z] status=200 remaining=66484 used=33516 cost=10
+  2023-11-25: 6 new games (cumulative 283)
+  [2023-11-26T16:00:00Z] status=200 remaining=66474 used=33526 cost=10
+  2023-11-26: 8 new games (cumulative 291)
+  [2023-11-27T16:00:00Z] status=200 remaining=66464 used=33536 cost=10
+  2023-11-27: 5 new games (cumulative 296)
+  [2023-11-28T16:00:00Z] status=200 remaining=66454 used=33546 cost=10
+  2023-11-28: 8 new games (cumulative 304)
+  [2023-11-29T16:00:00Z] status=200 remaining=66444 used=33556 cost=10
+  2023-11-29: 7 new games (cumulative 315)
+  [2023-11-30T16:00:00Z] status=200 remaining=66434 used=33566 cost=10
+  2023-11-30: 9 new games (cumulative 324)
+  [2023-12-01T16:00:00Z] status=200 remaining=66424 used=33576 cost=10
+  2023-12-01: 6 new games (cumulative 330)
+  [2023-12-02T16:00:00Z] status=200 remaining=66414 used=33586 cost=10
+  2023-12-02: 12 new games (cumulative 342)
+  [2023-12-03T16:00:00Z] status=200 remaining=66404 used=33596 cost=10
+  2023-12-03: 0 new games (cumulative 342)
+  [2023-12-04T16:00:00Z] status=200 remaining=66394 used=33606 cost=10
+  2023-12-04: 0 new games (cumulative 342)
+  [2023-12-05T16:00:00Z] status=200 remaining=66384 used=33616 cost=10
+  2023-12-05: 11 new games (cumulative 353)
+  [2023-12-06T16:00:00Z] status=200 remaining=66374 used=33626 cost=10
+  2023-12-06: 2 new games (cumulative 355)
+  [2023-12-07T16:00:00Z] status=200 remaining=66364 used=33636 cost=10
+  2023-12-07: 0 new games (cumulative 355)
+  [2023-12-08T16:00:00Z] status=200 remaining=66354 used=33646 cost=10
+  2023-12-08: 14 new games (cumulative 369)
+  [2023-12-09T16:00:00Z] status=200 remaining=66344 used=33656 cost=10
+  2023-12-09: 0 new games (cumulative 369)
+  [2023-12-10T16:00:00Z] status=200 remaining=66334 used=33666 cost=10
+  2023-12-10: 13 new games (cumulative 382)
+  [2023-12-11T16:00:00Z] status=200 remaining=66324 used=33676 cost=10
+  2023-12-11: 0 new games (cumulative 382)
+  [2023-12-12T16:00:00Z] status=200 remaining=66314 used=33686 cost=10
+  2023-12-12: 5 new games (cumulative 387)
+  [2023-12-13T16:00:00Z] status=200 remaining=66304 used=33696 cost=10
+  2023-12-13: 9 new games (cumulative 396)
+  [2023-12-14T16:00:00Z] status=200 remaining=66294 used=33706 cost=10
+  2023-12-14: 7 new games (cumulative 403)
+  [2023-12-15T16:00:00Z] status=200 remaining=66284 used=33716 cost=10
+  2023-12-15: 8 new games (cumulative 411)
+  [2023-12-16T16:00:00Z] status=200 remaining=66274 used=33726 cost=10
+  2023-12-16: 10 new games (cumulative 421)
+  [2023-12-17T16:00:00Z] status=200 remaining=66264 used=33736 cost=10
+  2023-12-17: 5 new games (cumulative 426)
+  [2023-12-18T16:00:00Z] status=200 remaining=66254 used=33746 cost=10
+  2023-12-18: 11 new games (cumulative 437)
+  [2023-12-19T16:00:00Z] status=200 remaining=66244 used=33756 cost=10
+  2023-12-19: 4 new games (cumulative 441)
+  [2023-12-20T16:00:00Z] status=200 remaining=66234 used=33766 cost=10
+  2023-12-20: 10 new games (cumulative 451)
+  [2023-12-21T16:00:00Z] status=200 remaining=66224 used=33776 cost=10
+  2023-12-21: 8 new games (cumulative 459)
+  [2023-12-22T16:00:00Z] status=200 remaining=66214 used=33786 cost=10
+  2023-12-22: 6 new games (cumulative 465)
+  [2023-12-23T16:00:00Z] status=200 remaining=66204 used=33796 cost=10
+  2023-12-23: 13 new games (cumulative 478)
+  [2023-12-24T16:00:00Z] status=200 remaining=66194 used=33806 cost=10
+  2023-12-24: 0 new games (cumulative 478)
+  [2023-12-25T16:00:00Z] status=200 remaining=66184 used=33816 cost=10
+  2023-12-25: 9 new games (cumulative 487)
+  [2023-12-26T16:00:00Z] status=200 remaining=66174 used=33826 cost=10
+  2023-12-26: 0 new games (cumulative 487)
+  [2023-12-27T16:00:00Z] status=200 remaining=66164 used=33836 cost=10
+  2023-12-27: 6 new games (cumulative 493)
+  [2023-12-28T16:00:00Z] status=200 remaining=66154 used=33846 cost=10
+  2023-12-28: 8 new games (cumulative 501)
+  [2023-12-29T16:00:00Z] status=200 remaining=66144 used=33856 cost=10
+  2023-12-29: 10 new games (cumulative 511)
+  [2023-12-30T16:00:00Z] status=200 remaining=66134 used=33866 cost=10
+  2023-12-30: 6 new games (cumulative 517)
+  [2023-12-31T16:00:00Z] status=200 remaining=66124 used=33876 cost=10
+  2023-12-31: 6 new games (cumulative 523)
+  [2024-01-01T16:00:00Z] status=200 remaining=66114 used=33886 cost=10
+  2024-01-01: 8 new games (cumulative 531)
+  [2024-01-02T16:00:00Z] status=200 remaining=66104 used=33896 cost=10
+  2024-01-02: 6 new games (cumulative 537)
+  [2024-01-03T16:00:00Z] status=200 remaining=66094 used=33906 cost=10
+  2024-01-03: 12 new games (cumulative 549)
+  [2024-01-04T16:00:00Z] status=200 remaining=66084 used=33916 cost=10
+  2024-01-04: 2 new games (cumulative 551)
+  [2024-01-05T16:00:00Z] status=200 remaining=66074 used=33926 cost=10
+  2024-01-05: 14 new games (cumulative 565)
+  [2024-01-06T16:00:00Z] status=200 remaining=66064 used=33936 cost=10
+  2024-01-06: 4 new games (cumulative 569)
+  [2024-01-07T16:00:00Z] status=200 remaining=66054 used=33946 cost=10
+  2024-01-07: 9 new games (cumulative 578)
+  [2024-01-08T16:00:00Z] status=200 remaining=66044 used=33956 cost=10
+  2024-01-08: 6 new games (cumulative 584)
+  [2024-01-09T16:00:00Z] status=200 remaining=66034 used=33966 cost=10
+  2024-01-09: 5 new games (cumulative 589)
+  [2024-01-10T16:00:00Z] status=200 remaining=66024 used=33976 cost=10
+  2024-01-10: 10 new games (cumulative 599)
+  [2024-01-11T16:00:00Z] status=200 remaining=66014 used=33986 cost=10
+  2024-01-11: 5 new games (cumulative 604)
+  [2024-01-12T16:00:00Z] status=200 remaining=66004 used=33996 cost=10
+  2024-01-12: 10 new games (cumulative 614)
+  [2024-01-13T16:00:00Z] status=200 remaining=65994 used=34006 cost=10
+  2024-01-13: 8 new games (cumulative 622)
+  [2024-01-14T16:00:00Z] status=200 remaining=65984 used=34016 cost=10
+  2024-01-14: 5 new games (cumulative 627)
+  [2024-01-15T16:00:00Z] status=200 remaining=65974 used=34026 cost=10
+  2024-01-15: 1 new games (cumulative 628)
+  [2024-01-16T16:00:00Z] status=200 remaining=65964 used=34036 cost=10
+  2024-01-16: 3 new games (cumulative 631)
+  [2024-01-17T16:00:00Z] status=200 remaining=65954 used=34046 cost=10
+  2024-01-17: 10 new games (cumulative 641)
+  [2024-01-18T16:00:00Z] status=200 remaining=65944 used=34056 cost=10
+  2024-01-18: 5 new games (cumulative 646)
+  [2024-01-19T16:00:00Z] status=200 remaining=65934 used=34066 cost=10
+  2024-01-19: 7 new games (cumulative 653)
+  [2024-01-20T16:00:00Z] status=200 remaining=65924 used=34076 cost=10
+  2024-01-20: 8 new games (cumulative 661)
+  [2024-01-21T16:00:00Z] status=200 remaining=65914 used=34086 cost=10
+  2024-01-21: 6 new games (cumulative 667)
+  [2024-01-22T16:00:00Z] status=200 remaining=65904 used=34096 cost=10
+  2024-01-22: 8 new games (cumulative 675)
+  [2024-01-23T16:00:00Z] status=200 remaining=65894 used=34106 cost=10
+  2024-01-23: 5 new games (cumulative 680)
+  [2024-01-24T16:00:00Z] status=200 remaining=65884 used=34116 cost=10
+  2024-01-24: 8 new games (cumulative 688)
+  [2024-01-25T16:00:00Z] status=200 remaining=65874 used=34126 cost=10
+  2024-01-25: 7 new games (cumulative 695)
+  [2024-01-26T16:00:00Z] status=200 remaining=65864 used=34136 cost=10
+  2024-01-26: 8 new games (cumulative 703)
+  [2024-01-27T16:00:00Z] status=200 remaining=65854 used=34146 cost=10
+  2024-01-27: 10 new games (cumulative 713)
+  [2024-01-28T16:00:00Z] status=200 remaining=65844 used=34156 cost=10
+  2024-01-28: 5 new games (cumulative 718)
+  [2024-01-29T16:00:00Z] status=200 remaining=65834 used=34166 cost=10
+  2024-01-29: 12 new games (cumulative 730)
+  [2024-01-30T16:00:00Z] status=200 remaining=65824 used=34176 cost=10
+  2024-01-30: 5 new games (cumulative 735)
+  [2024-01-31T16:00:00Z] status=200 remaining=65814 used=34186 cost=10
+  2024-01-31: 10 new games (cumulative 745)
+  [2024-02-01T16:00:00Z] status=200 remaining=65804 used=34196 cost=10
+  2024-02-01: 4 new games (cumulative 749)
+  [2024-02-02T16:00:00Z] status=200 remaining=65794 used=34206 cost=10
+  2024-02-02: 10 new games (cumulative 759)
+  [2024-02-03T16:00:00Z] status=200 remaining=65784 used=34216 cost=10
+  2024-02-03: 6 new games (cumulative 765)
+  [2024-02-04T16:00:00Z] status=200 remaining=65774 used=34226 cost=10
+  2024-02-04: 9 new games (cumulative 774)
+  [2024-02-05T16:00:00Z] status=200 remaining=65764 used=34236 cost=10
+  2024-02-05: 6 new games (cumulative 780)
+  [2024-02-06T16:00:00Z] status=200 remaining=65754 used=34246 cost=10
+  2024-02-06: 7 new games (cumulative 787)
+  [2024-02-07T16:00:00Z] status=200 remaining=65744 used=34256 cost=10
+  2024-02-07: 7 new games (cumulative 794)
+  [2024-02-08T16:00:00Z] status=200 remaining=65734 used=34266 cost=10
+  2024-02-08: 9 new games (cumulative 803)
+  [2024-02-09T16:00:00Z] status=200 remaining=65724 used=34276 cost=10
+  2024-02-09: 6 new games (cumulative 809)
+  [2024-02-10T16:00:00Z] status=200 remaining=65714 used=34286 cost=10
+  2024-02-10: 11 new games (cumulative 820)
+  [2024-02-11T16:00:00Z] status=200 remaining=65704 used=34296 cost=10
+  2024-02-11: 2 new games (cumulative 822)
+  [2024-02-12T16:00:00Z] status=200 remaining=65694 used=34306 cost=10
+  2024-02-12: 10 new games (cumulative 832)
+  [2024-02-13T16:00:00Z] status=200 remaining=65684 used=34316 cost=10
+  2024-02-13: 6 new games (cumulative 838)
+  [2024-02-14T16:00:00Z] status=200 remaining=65674 used=34326 cost=10
+  2024-02-14: 13 new games (cumulative 851)
+  [2024-02-15T16:00:00Z] status=200 remaining=65664 used=34336 cost=10
+  2024-02-15: 3 new games (cumulative 854)
+  [2024-02-16T16:00:00Z] status=200 remaining=65654 used=34346 cost=10
+  2024-02-16: 12 new games (cumulative 866)
+  [2024-02-17T16:00:00Z] status=200 remaining=65644 used=34356 cost=10
+  2024-02-17: 0 new games (cumulative 866)
+  [2024-02-18T16:00:00Z] status=200 remaining=65634 used=34366 cost=10
+  2024-02-18: 0 new games (cumulative 866)
+  [2024-02-19T16:00:00Z] status=200 remaining=65624 used=34376 cost=10
+  2024-02-19: 0 new games (cumulative 866)
+  [2024-02-20T16:00:00Z] status=200 remaining=65614 used=34386 cost=10
+  2024-02-20: 0 new games (cumulative 866)
+  [2024-02-21T16:00:00Z] status=200 remaining=65604 used=34396 cost=10
+  2024-02-21: 0 new games (cumulative 866)
+  [2024-02-22T16:00:00Z] status=200 remaining=65594 used=34406 cost=10
+  2024-02-22: 0 new games (cumulative 866)
+  [2024-02-23T16:00:00Z] status=200 remaining=65584 used=34416 cost=10
+  2024-02-23: 10 new games (cumulative 876)
+  [2024-02-24T16:00:00Z] status=200 remaining=65574 used=34426 cost=10
+  2024-02-24: 3 new games (cumulative 879)
+  [2024-02-25T16:00:00Z] status=200 remaining=65564 used=34436 cost=10
+  2024-02-25: 11 new games (cumulative 890)
+  [2024-02-26T16:00:00Z] status=200 remaining=65554 used=34446 cost=10
+  2024-02-26: 4 new games (cumulative 894)
+  [2024-02-27T16:00:00Z] status=200 remaining=65544 used=34456 cost=10
+  2024-02-27: 11 new games (cumulative 905)
+  [2024-02-28T16:00:00Z] status=200 remaining=65534 used=34466 cost=10
+  2024-02-28: 6 new games (cumulative 911)
+  [2024-02-29T16:00:00Z] status=200 remaining=65524 used=34476 cost=10
+  2024-02-29: 8 new games (cumulative 919)
+  [2024-03-01T16:00:00Z] status=200 remaining=65514 used=34486 cost=10
+  2024-03-01: 9 new games (cumulative 928)
+  [2024-03-02T16:00:00Z] status=200 remaining=65504 used=34496 cost=10
+  2024-03-02: 5 new games (cumulative 933)
+  [2024-03-03T16:00:00Z] status=200 remaining=65494 used=34506 cost=10
+  2024-03-03: 8 new games (cumulative 941)
+  [2024-03-04T16:00:00Z] status=200 remaining=65484 used=34516 cost=10
+  2024-03-04: 6 new games (cumulative 947)
+  [2024-03-05T16:00:00Z] status=200 remaining=65474 used=34526 cost=10
+  2024-03-05: 9 new games (cumulative 956)
+  [2024-03-06T16:00:00Z] status=200 remaining=65464 used=34536 cost=10
+  2024-03-06: 8 new games (cumulative 964)
+  [2024-03-07T16:00:00Z] status=200 remaining=65454 used=34546 cost=10
+  2024-03-07: 7 new games (cumulative 971)
+  [2024-03-08T16:00:00Z] status=200 remaining=65444 used=34556 cost=10
+  2024-03-08: 8 new games (cumulative 979)
+  [2024-03-09T16:00:00Z] status=200 remaining=65434 used=34566 cost=10
+  2024-03-09: 7 new games (cumulative 986)
+  [2024-03-10T16:00:00Z] status=200 remaining=65424 used=34576 cost=10
+  2024-03-10: 9 new games (cumulative 995)
+  [2024-03-11T16:00:00Z] status=200 remaining=65414 used=34586 cost=10
+  2024-03-11: 6 new games (cumulative 1001)
+  [2024-03-12T16:00:00Z] status=200 remaining=65404 used=34596 cost=10
+  2024-03-12: 7 new games (cumulative 1008)
+  [2024-03-13T16:00:00Z] status=200 remaining=65394 used=34606 cost=10
+  2024-03-13: 9 new games (cumulative 1017)
+  [2024-03-14T16:00:00Z] status=200 remaining=65384 used=34616 cost=10
+  2024-03-14: 6 new games (cumulative 1023)
+  [2024-03-15T16:00:00Z] status=200 remaining=65374 used=34626 cost=10
+  2024-03-15: 6 new games (cumulative 1029)
+  [2024-03-16T16:00:00Z] status=200 remaining=65364 used=34636 cost=10
+  2024-03-16: 9 new games (cumulative 1038)
+  [2024-03-17T16:00:00Z] status=200 remaining=65354 used=34646 cost=10
+  2024-03-17: 7 new games (cumulative 1045)
+  [2024-03-18T16:00:00Z] status=200 remaining=65344 used=34656 cost=10
+  2024-03-18: 8 new games (cumulative 1053)
+  [2024-03-19T16:00:00Z] status=200 remaining=65334 used=34666 cost=10
+  2024-03-19: 5 new games (cumulative 1058)
+  [2024-03-20T16:00:00Z] status=200 remaining=65324 used=34676 cost=10
+  2024-03-20: 8 new games (cumulative 1066)
+  [2024-03-21T16:00:00Z] status=200 remaining=65314 used=34686 cost=10
+  2024-03-21: 7 new games (cumulative 1073)
+  [2024-03-22T16:00:00Z] status=200 remaining=65304 used=34696 cost=10
+  2024-03-22: 8 new games (cumulative 1081)
+  [2024-03-23T16:00:00Z] status=200 remaining=65294 used=34706 cost=10
+  2024-03-23: 8 new games (cumulative 1089)
+  [2024-03-24T16:00:00Z] status=200 remaining=65284 used=34716 cost=10
+  2024-03-24: 6 new games (cumulative 1095)
+  [2024-03-25T16:00:00Z] status=200 remaining=65274 used=34726 cost=10
+  2024-03-25: 11 new games (cumulative 1106)
+  [2024-03-26T16:00:00Z] status=200 remaining=65264 used=34736 cost=10
+  2024-03-26: 4 new games (cumulative 1110)
+  [2024-03-27T16:00:00Z] status=200 remaining=65254 used=34746 cost=10
+  2024-03-27: 12 new games (cumulative 1122)
+  [2024-03-28T16:00:00Z] status=200 remaining=65244 used=34756 cost=10
+  2024-03-28: 2 new games (cumulative 1124)
+  [2024-03-29T16:00:00Z] status=200 remaining=65234 used=34766 cost=10
+  2024-03-29: 12 new games (cumulative 1136)
+  [2024-03-30T16:00:00Z] status=200 remaining=65224 used=34776 cost=10
+  2024-03-30: 3 new games (cumulative 1139)
+  [2024-03-31T16:00:00Z] status=200 remaining=65214 used=34786 cost=10
+  2024-03-31: 10 new games (cumulative 1149)
+  [2024-04-01T16:00:00Z] status=200 remaining=65204 used=34796 cost=10
+  2024-04-01: 6 new games (cumulative 1155)
+  [2024-04-02T16:00:00Z] status=200 remaining=65194 used=34806 cost=10
+  2024-04-02: 9 new games (cumulative 1164)
+  [2024-04-03T16:00:00Z] status=200 remaining=65184 used=34816 cost=10
+  2024-04-03: 9 new games (cumulative 1173)
+  [2024-04-04T16:00:00Z] status=200 remaining=65174 used=34826 cost=10
+  2024-04-04: 5 new games (cumulative 1178)
+  [2024-04-05T16:00:00Z] status=200 remaining=65164 used=34836 cost=10
+  2024-04-05: 12 new games (cumulative 1190)
+  [2024-04-06T16:00:00Z] status=200 remaining=65154 used=34846 cost=10
+  2024-04-06: 4 new games (cumulative 1194)
+  [2024-04-07T16:00:00Z] status=200 remaining=65144 used=34856 cost=10
+  2024-04-07: 13 new games (cumulative 1207)
+  [2024-04-08T16:00:00Z] status=200 remaining=65134 used=34866 cost=10
+  2024-04-08: 14 new games (cumulative 1221)
+  [2024-04-09T16:00:00Z] status=200 remaining=65124 used=34876 cost=10
+  2024-04-09: 0 new games (cumulative 1221)
+  [2024-04-10T16:00:00Z] status=200 remaining=65114 used=34886 cost=10
+  2024-04-10: 8 new games (cumulative 1229)
+  [2024-04-11T16:00:00Z] status=200 remaining=65104 used=34896 cost=10
+  2024-04-11: 5 new games (cumulative 1234)
+  [2024-04-12T16:00:00Z] status=200 remaining=65094 used=34906 cost=10
+  2024-04-12: 15 new games (cumulative 1249)
+  [2024-04-13T16:00:00Z] status=200 remaining=65084 used=34916 cost=10
+  2024-04-13: 7 new games (cumulative 1256)
+  [2024-04-14T16:00:00Z] status=200 remaining=65074 used=34926 cost=10
+  2024-04-14: 8 new games (cumulative 1264)
+
+Saved 3,474 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/historical_game_totals_odds.csv
+Snapshots: 174 | est credits this run: ~1740
+  [2024-10-22T16:00:00Z] status=200 remaining=65064 used=34936 cost=10
+  2024-10-22: 51 new games (cumulative 52)
+  [2024-10-23T16:00:00Z] status=200 remaining=65054 used=34946 cost=10
+  2024-10-23: 0 new games (cumulative 52)
+  [2024-10-24T16:00:00Z] status=200 remaining=65044 used=34956 cost=10
+  2024-10-24: 7 new games (cumulative 59)
+  [2024-10-25T16:00:00Z] status=200 remaining=65034 used=34966 cost=10
+  2024-10-25: 2 new games (cumulative 61)
+  [2024-10-26T16:00:00Z] status=200 remaining=65024 used=34976 cost=10
+  2024-10-26: 10 new games (cumulative 71)
+  [2024-10-27T16:00:00Z] status=200 remaining=65014 used=34986 cost=10
+  2024-10-27: 5 new games (cumulative 76)
+  [2024-10-28T16:00:00Z] status=200 remaining=65004 used=34996 cost=10
+  2024-10-28: 11 new games (cumulative 87)
+  [2024-10-29T16:00:00Z] status=200 remaining=64994 used=35006 cost=10
+  2024-10-29: 4 new games (cumulative 91)
+  [2024-10-30T16:00:00Z] status=200 remaining=64984 used=35016 cost=10
+  2024-10-30: 11 new games (cumulative 102)
+  [2024-10-31T16:00:00Z] status=200 remaining=64974 used=35026 cost=10
+  2024-10-31: 4 new games (cumulative 106)
+  [2024-11-01T16:00:00Z] status=200 remaining=64964 used=35036 cost=10
+  2024-11-01: 9 new games (cumulative 115)
+  [2024-11-02T16:00:00Z] status=200 remaining=64954 used=35046 cost=10
+  2024-11-02: 9 new games (cumulative 124)
+  [2024-11-03T16:00:00Z] status=200 remaining=64944 used=35056 cost=10
+  2024-11-03: 3 new games (cumulative 127)
+  [2024-11-04T16:00:00Z] status=200 remaining=64934 used=35066 cost=10
+  2024-11-04: 15 new games (cumulative 142)
+  [2024-11-05T16:00:00Z] status=200 remaining=64924 used=35076 cost=10
+  2024-11-05: 15 new games (cumulative 157)
+  [2024-11-06T16:00:00Z] status=200 remaining=64914 used=35086 cost=10
+  2024-11-06: 0 new games (cumulative 157)
+  [2024-11-07T16:00:00Z] status=200 remaining=64904 used=35096 cost=10
+  2024-11-07: 0 new games (cumulative 157)
+  [2024-11-08T16:00:00Z] status=200 remaining=64894 used=35106 cost=10
+  2024-11-08: 13 new games (cumulative 170)
+  [2024-11-09T16:00:00Z] status=200 remaining=64884 used=35116 cost=10
+  2024-11-09: 4 new games (cumulative 177)
+  [2024-11-10T16:00:00Z] status=200 remaining=64874 used=35126 cost=10
+  2024-11-10: 8 new games (cumulative 185)
+  [2024-11-11T16:00:00Z] status=200 remaining=64864 used=35136 cost=10
+  2024-11-11: 5 new games (cumulative 190)
+  [2024-11-12T16:00:00Z] status=200 remaining=64854 used=35146 cost=10
+  2024-11-12: 0 new games (cumulative 190)
+  [2024-11-13T16:00:00Z] status=200 remaining=64844 used=35156 cost=10
+  2024-11-13: 11 new games (cumulative 201)
+  [2024-11-14T16:00:00Z] status=200 remaining=64834 used=35166 cost=10
+  2024-11-14: 1 new games (cumulative 202)
+  [2024-11-15T16:00:00Z] status=200 remaining=64824 used=35176 cost=10
+  2024-11-15: 0 new games (cumulative 202)
+  [2024-11-16T16:00:00Z] status=200 remaining=64814 used=35186 cost=10
+  2024-11-16: 5 new games (cumulative 207)
+  [2024-11-17T16:00:00Z] status=200 remaining=64804 used=35196 cost=10
+  2024-11-17: 14 new games (cumulative 221)
+  [2024-11-18T16:00:00Z] status=200 remaining=64794 used=35206 cost=10
+  2024-11-18: 10 new games (cumulative 231)
+  [2024-11-19T16:00:00Z] status=200 remaining=64784 used=35216 cost=10
+  2024-11-19: 0 new games (cumulative 231)
+  [2024-11-20T16:00:00Z] status=200 remaining=64774 used=35226 cost=10
+  2024-11-20: 14 new games (cumulative 245)
+  [2024-11-21T16:00:00Z] status=200 remaining=64764 used=35236 cost=10
+  2024-11-21: 4 new games (cumulative 249)
+  [2024-11-22T16:00:00Z] status=200 remaining=64754 used=35246 cost=10
+  2024-11-22: 2 new games (cumulative 256)
+  [2024-11-23T16:00:00Z] status=200 remaining=64744 used=35256 cost=10
+  2024-11-23: 7 new games (cumulative 263)
+  [2024-11-24T16:00:00Z] status=200 remaining=64734 used=35266 cost=10
+  2024-11-24: 6 new games (cumulative 269)
+  [2024-11-25T16:00:00Z] status=200 remaining=64724 used=35276 cost=10
+  2024-11-25: 9 new games (cumulative 278)
+  [2024-11-26T16:00:00Z] status=200 remaining=64714 used=35286 cost=10
+  2024-11-26: 0 new games (cumulative 278)
+  [2024-11-27T16:00:00Z] status=200 remaining=64704 used=35296 cost=10
+  2024-11-27: 14 new games (cumulative 292)
+  [2024-11-28T16:00:00Z] status=200 remaining=64694 used=35306 cost=10
+  2024-11-28: 10 new games (cumulative 302)
+  [2024-11-29T16:00:00Z] status=200 remaining=64684 used=35316 cost=10
+  2024-11-29: 0 new games (cumulative 302)
+  [2024-11-30T16:00:00Z] status=200 remaining=64674 used=35326 cost=10
+  2024-11-30: 5 new games (cumulative 307)
+  [2024-12-01T16:00:00Z] status=200 remaining=64664 used=35336 cost=10
+  2024-12-01: 21 new games (cumulative 328)
+  [2024-12-02T16:00:00Z] status=200 remaining=64654 used=35346 cost=10
+  2024-12-02: 4 new games (cumulative 332)
+  [2024-12-03T16:00:00Z] status=200 remaining=64644 used=35356 cost=10
+  2024-12-03: 0 new games (cumulative 332)
+  [2024-12-04T16:00:00Z] status=200 remaining=64634 used=35366 cost=10
+  2024-12-04: 10 new games (cumulative 342)
+  [2024-12-05T16:00:00Z] status=200 remaining=64624 used=35376 cost=10
+  2024-12-05: 8 new games (cumulative 350)
+  [2024-12-06T16:00:00Z] status=200 remaining=64614 used=35386 cost=10
+  2024-12-06: 7 new games (cumulative 357)
+  [2024-12-07T16:00:00Z] status=200 remaining=64604 used=35396 cost=10
+  2024-12-07: 7 new games (cumulative 364)
+  [2024-12-08T16:00:00Z] status=200 remaining=64594 used=35406 cost=10
+  2024-12-08: 12 new games (cumulative 376)
+  [2024-12-09T16:00:00Z] status=200 remaining=64584 used=35416 cost=10
+  2024-12-09: 1 new games (cumulative 377)
+  [2024-12-10T16:00:00Z] status=200 remaining=64574 used=35426 cost=10
+  2024-12-10: 3 new games (cumulative 380)
+  [2024-12-11T16:00:00Z] status=200 remaining=64564 used=35436 cost=10
+  2024-12-11: 0 new games (cumulative 380)
+  [2024-12-12T16:00:00Z] status=200 remaining=64554 used=35446 cost=10
+  2024-12-12: 10 new games (cumulative 390)
+  [2024-12-13T16:00:00Z] status=200 remaining=64544 used=35456 cost=10
+  2024-12-13: 0 new games (cumulative 390)
+  [2024-12-14T16:00:00Z] status=200 remaining=64534 used=35466 cost=10
+  2024-12-14: 7 new games (cumulative 397)
+  [2024-12-15T16:00:00Z] status=200 remaining=64524 used=35476 cost=10
+  2024-12-15: 1 new games (cumulative 398)
+  [2024-12-16T16:00:00Z] status=200 remaining=64514 used=35486 cost=10
+  2024-12-16: 6 new games (cumulative 404)
+  [2024-12-17T16:00:00Z] status=200 remaining=64504 used=35496 cost=10
+  2024-12-17: 13 new games (cumulative 417)
+  [2024-12-18T16:00:00Z] status=200 remaining=64494 used=35506 cost=10
+  2024-12-18: 0 new games (cumulative 417)
+  [2024-12-19T16:00:00Z] status=200 remaining=64484 used=35516 cost=10
+  2024-12-19: 0 new games (cumulative 417)
+  [2024-12-20T16:00:00Z] status=200 remaining=64474 used=35526 cost=10
+  2024-12-20: 3 new games (cumulative 420)
+  [2024-12-21T16:00:00Z] status=200 remaining=64464 used=35536 cost=10
+  2024-12-21: 12 new games (cumulative 432)
+  [2024-12-22T16:00:00Z] status=200 remaining=64454 used=35546 cost=10
+  2024-12-22: 3 new games (cumulative 435)
+  [2024-12-23T16:00:00Z] status=200 remaining=64444 used=35556 cost=10
+  2024-12-23: 14 new games (cumulative 449)
+  [2024-12-24T16:00:00Z] status=200 remaining=64434 used=35566 cost=10
+  2024-12-24: 0 new games (cumulative 449)
+  [2024-12-25T16:00:00Z] status=200 remaining=64424 used=35576 cost=10
+  2024-12-25: 9 new games (cumulative 458)
+  [2024-12-26T16:00:00Z] status=200 remaining=64414 used=35586 cost=10
+  2024-12-26: 0 new games (cumulative 458)
+  [2024-12-27T16:00:00Z] status=200 remaining=64404 used=35596 cost=10
+  2024-12-27: 8 new games (cumulative 466)
+  [2024-12-28T16:00:00Z] status=200 remaining=64394 used=35606 cost=10
+  2024-12-28: 9 new games (cumulative 475)
+  [2024-12-29T16:00:00Z] status=200 remaining=64384 used=35616 cost=10
+  2024-12-29: 6 new games (cumulative 481)
+  [2024-12-30T16:00:00Z] status=200 remaining=64374 used=35626 cost=10
+  2024-12-30: 7 new games (cumulative 488)
+  [2024-12-31T16:00:00Z] status=200 remaining=64364 used=35636 cost=10
+  2024-12-31: 6 new games (cumulative 494)
+  [2025-01-01T16:00:00Z] status=200 remaining=64354 used=35646 cost=10
+  2025-01-01: 8 new games (cumulative 502)
+  [2025-01-02T16:00:00Z] status=200 remaining=64344 used=35656 cost=10
+  2025-01-02: 6 new games (cumulative 508)
+  [2025-01-03T16:00:00Z] status=200 remaining=64334 used=35666 cost=10
+  2025-01-03: 9 new games (cumulative 517)
+  [2025-01-04T16:00:00Z] status=200 remaining=64324 used=35676 cost=10
+  2025-01-04: 9 new games (cumulative 526)
+  [2025-01-05T16:00:00Z] status=200 remaining=64314 used=35686 cost=10
+  2025-01-05: 6 new games (cumulative 532)
+  [2025-01-06T16:00:00Z] status=200 remaining=64304 used=35696 cost=10
+  2025-01-06: 9 new games (cumulative 541)
+  [2025-01-07T16:00:00Z] status=200 remaining=64294 used=35706 cost=10
+  2025-01-07: 8 new games (cumulative 549)
+  [2025-01-08T16:00:00Z] status=200 remaining=64284 used=35716 cost=10
+  2025-01-08: 7 new games (cumulative 556)
+  [2025-01-09T16:00:00Z] status=200 remaining=64274 used=35726 cost=10
+  2025-01-09: 8 new games (cumulative 564)
+  [2025-01-10T16:00:00Z] status=200 remaining=64264 used=35736 cost=10
+  2025-01-10: 7 new games (cumulative 571)
+  [2025-01-11T16:00:00Z] status=200 remaining=64254 used=35746 cost=10
+  2025-01-11: 4 new games (cumulative 575)
+  [2025-01-12T16:00:00Z] status=200 remaining=64244 used=35756 cost=10
+  2025-01-12: 9 new games (cumulative 584)
+  [2025-01-13T16:00:00Z] status=200 remaining=64234 used=35766 cost=10
+  2025-01-13: 6 new games (cumulative 590)
+  [2025-01-14T16:00:00Z] status=200 remaining=64224 used=35776 cost=10
+  2025-01-14: 7 new games (cumulative 597)
+  [2025-01-15T16:00:00Z] status=200 remaining=64214 used=35786 cost=10
+  2025-01-15: 11 new games (cumulative 608)
+  [2025-01-16T16:00:00Z] status=200 remaining=64204 used=35796 cost=10
+  2025-01-16: 5 new games (cumulative 613)
+  [2025-01-17T16:00:00Z] status=200 remaining=64194 used=35806 cost=10
+  2025-01-17: 9 new games (cumulative 622)
+  [2025-01-18T16:00:00Z] status=200 remaining=64184 used=35816 cost=10
+  2025-01-18: 6 new games (cumulative 628)
+  [2025-01-19T16:00:00Z] status=200 remaining=64174 used=35826 cost=10
+  2025-01-19: 7 new games (cumulative 635)
+  [2025-01-20T16:00:00Z] status=200 remaining=64164 used=35836 cost=10
+  2025-01-20: 1 new games (cumulative 636)
+  [2025-01-21T16:00:00Z] status=200 remaining=64154 used=35846 cost=10
+  2025-01-21: 5 new games (cumulative 641)
+  [2025-01-22T16:00:00Z] status=200 remaining=64144 used=35856 cost=10
+  2025-01-22: 9 new games (cumulative 650)
+  [2025-01-23T16:00:00Z] status=200 remaining=64134 used=35866 cost=10
+  2025-01-23: 8 new games (cumulative 658)
+  [2025-01-24T16:00:00Z] status=200 remaining=64124 used=35876 cost=10
+  2025-01-24: 3 new games (cumulative 661)
+  [2025-01-25T16:00:00Z] status=200 remaining=64114 used=35886 cost=10
+  2025-01-25: 13 new games (cumulative 674)
+  [2025-01-26T16:00:00Z] status=200 remaining=64104 used=35896 cost=10
+  2025-01-26: 7 new games (cumulative 681)
+  [2025-01-27T16:00:00Z] status=200 remaining=64094 used=35906 cost=10
+  2025-01-27: 6 new games (cumulative 687)
+  [2025-01-28T16:00:00Z] status=200 remaining=64084 used=35916 cost=10
+  2025-01-28: 4 new games (cumulative 691)
+  [2025-01-29T16:00:00Z] status=200 remaining=64074 used=35926 cost=10
+  2025-01-29: 11 new games (cumulative 702)
+  [2025-01-30T16:00:00Z] status=200 remaining=64064 used=35936 cost=10
+  2025-01-30: 5 new games (cumulative 707)
+  [2025-01-31T16:00:00Z] status=200 remaining=64054 used=35946 cost=10
+  2025-01-31: 7 new games (cumulative 714)
+  [2025-02-01T16:00:00Z] status=200 remaining=64044 used=35956 cost=10
+  2025-02-01: 9 new games (cumulative 723)
+  [2025-02-02T16:00:00Z] status=200 remaining=64034 used=35966 cost=10
+  2025-02-02: 6 new games (cumulative 729)
+  [2025-02-03T16:00:00Z] status=200 remaining=64024 used=35976 cost=10
+  2025-02-03: 11 new games (cumulative 740)
+  [2025-02-04T16:00:00Z] status=200 remaining=64014 used=35986 cost=10
+  2025-02-04: 7 new games (cumulative 747)
+  [2025-02-05T16:00:00Z] status=200 remaining=64004 used=35996 cost=10
+  2025-02-05: 11 new games (cumulative 758)
+  [2025-02-06T16:00:00Z] status=200 remaining=63994 used=36006 cost=10
+  2025-02-06: 7 new games (cumulative 765)
+  [2025-02-07T16:00:00Z] status=200 remaining=63984 used=36016 cost=10
+  2025-02-07: 7 new games (cumulative 772)
+  [2025-02-08T16:00:00Z] status=200 remaining=63974 used=36026 cost=10
+  2025-02-08: 11 new games (cumulative 783)
+  [2025-02-09T16:00:00Z] status=200 remaining=63964 used=36036 cost=10
+  2025-02-09: 3 new games (cumulative 786)
+  [2025-02-10T16:00:00Z] status=200 remaining=63954 used=36046 cost=10
+  2025-02-10: 10 new games (cumulative 796)
+  [2025-02-11T16:00:00Z] status=200 remaining=63944 used=36056 cost=10
+  2025-02-11: 4 new games (cumulative 800)
+  [2025-02-12T16:00:00Z] status=200 remaining=63934 used=36066 cost=10
+  2025-02-12: 15 new games (cumulative 815)
+  [2025-02-13T16:00:00Z] status=200 remaining=63924 used=36076 cost=10
+  2025-02-13: 5 new games (cumulative 820)
+  [2025-02-14T16:00:00Z] status=200 remaining=63914 used=36086 cost=10
+  2025-02-14: 1 new games (cumulative 821)
+  [2025-02-15T16:00:00Z] status=200 remaining=63904 used=36096 cost=10
+  2025-02-15: 9 new games (cumulative 830)
+  [2025-02-16T16:00:00Z] status=200 remaining=63894 used=36106 cost=10
+  2025-02-16: 0 new games (cumulative 830)
+  [2025-02-17T16:00:00Z] status=200 remaining=63884 used=36116 cost=10
+  2025-02-17: 0 new games (cumulative 830)
+  [2025-02-18T16:00:00Z] status=200 remaining=63874 used=36126 cost=10
+  2025-02-18: 0 new games (cumulative 830)
+  [2025-02-19T16:00:00Z] status=200 remaining=63864 used=36136 cost=10
+  2025-02-19: 0 new games (cumulative 830)
+  [2025-02-20T16:00:00Z] status=200 remaining=63854 used=36146 cost=10
+  2025-02-20: 0 new games (cumulative 830)
+  [2025-02-21T16:00:00Z] status=200 remaining=63844 used=36156 cost=10
+  2025-02-21: 9 new games (cumulative 839)
+  [2025-02-22T16:00:00Z] status=200 remaining=63834 used=36166 cost=10
+  2025-02-22: 5 new games (cumulative 844)
+  [2025-02-23T16:00:00Z] status=200 remaining=63824 used=36176 cost=10
+  2025-02-23: 10 new games (cumulative 854)
+  [2025-02-24T16:00:00Z] status=200 remaining=63814 used=36186 cost=10
+  2025-02-24: 8 new games (cumulative 862)
+  [2025-02-25T16:00:00Z] status=200 remaining=63804 used=36196 cost=10
+  2025-02-25: 6 new games (cumulative 868)
+  [2025-02-26T16:00:00Z] status=200 remaining=63794 used=36206 cost=10
+  2025-02-26: 9 new games (cumulative 877)
+  [2025-02-27T16:00:00Z] status=200 remaining=63784 used=36216 cost=10
+  2025-02-27: 5 new games (cumulative 882)
+  [2025-02-28T16:00:00Z] status=200 remaining=63774 used=36226 cost=10
+  2025-02-28: 10 new games (cumulative 892)
+  [2025-03-01T16:00:00Z] status=200 remaining=63764 used=36236 cost=10
+  2025-03-01: 6 new games (cumulative 898)
+  [2025-03-02T16:00:00Z] status=200 remaining=63754 used=36246 cost=10
+  2025-03-02: 9 new games (cumulative 907)
+  [2025-03-03T16:00:00Z] status=200 remaining=63744 used=36256 cost=10
+  2025-03-03: 7 new games (cumulative 914)
+  [2025-03-04T16:00:00Z] status=200 remaining=63734 used=36266 cost=10
+  2025-03-04: 9 new games (cumulative 923)
+  [2025-03-05T16:00:00Z] status=200 remaining=63724 used=36276 cost=10
+  2025-03-05: 8 new games (cumulative 931)
+  [2025-03-06T16:00:00Z] status=200 remaining=63714 used=36286 cost=10
+  2025-03-06: 6 new games (cumulative 937)
+  [2025-03-07T16:00:00Z] status=200 remaining=63704 used=36296 cost=10
+  2025-03-07: 7 new games (cumulative 944)
+  [2025-03-08T16:00:00Z] status=200 remaining=63694 used=36306 cost=10
+  2025-03-08: 8 new games (cumulative 952)
+  [2025-03-09T16:00:00Z] status=200 remaining=63684 used=36316 cost=10
+  2025-03-09: 8 new games (cumulative 960)
+  [2025-03-10T16:00:00Z] status=200 remaining=63674 used=36326 cost=10
+  2025-03-10: 12 new games (cumulative 972)
+  [2025-03-11T16:00:00Z] status=200 remaining=63664 used=36336 cost=10
+  2025-03-11: 4 new games (cumulative 977)
+  [2025-03-12T16:00:00Z] status=200 remaining=63654 used=36346 cost=10
+  2025-03-12: 9 new games (cumulative 986)
+  [2025-03-13T16:00:00Z] status=200 remaining=63644 used=36356 cost=10
+  2025-03-13: 4 new games (cumulative 990)
+  [2025-03-14T16:00:00Z] status=200 remaining=63634 used=36366 cost=10
+  2025-03-14: 10 new games (cumulative 1000)
+  [2025-03-15T16:00:00Z] status=200 remaining=63624 used=36376 cost=10
+  2025-03-15: 8 new games (cumulative 1008)
+  [2025-03-16T16:00:00Z] status=200 remaining=63614 used=36386 cost=10
+  2025-03-16: 8 new games (cumulative 1016)
+  [2025-03-17T16:00:00Z] status=200 remaining=63604 used=36396 cost=10
+  2025-03-17: 10 new games (cumulative 1026)
+  [2025-03-18T16:00:00Z] status=200 remaining=63594 used=36406 cost=10
+  2025-03-18: 4 new games (cumulative 1030)
+  [2025-03-19T16:00:00Z] status=200 remaining=63584 used=36416 cost=10
+  2025-03-19: 11 new games (cumulative 1041)
+  [2025-03-20T16:00:00Z] status=200 remaining=63574 used=36426 cost=10
+  2025-03-20: 5 new games (cumulative 1046)
+  [2025-03-21T16:00:00Z] status=200 remaining=63564 used=36436 cost=10
+  2025-03-21: 10 new games (cumulative 1056)
+  [2025-03-22T16:00:00Z] status=200 remaining=63554 used=36446 cost=10
+  2025-03-22: 5 new games (cumulative 1061)
+  [2025-03-23T16:00:00Z] status=200 remaining=63544 used=36456 cost=10
+  2025-03-23: 8 new games (cumulative 1069)
+  [2025-03-24T16:00:00Z] status=200 remaining=63534 used=36466 cost=10
+  2025-03-24: 8 new games (cumulative 1077)
+  [2025-03-25T16:00:00Z] status=200 remaining=63524 used=36476 cost=10
+  2025-03-25: 7 new games (cumulative 1084)
+  [2025-03-26T16:00:00Z] status=200 remaining=63514 used=36486 cost=10
+  2025-03-26: 6 new games (cumulative 1090)
+  [2025-03-27T16:00:00Z] status=200 remaining=63504 used=36496 cost=10
+  2025-03-27: 8 new games (cumulative 1098)
+  [2025-03-28T16:00:00Z] status=200 remaining=63494 used=36506 cost=10
+  2025-03-28: 7 new games (cumulative 1105)
+  [2025-03-29T16:00:00Z] status=200 remaining=63484 used=36516 cost=10
+  2025-03-29: 7 new games (cumulative 1112)
+  [2025-03-30T16:00:00Z] status=200 remaining=63474 used=36526 cost=10
+  2025-03-30: 8 new games (cumulative 1120)
+  [2025-03-31T16:00:00Z] status=200 remaining=63464 used=36536 cost=10
+  2025-03-31: 8 new games (cumulative 1128)
+  [2025-04-01T16:00:00Z] status=200 remaining=63454 used=36546 cost=10
+  2025-04-01: 7 new games (cumulative 1135)
+  [2025-04-02T16:00:00Z] status=200 remaining=63444 used=36556 cost=10
+  2025-04-02: 9 new games (cumulative 1144)
+  [2025-04-03T16:00:00Z] status=200 remaining=63434 used=36566 cost=10
+  2025-04-03: 6 new games (cumulative 1150)
+  [2025-04-04T16:00:00Z] status=200 remaining=63424 used=36576 cost=10
+  2025-04-04: 10 new games (cumulative 1160)
+  [2025-04-05T16:00:00Z] status=200 remaining=63414 used=36586 cost=10
+  2025-04-05: 5 new games (cumulative 1165)
+  [2025-04-06T16:00:00Z] status=200 remaining=63404 used=36596 cost=10
+  2025-04-06: 11 new games (cumulative 1176)
+  [2025-04-07T16:00:00Z] status=200 remaining=63394 used=36606 cost=10
+  2025-04-07: 6 new games (cumulative 1182)
+  [2025-04-08T16:00:00Z] status=200 remaining=63384 used=36616 cost=10
+  2025-04-08: 7 new games (cumulative 1189)
+  [2025-04-09T16:00:00Z] status=200 remaining=63374 used=36626 cost=10
+  2025-04-09: 9 new games (cumulative 1198)
+  [2025-04-10T16:00:00Z] status=200 remaining=63364 used=36636 cost=10
+  2025-04-10: 5 new games (cumulative 1203)
+  [2025-04-11T16:00:00Z] status=200 remaining=63354 used=36646 cost=10
+  2025-04-11: 15 new games (cumulative 1218)
+  [2025-04-12T16:00:00Z] status=200 remaining=63344 used=36656 cost=10
+  2025-04-12: 2 new games (cumulative 1220)
+  [2025-04-13T16:00:00Z] status=200 remaining=63334 used=36666 cost=10
+  2025-04-13: 13 new games (cumulative 1233)
+
+Saved 4,697 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/historical_game_totals_odds.csv
+Snapshots: 174 | est credits this run: ~1740
+  [2025-10-21T16:00:00Z] status=200 remaining=63324 used=36676 cost=10
+  2025-10-21: 42 new games (cumulative 42)
+  [2025-10-22T16:00:00Z] status=200 remaining=63314 used=36686 cost=10
+  2025-10-22: 0 new games (cumulative 42)
+  [2025-10-23T16:00:00Z] status=200 remaining=63304 used=36696 cost=10
+  2025-10-23: 11 new games (cumulative 53)
+  [2025-10-24T16:00:00Z] status=200 remaining=63294 used=36706 cost=10
+  2025-10-24: 0 new games (cumulative 53)
+  [2025-10-25T16:00:00Z] status=200 remaining=63284 used=36716 cost=10
+  2025-10-25: 5 new games (cumulative 58)
+  [2025-10-26T16:00:00Z] status=200 remaining=63274 used=36726 cost=10
+  2025-10-26: 9 new games (cumulative 67)
+  [2025-10-27T16:00:00Z] status=200 remaining=63264 used=36736 cost=10
+  2025-10-27: 9 new games (cumulative 76)
+  [2025-10-28T16:00:00Z] status=200 remaining=63254 used=36746 cost=10
+  2025-10-28: 5 new games (cumulative 81)
+  [2025-10-29T16:00:00Z] status=200 remaining=63244 used=36756 cost=10
+  2025-10-29: 10 new games (cumulative 91)
+  [2025-10-30T16:00:00Z] status=200 remaining=63234 used=36766 cost=10
+  2025-10-30: 11 new games (cumulative 102)
+  [2025-10-31T16:00:00Z] status=200 remaining=63224 used=36776 cost=10
+  2025-10-31: 0 new games (cumulative 102)
+  [2025-11-01T16:00:00Z] status=200 remaining=63214 used=36786 cost=10
+  2025-11-01: 6 new games (cumulative 108)
+  [2025-11-02T16:00:00Z] status=200 remaining=63204 used=36796 cost=10
+  2025-11-02: 8 new games (cumulative 116)
+  [2025-11-03T16:00:00Z] status=200 remaining=63194 used=36806 cost=10
+  2025-11-03: 9 new games (cumulative 125)
+  [2025-11-04T16:00:00Z] status=200 remaining=63184 used=36816 cost=10
+  2025-11-04: 6 new games (cumulative 131)
+  [2025-11-05T16:00:00Z] status=200 remaining=63174 used=36826 cost=10
+  2025-11-05: 11 new games (cumulative 142)
+  [2025-11-06T16:00:00Z] status=200 remaining=63164 used=36836 cost=10
+  2025-11-06: 10 new games (cumulative 152)
+  [2025-11-07T16:00:00Z] status=200 remaining=63154 used=36846 cost=10
+  2025-11-07: 0 new games (cumulative 152)
+  [2025-11-08T16:00:00Z] status=200 remaining=63144 used=36856 cost=10
+  2025-11-08: 8 new games (cumulative 160)
+  [2025-11-09T16:00:00Z] status=200 remaining=63134 used=36866 cost=10
+  2025-11-09: 7 new games (cumulative 167)
+  [2025-11-10T16:00:00Z] status=200 remaining=63124 used=36876 cost=10
+  2025-11-10: 9 new games (cumulative 176)
+  [2025-11-11T16:00:00Z] status=200 remaining=63114 used=36886 cost=10
+  2025-11-11: 6 new games (cumulative 182)
+  [2025-11-12T16:00:00Z] status=200 remaining=63104 used=36896 cost=10
+  2025-11-12: 12 new games (cumulative 194)
+  [2025-11-13T16:00:00Z] status=200 remaining=63094 used=36906 cost=10
+  2025-11-13: 3 new games (cumulative 197)
+  [2025-11-14T16:00:00Z] status=200 remaining=63084 used=36916 cost=10
+  2025-11-14: 7 new games (cumulative 204)
+  [2025-11-15T16:00:00Z] status=200 remaining=63074 used=36926 cost=10
+  2025-11-15: 5 new games (cumulative 209)
+  [2025-11-16T16:00:00Z] status=200 remaining=63064 used=36936 cost=10
+  2025-11-16: 8 new games (cumulative 217)
+  [2025-11-17T16:00:00Z] status=200 remaining=63054 used=36946 cost=10
+  2025-11-17: 8 new games (cumulative 225)
+  [2025-11-18T16:00:00Z] status=200 remaining=63044 used=36956 cost=10
+  2025-11-18: 6 new games (cumulative 231)
+  [2025-11-19T16:00:00Z] status=200 remaining=63034 used=36966 cost=10
+  2025-11-19: 9 new games (cumulative 240)
+  [2025-11-20T16:00:00Z] status=200 remaining=63024 used=36976 cost=10
+  2025-11-20: 5 new games (cumulative 245)
+  [2025-11-21T16:00:00Z] status=200 remaining=63014 used=36986 cost=10
+  2025-11-21: 6 new games (cumulative 251)
+  [2025-11-22T16:00:00Z] status=200 remaining=63004 used=36996 cost=10
+  2025-11-22: 7 new games (cumulative 258)
+  [2025-11-23T16:00:00Z] status=200 remaining=62994 used=37006 cost=10
+  2025-11-23: 8 new games (cumulative 266)
+  [2025-11-24T16:00:00Z] status=200 remaining=62984 used=37016 cost=10
+  2025-11-24: 10 new games (cumulative 276)
+  [2025-11-25T16:00:00Z] status=200 remaining=62974 used=37026 cost=10
+  2025-11-25: 3 new games (cumulative 279)
+  [2025-11-26T16:00:00Z] status=200 remaining=62964 used=37036 cost=10
+  2025-11-26: 4 new games (cumulative 283)
+  [2025-11-27T16:00:00Z] status=200 remaining=62954 used=37046 cost=10
+  2025-11-27: 9 new games (cumulative 292)
+  [2025-11-28T16:00:00Z] status=200 remaining=62944 used=37056 cost=10
+  2025-11-28: 0 new games (cumulative 292)
+  [2025-11-29T16:00:00Z] status=200 remaining=62934 used=37066 cost=10
+  2025-11-29: 12 new games (cumulative 304)
+  [2025-11-30T16:00:00Z] status=200 remaining=62924 used=37076 cost=10
+  2025-11-30: 8 new games (cumulative 312)
+  [2025-12-01T16:00:00Z] status=200 remaining=62914 used=37086 cost=10
+  2025-12-01: 9 new games (cumulative 321)
+  [2025-12-02T16:00:00Z] status=200 remaining=62904 used=37096 cost=10
+  2025-12-02: 6 new games (cumulative 327)
+  [2025-12-03T16:00:00Z] status=200 remaining=62894 used=37106 cost=10
+  2025-12-03: 9 new games (cumulative 336)
+  [2025-12-04T16:00:00Z] status=200 remaining=62884 used=37116 cost=10
+  2025-12-04: 5 new games (cumulative 341)
+  [2025-12-05T16:00:00Z] status=200 remaining=62874 used=37126 cost=10
+  2025-12-05: 12 new games (cumulative 353)
+  [2025-12-06T16:00:00Z] status=200 remaining=62864 used=37136 cost=10
+  2025-12-06: 7 new games (cumulative 360)
+  [2025-12-07T16:00:00Z] status=200 remaining=62854 used=37146 cost=10
+  2025-12-07: 7 new games (cumulative 367)
+  [2025-12-08T16:00:00Z] status=200 remaining=62844 used=37156 cost=10
+  2025-12-08: 3 new games (cumulative 370)
+  [2025-12-09T16:00:00Z] status=200 remaining=62834 used=37166 cost=10
+  2025-12-09: 0 new games (cumulative 370)
+  [2025-12-10T16:00:00Z] status=200 remaining=62824 used=37176 cost=10
+  2025-12-10: 5 new games (cumulative 375)
+  [2025-12-11T16:00:00Z] status=200 remaining=62814 used=37186 cost=10
+  2025-12-11: 8 new games (cumulative 383)
+  [2025-12-12T16:00:00Z] status=200 remaining=62804 used=37196 cost=10
+  2025-12-12: 0 new games (cumulative 383)
+  [2025-12-13T16:00:00Z] status=200 remaining=62794 used=37206 cost=10
+  2025-12-13: 8 new games (cumulative 391)
+  [2025-12-14T16:00:00Z] status=200 remaining=62784 used=37216 cost=10
+  2025-12-14: 1 new games (cumulative 392)
+  [2025-12-15T16:00:00Z] status=200 remaining=62774 used=37226 cost=10
+  2025-12-15: 5 new games (cumulative 397)
+  [2025-12-16T16:00:00Z] status=200 remaining=62764 used=37236 cost=10
+  2025-12-16: 2 new games (cumulative 399)
+  [2025-12-17T16:00:00Z] status=200 remaining=62754 used=37246 cost=10
+  2025-12-17: 10 new games (cumulative 409)
+  [2025-12-18T16:00:00Z] status=200 remaining=62744 used=37256 cost=10
+  2025-12-18: 2 new games (cumulative 411)
+  [2025-12-19T16:00:00Z] status=200 remaining=62734 used=37266 cost=10
+  2025-12-19: 5 new games (cumulative 416)
+  [2025-12-20T16:00:00Z] status=200 remaining=62724 used=37276 cost=10
+  2025-12-20: 10 new games (cumulative 426)
+  [2025-12-21T16:00:00Z] status=200 remaining=62714 used=37286 cost=10
+  2025-12-21: 6 new games (cumulative 432)
+  [2025-12-22T16:00:00Z] status=200 remaining=62704 used=37296 cost=10
+  2025-12-22: 7 new games (cumulative 439)
+  [2025-12-23T16:00:00Z] status=200 remaining=62694 used=37306 cost=10
+  2025-12-23: 14 new games (cumulative 453)
+  [2025-12-24T16:00:00Z] status=200 remaining=62684 used=37316 cost=10
+  2025-12-24: 0 new games (cumulative 453)
+  [2025-12-25T16:00:00Z] status=200 remaining=62674 used=37326 cost=10
+  2025-12-25: 0 new games (cumulative 453)
+  [2025-12-26T16:00:00Z] status=200 remaining=62664 used=37336 cost=10
+  2025-12-26: 9 new games (cumulative 462)
+  [2025-12-27T16:00:00Z] status=200 remaining=62654 used=37346 cost=10
+  2025-12-27: 9 new games (cumulative 471)
+  [2025-12-28T16:00:00Z] status=200 remaining=62644 used=37356 cost=10
+  2025-12-28: 9 new games (cumulative 480)
+  [2025-12-29T16:00:00Z] status=200 remaining=62634 used=37366 cost=10
+  2025-12-29: 8 new games (cumulative 488)
+  [2025-12-30T16:00:00Z] status=200 remaining=62624 used=37376 cost=10
+  2025-12-30: 4 new games (cumulative 493)
+  [2025-12-31T16:00:00Z] status=200 remaining=62614 used=37386 cost=10
+  2025-12-31: 8 new games (cumulative 501)
+  [2026-01-01T16:00:00Z] status=200 remaining=62604 used=37396 cost=10
+  2026-01-01: 5 new games (cumulative 506)
+  [2026-01-02T16:00:00Z] status=200 remaining=62594 used=37406 cost=10
+  2026-01-02: 10 new games (cumulative 516)
+  [2026-01-03T16:00:00Z] status=200 remaining=62584 used=37416 cost=10
+  2026-01-03: 8 new games (cumulative 524)
+  [2026-01-04T16:00:00Z] status=200 remaining=62574 used=37426 cost=10
+  2026-01-04: 8 new games (cumulative 532)
+  [2026-01-05T16:00:00Z] status=200 remaining=62564 used=37436 cost=10
+  2026-01-05: 8 new games (cumulative 540)
+  [2026-01-06T16:00:00Z] status=200 remaining=62554 used=37446 cost=10
+  2026-01-06: 6 new games (cumulative 546)
+  [2026-01-07T16:00:00Z] status=200 remaining=62544 used=37456 cost=10
+  2026-01-07: 12 new games (cumulative 558)
+  [2026-01-08T16:00:00Z] status=200 remaining=62534 used=37466 cost=10
+  2026-01-08: 4 new games (cumulative 562)
+  [2026-01-09T16:00:00Z] status=200 remaining=62524 used=37476 cost=10
+  2026-01-09: 10 new games (cumulative 572)
+  [2026-01-10T16:00:00Z] status=200 remaining=62514 used=37486 cost=10
+  2026-01-10: 6 new games (cumulative 578)
+  [2026-01-11T16:00:00Z] status=200 remaining=62504 used=37496 cost=10
+  2026-01-11: 10 new games (cumulative 588)
+  [2026-01-12T16:00:00Z] status=200 remaining=62494 used=37506 cost=10
+  2026-01-12: 6 new games (cumulative 594)
+  [2026-01-13T16:00:00Z] status=200 remaining=62484 used=37516 cost=10
+  2026-01-13: 7 new games (cumulative 601)
+  [2026-01-14T16:00:00Z] status=200 remaining=62474 used=37526 cost=10
+  2026-01-14: 7 new games (cumulative 608)
+  [2026-01-15T16:00:00Z] status=200 remaining=62464 used=37536 cost=10
+  2026-01-15: 9 new games (cumulative 617)
+  [2026-01-16T16:00:00Z] status=200 remaining=62454 used=37546 cost=10
+  2026-01-16: 7 new games (cumulative 624)
+  [2026-01-17T16:00:00Z] status=200 remaining=62444 used=37556 cost=10
+  2026-01-17: 9 new games (cumulative 633)
+  [2026-01-18T16:00:00Z] status=200 remaining=62434 used=37566 cost=10
+  2026-01-18: 5 new games (cumulative 638)
+  [2026-01-19T16:00:00Z] status=200 remaining=62424 used=37576 cost=10
+  2026-01-19: 5 new games (cumulative 643)
+  [2026-01-20T16:00:00Z] status=200 remaining=62414 used=37586 cost=10
+  2026-01-20: 7 new games (cumulative 650)
+  [2026-01-21T16:00:00Z] status=200 remaining=62404 used=37596 cost=10
+  2026-01-21: 7 new games (cumulative 657)
+  [2026-01-22T16:00:00Z] status=200 remaining=62394 used=37606 cost=10
+  2026-01-22: 8 new games (cumulative 665)
+  [2026-01-23T16:00:00Z] status=200 remaining=62384 used=37616 cost=10
+  2026-01-23: 8 new games (cumulative 673)
+  [2026-01-24T16:00:00Z] status=200 remaining=62374 used=37626 cost=10
+  2026-01-24: 7 new games (cumulative 680)
+  [2026-01-25T16:00:00Z] status=200 remaining=62364 used=37636 cost=10
+  2026-01-25: 8 new games (cumulative 688)
+  [2026-01-26T16:00:00Z] status=200 remaining=62354 used=37646 cost=10
+  2026-01-26: 7 new games (cumulative 695)
+  [2026-01-27T16:00:00Z] status=200 remaining=62344 used=37656 cost=10
+  2026-01-27: 7 new games (cumulative 702)
+  [2026-01-28T16:00:00Z] status=200 remaining=62334 used=37666 cost=10
+  2026-01-28: 9 new games (cumulative 711)
+  [2026-01-29T16:00:00Z] status=200 remaining=62324 used=37676 cost=10
+  2026-01-29: 8 new games (cumulative 719)
+  [2026-01-30T16:00:00Z] status=200 remaining=62314 used=37686 cost=10
+  2026-01-30: 9 new games (cumulative 728)
+  [2026-01-31T16:00:00Z] status=200 remaining=62304 used=37696 cost=10
+  2026-01-31: 6 new games (cumulative 734)
+  [2026-02-01T16:00:00Z] status=200 remaining=62294 used=37706 cost=10
+  2026-02-01: 10 new games (cumulative 744)
+  [2026-02-02T16:00:00Z] status=200 remaining=62284 used=37716 cost=10
+  2026-02-02: 6 new games (cumulative 750)
+  [2026-02-03T16:00:00Z] status=200 remaining=62274 used=37726 cost=10
+  2026-02-03: 8 new games (cumulative 758)
+  [2026-02-04T16:00:00Z] status=200 remaining=62264 used=37736 cost=10
+  2026-02-04: 7 new games (cumulative 765)
+  [2026-02-05T16:00:00Z] status=200 remaining=62254 used=37746 cost=10
+  2026-02-05: 8 new games (cumulative 773)
+  [2026-02-06T16:00:00Z] status=200 remaining=62244 used=37756 cost=10
+  2026-02-06: 6 new games (cumulative 779)
+  [2026-02-07T16:00:00Z] status=200 remaining=62234 used=37766 cost=10
+  2026-02-07: 10 new games (cumulative 789)
+  [2026-02-08T16:00:00Z] status=200 remaining=62224 used=37776 cost=10
+  2026-02-08: 4 new games (cumulative 793)
+  [2026-02-09T16:00:00Z] status=200 remaining=62214 used=37786 cost=10
+  2026-02-09: 10 new games (cumulative 803)
+  [2026-02-10T16:00:00Z] status=200 remaining=62204 used=37796 cost=10
+  2026-02-10: 9 new games (cumulative 812)
+  [2026-02-11T16:00:00Z] status=200 remaining=62194 used=37806 cost=10
+  2026-02-11: 9 new games (cumulative 821)
+  [2026-02-12T16:00:00Z] status=200 remaining=62184 used=37816 cost=10
+  2026-02-12: 3 new games (cumulative 824)
+  [2026-02-13T16:00:00Z] status=200 remaining=62174 used=37826 cost=10
+  2026-02-13: 0 new games (cumulative 824)
+  [2026-02-14T16:00:00Z] status=200 remaining=62164 used=37836 cost=10
+  2026-02-14: 0 new games (cumulative 824)
+  [2026-02-15T16:00:00Z] status=200 remaining=62154 used=37846 cost=10
+  2026-02-15: 0 new games (cumulative 824)
+  [2026-02-16T16:00:00Z] status=200 remaining=62144 used=37856 cost=10
+  2026-02-16: 10 new games (cumulative 835)
+  [2026-02-17T16:00:00Z] status=200 remaining=62134 used=37866 cost=10
+  2026-02-17: 0 new games (cumulative 838)
+  [2026-02-18T16:00:00Z] status=200 remaining=62124 used=37876 cost=10
+  2026-02-18: 0 new games (cumulative 838)
+  [2026-02-19T16:00:00Z] status=200 remaining=62114 used=37886 cost=10
+  2026-02-19: 0 new games (cumulative 838)
+  [2026-02-20T16:00:00Z] status=200 remaining=62104 used=37896 cost=10
+  2026-02-20: 5 new games (cumulative 843)
+  [2026-02-21T16:00:00Z] status=200 remaining=62094 used=37906 cost=10
+  2026-02-21: 6 new games (cumulative 849)
+  [2026-02-22T16:00:00Z] status=200 remaining=62084 used=37916 cost=10
+  2026-02-22: 11 new games (cumulative 860)
+  [2026-02-23T16:00:00Z] status=200 remaining=62074 used=37926 cost=10
+  2026-02-23: 7 new games (cumulative 867)
+  [2026-02-24T16:00:00Z] status=200 remaining=62064 used=37936 cost=10
+  2026-02-24: 7 new games (cumulative 874)
+  [2026-02-25T16:00:00Z] status=200 remaining=62054 used=37946 cost=10
+  2026-02-25: 6 new games (cumulative 880)
+  [2026-02-26T16:00:00Z] status=200 remaining=62044 used=37956 cost=10
+  2026-02-26: 10 new games (cumulative 890)
+  [2026-02-27T16:00:00Z] status=200 remaining=62034 used=37966 cost=10
+  2026-02-27: 5 new games (cumulative 895)
+  [2026-02-28T16:00:00Z] status=200 remaining=62024 used=37976 cost=10
+  2026-02-28: 5 new games (cumulative 900)
+  [2026-03-01T16:00:00Z] status=200 remaining=62014 used=37986 cost=10
+  2026-03-01: 11 new games (cumulative 911)
+  [2026-03-02T16:00:00Z] status=200 remaining=62004 used=37996 cost=10
+  2026-03-02: 6 new games (cumulative 917)
+  [2026-03-03T16:00:00Z] status=200 remaining=61994 used=38006 cost=10
+  2026-03-03: 8 new games (cumulative 925)
+  [2026-03-04T16:00:00Z] status=200 remaining=61984 used=38016 cost=10
+  2026-03-04: 6 new games (cumulative 931)
+  [2026-03-05T16:00:00Z] status=200 remaining=61974 used=38026 cost=10
+  2026-03-05: 9 new games (cumulative 940)
+  [2026-03-06T16:00:00Z] status=200 remaining=61964 used=38036 cost=10
+  2026-03-06: 7 new games (cumulative 947)
+  [2026-03-07T16:00:00Z] status=200 remaining=61954 used=38046 cost=10
+  2026-03-07: 6 new games (cumulative 953)
+  [2026-03-08T16:00:00Z] status=200 remaining=61944 used=38056 cost=10
+  2026-03-08: 10 new games (cumulative 963)
+  [2026-03-09T16:00:00Z] status=200 remaining=61934 used=38066 cost=10
+  2026-03-09: 5 new games (cumulative 968)
+  [2026-03-10T16:00:00Z] status=200 remaining=61924 used=38076 cost=10
+  2026-03-10: 11 new games (cumulative 979)
+  [2026-03-11T16:00:00Z] status=200 remaining=61914 used=38086 cost=10
+  2026-03-11: 6 new games (cumulative 985)
+  [2026-03-12T16:00:00Z] status=200 remaining=61904 used=38096 cost=10
+  2026-03-12: 9 new games (cumulative 994)
+  [2026-03-13T16:00:00Z] status=200 remaining=61894 used=38106 cost=10
+  2026-03-13: 8 new games (cumulative 1002)
+  [2026-03-14T16:00:00Z] status=200 remaining=61884 used=38116 cost=10
+  2026-03-14: 7 new games (cumulative 1009)
+  [2026-03-15T16:00:00Z] status=200 remaining=61874 used=38126 cost=10
+  2026-03-15: 7 new games (cumulative 1016)
+  [2026-03-16T16:00:00Z] status=200 remaining=61864 used=38136 cost=10
+  2026-03-16: 8 new games (cumulative 1024)
+  [2026-03-17T16:00:00Z] status=200 remaining=61854 used=38146 cost=10
+  2026-03-17: 8 new games (cumulative 1032)
+  [2026-03-18T16:00:00Z] status=200 remaining=61844 used=38156 cost=10
+  2026-03-18: 9 new games (cumulative 1041)
+  [2026-03-19T16:00:00Z] status=200 remaining=61834 used=38166 cost=10
+  2026-03-19: 8 new games (cumulative 1049)
+  [2026-03-20T16:00:00Z] status=200 remaining=61824 used=38176 cost=10
+  2026-03-20: 7 new games (cumulative 1056)
+  [2026-03-21T16:00:00Z] status=200 remaining=61814 used=38186 cost=10
+  2026-03-21: 9 new games (cumulative 1065)
+  [2026-03-22T16:00:00Z] status=200 remaining=61804 used=38196 cost=10
+  2026-03-22: 5 new games (cumulative 1070)
+  [2026-03-23T16:00:00Z] status=200 remaining=61794 used=38206 cost=10
+  2026-03-23: 10 new games (cumulative 1080)
+  [2026-03-24T16:00:00Z] status=200 remaining=61784 used=38216 cost=10
+  2026-03-24: 6 new games (cumulative 1086)
+  [2026-03-25T16:00:00Z] status=200 remaining=61774 used=38226 cost=10
+  2026-03-25: 10 new games (cumulative 1096)
+  [2026-03-26T16:00:00Z] status=200 remaining=61764 used=38236 cost=10
+  2026-03-26: 5 new games (cumulative 1101)
+  [2026-03-27T16:00:00Z] status=200 remaining=61754 used=38246 cost=10
+  2026-03-27: 8 new games (cumulative 1109)
+  [2026-03-28T16:00:00Z] status=200 remaining=61744 used=38256 cost=10
+  2026-03-28: 7 new games (cumulative 1116)
+  [2026-03-29T16:00:00Z] status=200 remaining=61734 used=38266 cost=10
+  2026-03-29: 8 new games (cumulative 1124)
+  [2026-03-30T16:00:00Z] status=200 remaining=61724 used=38276 cost=10
+  2026-03-30: 8 new games (cumulative 1132)
+  [2026-03-31T16:00:00Z] status=200 remaining=61714 used=38286 cost=10
+  2026-03-31: 7 new games (cumulative 1139)
+  [2026-04-01T16:00:00Z] status=200 remaining=61704 used=38296 cost=10
+  2026-04-01: 9 new games (cumulative 1148)
+  [2026-04-02T16:00:00Z] status=200 remaining=61694 used=38306 cost=10
+  2026-04-02: 6 new games (cumulative 1154)
+  [2026-04-03T16:00:00Z] status=200 remaining=61684 used=38316 cost=10
+  2026-04-03: 9 new games (cumulative 1163)
+  [2026-04-04T16:00:00Z] status=200 remaining=61674 used=38326 cost=10
+  2026-04-04: 11 new games (cumulative 1174)
+  [2026-04-05T16:00:00Z] status=200 remaining=61664 used=38336 cost=10
+  2026-04-05: 6 new games (cumulative 1180)
+  [2026-04-06T16:00:00Z] status=200 remaining=61654 used=38346 cost=10
+  2026-04-06: 2 new games (cumulative 1187)
+  [2026-04-07T16:00:00Z] status=200 remaining=61644 used=38356 cost=10
+  2026-04-07: 5 new games (cumulative 1192)
+  [2026-04-08T16:00:00Z] status=200 remaining=61634 used=38366 cost=10
+  2026-04-08: 7 new games (cumulative 1199)
+  [2026-04-09T16:00:00Z] status=200 remaining=61624 used=38376 cost=10
+  2026-04-09: 6 new games (cumulative 1205)
+  [2026-04-10T16:00:00Z] status=200 remaining=61614 used=38386 cost=10
+  2026-04-10: 15 new games (cumulative 1220)
+  [2026-04-11T16:00:00Z] status=200 remaining=61604 used=38396 cost=10
+  2026-04-11: 9 new games (cumulative 1229)
+  [2026-04-12T16:00:00Z] status=200 remaining=61594 used=38406 cost=10
+  2026-04-12: 6 new games (cumulative 1235)
+
+Saved 5,922 rows to /Users/cdub/Documents/Documents - Cdub's Mac/Caltech Homework/Second Year/Bem 114/Final/BEM114_Final/data/raw/historical_game_totals_odds.csv
+Snapshots: 174 | est credits this run: ~1740
+ALL DONE Wed Jun 24 20:49:16 EDT 2026
